@@ -1,0 +1,2534 @@
+Food ID	Food name	Energy (kJ)	Protein (g)	"Fat, total (g)"	"Fat, saturated (g)"	Available carbohydrate (g)	Total sugars (g)	Sodium (mg)
+01A10053	"Beer, lager"	154	0.3	0	0	2	0.1	7
+01A10056	"Beer, reduced alcohol or light beer"	106	0.3	0	0	2.3	0.1	6
+01A10062	"Beer, alcohol free"	34	0.2	0	0	1.8	0.7	6
+01A10064	"Beer, ale"	150	0.4	0	0	1.4	0	10
+01A10065	"Beer, bitter"	155	0.3	0	0	2.2	0.3	9
+01A10066	"Beer, home-brewed"	154	0.5	0	0	2	0.2	8
+01A10068	"Beer, carbohydrate-modified"	122	0.2	0	0	0.9	0	7
+01A10069	"Beer, stout"	225	0.6	0	0	3	0.1	12
+01A10071	"Beer, reduced alcohol or light beer, home-brewed"	109	0.5	0	0	2.2	0.1	6
+01A10072	"Beer, low alcohol (less than 1% alcohol v/v)"	43	0.2	0	0	1.1	0	6
+01A10073	"Beer, draught"	132	0.3	0	0	1.9	0.2	7
+01A20023	"Wine, fortified, dry"	517	0.2	0	0	4.1	4.1	9
+01A20025	"Wine, green ginger"	364	0.2	0	0	2.6	2.6	26
+01A20072	"Wine, red"	195	0.4	0	0	0	0	11
+01A20073	"Wine, rose"	286	0.2	0	0	1.8	1.8	23
+01A20075	"Wine, red, cooked"	98	0.2	0	0	0	0	11
+01A20076	"Wine, white, dry (sugars content less than 1%)"	195	0.3	0	0	0.5	0.5	24
+01A20077	"Wine, white, medium dry (sugars content approximately 1%)"	195	0.2	0	0	1.3	1.3	24
+01A20078	"Wine, white, medium sweet (sugars content approximately 2.5%)"	278	0.2	0	0	2.6	2.6	26
+01A20081	"Wine, white, cooked"	109	0.2	0	0	1.2	1.2	24
+01A20086	"Sherry (fortified wine), dry (sugars content approximately 1%)"	437	0.1	0	0	1.2	1.2	19
+01A20087	"Sherry (fortified wine), sweet (sugars content approximately 11%)"	589	0.2	0	0	11.1	11.1	18
+01A20088	"Port (fortified wine)"	613	0.2	0	0	12.4	12.4	15
+01A20092	"Wine, red, sparkling"	331	0.2	0	0	2	2	10
+01A20097	"Wine, white, sparkling"	275	0.2	0	0	1	1	10
+01A20102	"Wine, white, reduced alcohol"	171	0.2	0	0	1.1	1.1	24
+01A20103	"Wine, red, reduced alcohol"	153	0.2	0	0	0	0	11
+01A20104	"Wine, white, sparkling, de-alcoholised"	26	0.2	0	0	1	1	10
+01A20105	"Wine & fruit juice blend (wine cooler), all flavours"	224	0.1	0	0	7.6	7.6	19
+01A20106	"Wine, white, sweet dessert"	430	0.2	0	0	10	10	26
+01A30021	"Liqueur, clear, coffee flavour"	1438	0.1	0.3	0.1	46.8	39	8
+01A30024	"Liqueur, less than 30% v/v alcohol"	1116	0.1	0.3	0	34	34	11
+01A30025	"Liqueur, greater than 30% v/v alcohol"	1586	0.1	0.3	0	41	41	5
+01A30047	"Cider, white (greater than 6% v/v alcohol)"	243	0	0	0	3.1	3.1	15
+01A30048	"Beverage, alcoholic, bitters"	898	0	0	0	0.3	0.3	2
+01A30109	Brandy	898	0	0	0	0.3	0.3	2
+01A30110	Whisky	892	0	0	0	0	0	1
+01A30113	"Rum, dark & light coloured"	887	0	0	0	0	0	2
+01A30114	Vodka	886	0	0	0	0.1	0.1	10
+01A30115	"Liqueur, cream-based, coffee flavour"	1384	2.8	15.7	10.3	20.9	20.8	92
+01A30120	"Alcoholic soda, vodka & lemonade based"	188	0	0	0	8.4	8.4	16
+01A30121	"Alcoholic soda, bourbon & cola based"	185	0	0	0	8.4	8.4	11
+01A30122	"Alcoholic soda, rum & cola based"	185	0	0	0	8.4	8.4	11
+01A30126	"Saki, rice wine"	376	0.5	0	0	0.1	0.1	2
+01A30129	Gin	899	0	0	0	0	0	1
+01A30130	Ouzo	886	0	0	0	0.1	0.1	10
+01A30133	"Liqueur, advocaat"	1040	4.2	5.8	2.7	24.4	24.4	90
+01A30135	"Liqueur, cream-based, non-coffee flavours"	1401	2.9	16.2	10	21.5	21.4	5
+01A30136	"Cider, apple, alcoholic, draught"	191	0	0	0	4.4	4.4	18
+01A30137	"Cider, apple, alcoholic, dry"	165	0	0	0	3.1	3.1	15
+01A30138	"Cider, apple, alcoholic, sweet"	229	0	0	0	6.9	6.9	22
+01B10020	"Tea, black, from instant"	3	0.1	0	0	0	0	4
+01B10061	"Beverage base, meal replacement powder, coffee flavour"	1526	19.3	1.5	1	63.1	48.7	160
+01B10162	"Tea, regular, brewed from leaf or teabags, without milk"	6	0.1	0.1	0	0	0	4
+01B10163	"Tea, herbal, without milk"	6	0.1	0.1	0	0	0	0
+01B10164	"Coffee, from ground coffee beans, long black style, without milk"	4	0.1	0	0	0.1	0.1	2
+01B10165	"Coffee, from instant coffee powder, without milk"	5	0.1	0	0	0.1	0	4
+01B10166	"Coffee, from ground coffee beans, Turkish style, added sugar, without milk"	151	1.4	0.1	0	6.6	5.5	5
+01B10168	"Coffee, instant, dry powder or granules"	628	16.1	0.6	0.2	10.1	0.1	19
+01B10172	"Cereal beverage, powder or granules"	1532	4.3	1.1	0.4	80	7.7	81
+01B10174	"Coffee & chicory essence, concentrate"	944	1.6	0.2	0.1	53.5	51.5	65
+01B10176	"Water, tap"	0	0	0	0	0	0	0
+01B10177	"Water, bottled, non-sparkling"	0	0	0	0	0	0	1
+01B10181	"Beverage base, meal replacement powder, chocolate flavour, added vitamins & minerals"	1581	21.3	2.1	1.3	63.6	49.1	230
+01B10182	"Beverage base, sports supplement powder, vanilla flavour, added vitamins & minerals"	1598	24	2	0.1	65.6	65.6	250
+01B10184	"Beverage base, chocolate flavour (e.g. Ovaltine)"	1598	7.3	1.9	1.1	81.4	47	170
+01B10186	"Beverage base, drinking chocolate"	1651	5.6	4.8	2.9	80.3	74.3	160
+01B10187	"Beverage base, chocolate flavour (Nesquik brand)"	1679	4.7	3.4	2	84.3	82.3	20
+01B10188	"Beverage base, chocolate flavour, with milk solids"	1506	18.7	3.3	2	62.2	57.5	111
+01B10189	"Beverage base, chocolate flavour, with milk solids, intense sweetened"	1505	43.6	3.3	2	37.2	32.5	176
+01B10190	Cocoa powder	1493	19.1	14.3	8.6	24.3	0.9	259
+01B10191	"Beverage base, malted milk powder"	1596	11.7	7.2	3.3	66.5	43.7	370
+01B10193	"Coffee, from ground coffee beans, espresso style, without milk"	9	0.1	0.2	0.1	0	0	14
+01B10195	"Beverage base, chocolate flavour, from drinking straw"	1604	4.1	3	1.8	80.9	48.3	57
+01B10196	"Beverage base, banana, caramel or strawberry flavour, from drinking straw"	1624	0.2	0	0	95.1	55.4	4
+01B10198	"Drink, probiotic, contains milk solids & sugar"	332	1.5	0	0	18	18	17
+01B10199	"Beverage base, caramel, honeycomb or strawberry flavour (Nesquik brand)"	1695	0	0	0	99.7	98	0
+01B10201	"Beverage base, malt flavour (e.g. Milo Malt)"	1793	11.9	9.3	6.2	72.5	45	240
+01B10203	"Beverage base, banana or vanilla flavour (Nesquik brand)"	1690	0	0	0	99.4	98	10
+01B10212	"Beverage base, sports supplement powder, chocolate flavour, added vitamins & minerals"	1598	24	2	0.1	65.6	65.6	250
+01B10219	"Beverage base, oral supplement powder, vanilla flavour, added vitamins & minerals"	1636	18.2	5.5	3.6	64.3	57.8	182
+01B10220	"Beverage base, oral supplement powder, chocolate flavour, added vitamins & minerals"	1643	18.6	5.5	3.6	64.3	57.8	182
+01B10225	"Tea, barley, without milk"	20	0.1	0	0	0.9	0	1
+01B10239	"Beverage, banana or similar flavour, from base (Nesquik brand), with water"	96	0	0	0	5.6	5.5	1
+01B10241	"Drink, probiotic, contains milk solids & sugar, reduced sugar, light style"	196	1.5	0	0	10	10	17
+01B10251	"Beverage base, chocolate flavour (e.g. Aktavite)"	1524	4.4	1.9	1.3	79.2	62.8	168
+01B10254	"Beverage, drinking chocolate, from chocolate powder, with water"	115	0.4	0.3	0.2	5.6	5.2	11
+01B10259	"Beverage, sports supplement, chocolate flavour, purchased ready to drink"	273	8	0.4	0.3	7.1	4.2	45
+01B10281	"Beverage base, chocolate flavour (e.g. Milo)"	1714	12.7	10.4	6.6	61.2	47.3	75
+01B10290	"Coffee whitener, dry powder"	2328	4.8	35.5	32.5	54.9	54.9	181
+01B20020	"Cordial base, rosehip"	731	0.1	0	0	42.9	42.8	205
+01B20029	"Fruit drink, grape"	249	0	0	0	14.6	14.6	6
+01B20030	"Fruit drink, grapefruit"	161	0.1	0	0	9.3	9.3	4
+01B20031	"Fruit drink concentrate, lemon"	683	0.7	0.2	0	39	39	14
+01B20036	"Fruit drink concentrate, orange"	644	0.5	0	0	37.2	37.2	28
+01B20053	"Fruit drink, guava nectar"	244	0.2	0.2	0	13.7	13.7	4
+01B20054	"Fruit drink, mango nectar"	245	0.4	0.1	0	13.9	13.7	3
+01B20056	"Fruit drink, passionfruit nectar"	175	1	0.1	0	9	9	9
+01B20057	"Fruit drink, peach nectar"	239	0.3	0	0	13.7	13.7	3
+01B20069	"Drink, fruit flavoured, from powdered drink base, intense sweetened"	0	0	0	0	8.9	0	21
+01B20072	"Cordial base, 40% non-citrus fruit juice, sweetened"	634	0	0	0	37.3	37.3	14
+01B20087	"Water, mineral, fruit flavours, sweetened"	158	0	0	0	9.3	9.3	15
+01B20090	"Sports drink, from concentrated liquid base, all flavours, recommended dilution"	116	0	0	0	6.8	6.8	38
+01B20215	"Fruit drink, 35% apple juice"	191	0	0	0	11.2	11.2	3
+01B20219	"Fruit drink, 35% pineapple juice"	194	0.1	0	0	11.2	11.2	0
+01B20230	"Cordial base, 25% blackcurrant fruit juice"	799	0.1	0	0	46.2	46.2	14
+01B20231	"Cordial base, 25% citrus fruit juice"	592	0	0	0	34.2	34.2	12
+01B20233	"Cordial base, 40% citrus fruit juice"	703	0.2	0	0	40.2	40.2	43
+01B20235	"Cordial base, 25% citrus fruit juice, intense sweetened"	20	0	0	0	1.2	1.2	3
+01B20236	"Cordial base, 25% non-citrus fruit juice, intense sweetened"	20	0	0	0	1.2	1.2	2
+01B20237	"Soft drink, cola flavour"	152	0	0	0	8.8	8.8	11
+01B20239	"Soft drink, ginger ale, creamy soda or other non-fruit flavours"	152	0	0	0	8.8	8.8	5
+01B20241	"Soft drink, tea flavour"	191	0	0	0	11.1	11.1	13
+01B20243	"Water, mineral, with 5% citrus fruit juice"	160	0	0	0	9.3	9.3	15
+01B20244	"Water, mineral, fruit flavours, intense sweetened"	6	0	0	0	0.2	0.2	15
+01B20245	"Sports drink, ready to drink, all flavours"	114	0	0	0	6.7	6.7	33
+01B20246	"Soft drink, lemonade, intense sweetened"	2	0	0	0	0	0	14
+01B20247	"Soft drink, fruit flavours, intense sweetened"	2	0	0	0	0	0	11
+01B20248	"Soft drink, ginger ale, creamy soda or other non-fruit flavours, intense sweetened"	2	0	0	0	0	0	11
+01B20250	"Soft drink, cola flavour, intense sweetened"	2	0	0	0	0	0	11
+01B20252	"Water, carbonated or soda"	2	0	0	0	0	0	21
+01B20253	"Water, mineral, natural, unflavoured"	2	0	0	0	0	0	8
+01B20257	"Fruit drink, 35 - 50% apricot juice"	230	0.3	0	0	12.9	12.9	4
+01B20260	"Fruit drink, 25% apple juice"	173	0	0	0	9.8	9.8	7
+01B20267	"Drink, fruit flavoured, dry base"	1689	0	0	0	98.6	95.7	5
+01B20268	"Drink, fruit flavoured, dry base, reduced sugar"	1513	0	0	0	84.4	82.2	265
+01B20270	"Drink, fruit flavoured, from powdered drink base"	119	0	0	0	6.9	6.7	0
+01B20271	"Water, sports type"	0	0	0	0	0	0	1
+01B20275	"Soft drink, energy drink"	201	0.4	0	0	11.4	11.4	80
+01B20276	"Soft drink, energy drink, intense sweetened"	7	0.4	0	0	0	0	80
+01B20279	"Fruit drink, 35% mango juice"	225	0.3	0.1	0	12.3	12.2	1
+01B20280	"Cordial base, ginger flavoured, 1% ginger"	630	0	0	0	37	37	1
+01B20281	"Fruit drink, 25% citrus juice"	167	0.1	0	0	9.3	9.3	7
+01B20284	"Cordial base, 25% blackcurrant fruit juice, intense sweetened"	269	0.1	0	0	15	15	14
+01B20288	"Fruit drink, 35% guava juice"	232	0.2	0.2	0	11.7	11.7	2
+01B20294	"Fruit drink, 5% non-citrus juice (apple, pear etc.), sweetened"	178	0	0	0	10.4	10.4	2
+01B20297	"Fruit drink, cranberry juice"	218	0.4	0.1	0	12.1	12.1	2
+01B20298	"Fruit drink, cranberry juice, intense sweetened"	46	0.4	0.1	0	2	2	2
+01B20300	"Fruit drink, 6% blackcurrant juice, intense sweetened"	39	0	0	0	2.2	2.2	2
+01B20301	"Fruit drink, 40% kiwifruit nectar"	198	0.4	0.2	0	10.4	10.2	2
+01B20305	"Juice, from concentrate, blackcurrant, diluted weaker than usual"	163	0	0	0	9.5	9.5	1
+01B20306	"Juice, from concentrate, blackcurrant, diluted stronger than usual"	295	0	0	0	17.3	17.3	2
+01B20307	"Fruit drink, 5% citrus juice, sweetened"	176	0	0	0	10.3	10.3	1
+01B20313	"Fruit drink, 25% blackcurrant juice"	208	0	0.1	0	12	12	2
+01B20316	"Water, non-sparkling, added sugar & flavour"	34	0	0	0	2	2	1
+01B20321	"Sports drink, powder, all flavours"	1385	0	0	0	76.2	76.2	371
+01B20322	"Cordial base, blackcurrant syrup"	799	0.1	0	0	46.2	46.2	14
+01B20326	"Fruit drink, 35% orange juice"	189	0.2	0	0	10.4	10.4	8
+01B20330	"Fruit drink, from dry base, recommended dilution"	151	0	0	0	8.9	8.9	6
+01B20338	"Soft drink, lemonade"	143	0	0	0	8.3	8.3	16
+01B20341	"Soft drink, tonic water"	151	0	0	0	8.8	8.8	6
+01B20349	"Soft drink, ginger ale, creamy soda or other non-fruit flavours, intense sweetened"	2	0	0	0	0	0	11
+01B20350	"Soft drink, tonic water, intense sweetened"	2	0	0	0	0	0	0
+01B20354	"Soft drink, energy drink"	195	0.1	0	0	10.8	10.8	71
+01B20357	"Soft drink, orange flavour"	154	0	0	0	9	9	14
+01B20358	"Soft drink, lemon flavour"	160	0	0	0	9.3	9.3	13
+01B20360	"Fruit drink, 25% orange juice"	189	0.2	0	0	10.4	10.4	9
+01B30031	"Juice, lemon, home squeezed"	109	0.7	0.2	0	2.6	2.6	3
+01B30039	"Juice concentrate, orange, sweetened"	594	2.3	0	0	32	32	6
+01B30047	"Juice, watermelon"	98	0.3	0.2	0	5	5	2
+01B30165	"Juice, blackcurrant"	153	0.1	0.4	0.1	8	8	6
+01B30166	"Juice, grape"	236	0.2	0	0	13.4	13.4	13
+01B30167	"Juice, grapefruit"	130	0.5	0.1	0	6	6	5
+01B30168	"Juice, lemon"	97	0.7	0.2	0	4.6	4.6	3
+01B30169	"Juice, lime"	107	0.8	0.2	0	1.2	1.2	3
+01B30170	"Juice, orange, home squeezed"	148	0.5	0.1	0	7.3	7.3	6
+01B30172	"Juice, orange, sweetened"	158	0.6	0	0	8.2	7.9	3
+01B30173	"Juice concentrate, orange"	527	2	0	0	27.3	26.5	11
+01B30174	"Juice, pear"	169	0.3	0.1	0	9.4	9.4	2
+01B30175	"Juice, pineapple"	196	0.3	0.1	0	10.3	10.3	1
+01B30176	"Juice, pineapple, sweetened"	232	0.3	0.1	0	12.3	12.3	1
+01B30177	"Juice, carrot"	115	0.8	0.1	0	5.3	5.1	45
+01B30179	"Juice, tomato, salted"	80	0.7	0	0	3.3	2.3	220
+01B30180	"Juice, tomato, salted, sweetened"	97	0.7	0	0	4.3	3.3	220
+01B30189	"Juice, apple, added vitamins C, E & folate & fibre"	132	0.1	0	0	7	7	7
+01B30201	"Juice, orange, pulp free"	126	0.7	0	0	5.9	5.9	3
+01B30220	"Cider, apple, non-alcoholic"	184	0	0	0	10.6	10.6	22
+01B30224	"Juice, prune"	231	0.6	0	0	11.6	11	4
+01B30234	"Juice, orange, high pulp"	133	0.7	0	0	5.9	5.9	3
+01B30247	"Juice concentrate, apple"	514	0.3	0	0	28.5	28.5	25
+01B30255	"Juice, apple, added vitamin C & fibre"	160	0.1	0	0	8.6	8.6	7
+01B30262	"Juice, apple, thickened"	290	0.1	0	0	16.6	8.6	8
+01B30266	"Juice, mangosteen"	154	0.1	0	0	8.6	8.6	7
+01B30268	"Juice, apple, home squeezed"	154	0.1	0	0	8.6	8.6	7
+01B30274	"Juice, berry, home squeezed"	87	1.7	0.1	0	2.7	2.7	6
+01B30279	"Juice, wheatgrass"	75	1.8	0.2	0	1.3	1	16
+01B30282	"Juice, goji"	154	0.1	0	0	8.6	8.6	7
+01B30297	"Juice, celery"	43	0.6	0.1	0	1.2	1.2	88
+01B30311	"Juice, grape, sparkling, white, non-alcoholic"	245	0.2	0	0	13.7	13.7	7
+01B30312	"Juice, apple, sparkling"	182	0	0	0	10.3	10.3	5
+01B30317	"Juice, orange, shelf stable"	130	0.7	0	0	6.3	6.3	3
+01B30319	"Juice, orange"	120	0.8	0	0	5.4	5.4	2
+01B30320	"Juice, apple, shelf stable"	130	0.2	0	0	7	7	6
+01B40002	"Drink, fruit flavoured, dry base, sweetened"	1581	0	0	0	93	93	6
+02A10036	"Barley, quick cooked, cooked, no added salt or fat"	473	3.1	0.9	0.2	21.1	0	14
+02A10038	"Buckwheat groats, cooked, no added salt or fat"	413	3.4	0.6	0.1	19.2	0.5	4
+02A10049	"Oats, with added oat bran, raw"	1596	11.4	8.4	1.5	60.6	0.3	3
+02A10051	"Sago, dry"	1453	0	0.4	0.1	84.4	0	1
+02A10058	"Barley bran, unprocessed"	1353	12	4.1	0.5	50	5.8	70
+02A10083	"Lasagne sheets, white, dry"	1452	11.2	1.1	0.2	70.3	0	5
+02A10084	"Lasagne sheets, wholemeal, dry"	1401	12.4	2.2	0.3	60.6	0	11
+02A10088	"Noodle, rice, fresh, cooked with no added salt or fat"	417	2	0.4	0	21.4	0	14
+02A10100	"Noodle, wheat, egg, Asian style, dry"	1487	12.8	1.5	0.3	70.2	0	13
+02A10101	"Noodle, wheat, egg, Asian style, fresh, uncooked"	1095	9.4	1.1	0.2	51.7	0	10
+02A10102	"Noodle, wheat, egg, Asian style, boiled with added salt, no added fat"	562	5.3	0.6	0.1	25.6	0	68
+02A10214	"Barley, pearl, raw"	1357	8	2.4	0.4	61.2	0.7	15
+02A10215	"Barley, pearl, boiled with no added salt or fat"	375	2.4	0.7	0.1	16.6	0	11
+02A10216	"Buckwheat groats, raw"	1511	11.7	2.7	0.6	66.4	1.4	11
+02A10220	"Cornmeal (polenta), raw"	1406	8.1	2	0.3	68.9	0.6	1
+02A10221	"Cornmeal (polenta), cooked in water with no added salt or fat"	448	2.6	0.6	0.1	21.9	0.2	0
+02A10222	"Millet, raw"	1489	11.1	4.2	0.7	63.3	0.4	5
+02A10224	"Oats, rolled, raw"	1572	11	8.7	1.5	58.1	0	7
+02A10225	"Oats, rolled, boiled, no added salt"	273	2	1.4	0.2	10.2	0	1
+02A10226	"Rice, brown, raw"	1538	7.2	2.4	0.4	76.5	0.7	5
+02A10228	"Rice, brown, boiled, no added salt"	639	2.9	1	0.2	31.8	0.3	3
+02A10229	"Rice, white, raw"	1470	6.3	0.5	0.1	78.8	0.2	5
+02A10235	"Rice, wild, boiled, no added salt"	426	4	0.3	0.1	19.5	0.7	3
+02A10236	"Tapioca, pearl or seed style, raw"	1458	0	0.2	0	85.3	0	1
+02A10237	"Tapioca, pearl or seed style, boiled"	160	0	0	0	9.1	0	13
+02A10238	"Oats, bran, unprocessed"	1510	16.1	7	1.3	50	1.4	4
+02A10239	"Rice bran, extruded or low processed"	1649	14.1	20.4	2.9	26.5	6.5	8
+02A10240	"Wheat bran, unprocessed"	1122	16.7	4.6	0.7	18.3	2	18
+02A10241	Wheat germ	1396	24.4	7	1	33.9	7.5	10
+02A10246	"Noodle, rice, boiled with no added salt"	365	1.6	0.3	0.1	19	0	14
+02A10247	"Noodle, wheat, Asian style"	608	6.3	1	0.4	26.5	0	100
+02A10250	"Pasta, non-wheat cereal based, boiled with no added salt"	503	2.6	0.7	0.1	23.1	0	0
+02A10251	"Pasta, white wheat flour-based, dry (regular pasta)"	1474	11.2	1.7	0.3	70.3	0	5
+02A10256	"Pasta, wholemeal wheat flour based, boiled from dry with no added salt"	538	4.7	0.7	0.1	22.8	0	5
+02A10257	"Pasta, white wheat flour with egg, dry"	1479	12.7	1.5	0.3	69.8	0	13
+02A10259	"Pasta, white wheat flour with egg, boiled from dry with no added salt"	601	5.7	0.6	0.1	27.4	0	3
+02A10264	"Pasta, white wheat flour & spinach, boiled with no added salt"	555	3.8	0.4	0.1	27.3	0.2	15
+02A10265	"Rice porridge (congee), simmered, no added fat or salt"	158	0.7	0.1	0	8.5	0	1
+02A10266	"Noodle, wheat, Asian style, boiled with no added salt"	235	2.4	0.4	0.2	10.2	0	12
+02A10268	"Noodle, wheat, instant, boiled without flavour sachet, undrained"	249	1.8	0.4	0.1	11.6	0	1
+02A10269	"Noodle, wheat, instant, boiled with flavour sachet, undrained"	265	1.8	1	0.1	11.4	0	229
+02A10270	"Noodle, wheat, instant, uncooked, without flavour sachet"	1496	11.1	2.7	0.4	69.6	0	5
+02A10271	"Pasta, white wheat flour & other coloured ingredients, boiled from dry with no added salt"	578	3.8	0.3	0.1	28.4	0	3
+02A10272	"Noodle, wheat, instant, low fat, boiled with flavour sachet, drained"	590	3.9	1	0.1	27	0	291
+02A10273	"Noodle, wheat, instant, uncooked, with flavour sachet"	1507	10.4	5.5	0.8	64.9	0	1303
+02A10274	"Noodle, wheat, instant, low fat, boiled with flavour sachet, undrained"	332	2.2	0.3	0	15	0	291
+02A10275	"Pasta, white wheat flour & soy flour, boiled from dry with no added salt"	578	3.8	0.3	0.1	28.4	0	3
+02A10276	"Barley, wholegrain, raw"	1391	12.5	2.3	0.4	56.2	0.8	12
+02A10277	"Pasta or noodles, buckwheat flour, boiled with no added salt"	538	4.7	0.7	0.1	22.8	0	5
+02A10279	"Millet, puffed"	1489	11.1	4.2	0.7	63.3	0.4	5
+02A10280	"Oats, puffed"	1572	11	8.7	1.5	58.1	0	7
+02A10282	"Quinoa, cooked in water"	464	3.9	1.7	0.2	18.8	0.3	6
+02A10289	"Millet, boiled, no added fat or salt"	489	3.5	1	0.2	22.5	0.1	2
+02A10292	"Bulgur (burghul, burgaul), soaked in water, no added fat or salt"	665	5.4	0.9	0.1	28.3	0.4	2
+02A10293	"Bulgur (burghul, burgaul), boiled, no added fat or salt"	341	2.6	0.4	0.1	15.2	0	9
+02A10301	"Pasta, wholemeal wheat flour based, dry"	1395	11.7	2.2	0.3	60.9	0	11
+02A10307	"Noodle, wheat, instant, flavoured, boiled, drained"	778	3.9	8	3.6	22.8	0	291
+02A10314	"Rice, purchased as parboiled (gold rice), raw"	1516	6.6	1.2	0.2	78.7	0.8	5
+02A10315	"Pasta, white wheat flour & spinach, dry"	1528	11.9	1.3	0.2	73.1	2.7	38
+02A10317	"Bulgur (burghul, burgaul), dry"	1349	9.9	1.7	0.3	60.1	0.8	15
+02A10319	"Rice, wild, raw"	1508	14.7	1.1	0.1	68.7	2.5	7
+02A10320	"Pasta, white wheat flour, fresh, uncooked"	1221	9.6	3.4	0.4	53.4	4.9	240
+02A10321	"Pasta, maize flour (corn) based, dry"	1453	7.5	2.1	0.3	68.3	0	3
+02A10322	"Pasta, white wheat flour, fresh, boiled, no added salt"	692	5.9	3	0.4	27.1	1.1	78
+02A10323	"Pasta, white wheat flour, boiled from dry, no added salt"	510	5.1	0.1	0	23.8	0.2	4
+02A10327	"Rice, white, boiled, no added salt"	671	2.7	0.1	0	36	0.1	3
+02A10328	"Rice, purchased as parboiled (gold rice), boiled, no added salt"	513	2.1	0.4	0.1	26.8	0.3	3
+02A10336	"Noodle, wheat, instant, flavoured, dry"	2079	4.7	23.6	10.7	65.5	1.6	938
+02A20022	"Custard powder, dry"	1442	0.1	0.5	0.1	83.4	0.1	11
+02A20057	"Flour, cornflour, from maize & wheat starch"	1454	0.1	0.5	0.1	84.1	0.1	11
+02A20058	"Flour, rice, white"	1528	5.7	1.4	0.3	80.7	0.5	2
+02A20059	"Flour, rye, wholemeal"	1322	12	2.3	0.3	55	1.4	4
+02A20060	"Flour, wheat, white, high protein or breadmaking flour"	1492	11.3	1.2	0.2	72	0.1	2
+02A20061	"Flour, wheat, white, plain"	1498	10.8	1.2	0.2	73	0	2
+02A20062	"Flour, wheat, white, self-raising"	1484	10.8	1.2	0.2	72.1	0	695
+02A20064	"Flour, wheat, wholemeal, plain"	1472	11.4	2.1	0.3	65.3	0.9	5
+02A20065	"Flour, wheat, wholemeal, self-raising"	1459	10.6	2.1	0.3	65.3	0.9	655
+02A20067	"Starch, maize"	1530	0.4	0.1	0	89.2	0.8	9
+02A20068	"Flour or powder, carob"	1255	4.6	0.6	0.1	49.1	49.1	35
+02A20069	"Flour, gluten free, self raising"	1490	1.3	0.4	0.1	85.4	0.5	661
+02A20071	"Semolina, raw"	1361	9.8	1.2	0.2	66.2	0	4
+02A20072	"Couscous, raw"	1492	11.6	0.6	0.1	72.4	0	10
+02A20073	"Couscous, boiled, no added salt"	663	5.2	0.3	0	32.2	0	4
+02A20076	"Flour, arrowroot"	1453	0.1	0.2	0	84.5	0	2
+02A20083	"Flour, chick pea (besan)"	1409	19.7	5.4	0.6	46.4	2.6	39
+02A20089	"Flour, maize"	1533	8.1	3.6	0.5	69.6	0.6	5
+02A20090	"Flour, millet"	1401	8.3	2.9	0.5	63.8	1.3	13
+02A20091	"Flour, sorghum"	1476	10.9	3.2	0.4	66.1	1.1	6
+02A20092	"Flour, amaranth"	1483	14.4	6.1	1.6	55.4	2.1	14
+02A20093	"Flour, buckwheat"	1440	12	3.4	0.7	60.6	3	5
+02A20094	"Flour, triticale, whole-grain"	1403	13.2	1.8	0.3	58.5	7.7	2
+02A20095	"Flour, maize, high amylose"	1372	14	8	1.1	37.6	0.4	5
+02A20096	"Flour, quinoa"	1510	13.5	6.3	0.6	58.3	0.1	19
+02A20097	"Flour, rice, brown"	1487	7.4	2.8	0.6	71.9	1	8
+02A30008	"Noodle, bean starch or cellophane, boiled, no added salt"	444	0.1	0	0	25.3	0.6	3
+02A30014	"Pasta, white wheat flour & soy protein, reduced carbohydrate, dry"	1475	28.4	4.1	0.5	46.2	9.9	393
+02A30015	"Pasta, white wheat flour & soy protein, reduced carbohydrate, boiled from dry with no added salt"	559	10.8	1.6	0.2	17.5	3.8	45
+02B10044	"Bread, white, no added salt, toasted"	1219	10	3.1	0.4	53.4	2.7	17
+02B10052	"Bread, yeast free"	1087	10.7	1	0.2	48.8	4.7	1079
+02B10053	"Bread, yeast free, toasted"	1310	12.9	1.2	0.2	58.8	5.7	1300
+02B10056	"Bread roll, sour dough"	1241	9.3	4	0.6	52.6	4.6	593
+02B10061	"Bread roll, damper"	1224	9	3.8	0.5	53	4	570
+02B10062	"Pizza base, thick"	1224	9	3.8	0.5	53	4	570
+02B10066	"Breadcrumbs, fresh, from white bread"	1574	14.1	3.7	0.7	68.3	4.6	702
+02B10073	"Bread, oatmeal, no added salt"	992	8.1	3.3	0.5	40.5	2.4	14
+02B10074	"Bread, oatmeal, no added salt, toasted"	1195	9.8	4	0.6	48.8	2.9	17
+02B10079	"Bread, from wholemeal flour, reduced salt"	973	10.3	2	0.3	39.5	1.5	235
+02B10080	"Bread, from wholemeal flour, reduced salt, toasted"	1172	12.4	2.4	0.3	47.6	1.8	283
+02B10089	"Bagel, from wholemeal flour"	1066	11.9	1.3	0.2	45.5	5.1	481
+02B10090	"Bagel, from wholemeal flour, toasted"	1184	13.2	1.5	0.2	50.6	5.7	535
+02B10095	"Bread roll, from rye flour, light"	1259	9.6	4.1	0.6	52.2	5.2	616
+02B10096	"Bread, black"	1020	7.8	1.8	0.3	44.4	3.5	630
+02B10097	"Bread, black, toasted"	1134	8.7	2.1	0.3	49.4	3.9	700
+02B10112	"Bread, lavash (lavosh or lahvosh), white"	1171	9.1	2	0.3	54	3.3	450
+02B10113	"Bread, lavash (lavosh or lahvosh), wholemeal"	1110	8.4	2.2	0.4	49	3.2	470
+02B10123	Matzo	1605	10.5	1.9	0.2	78.2	4	17
+02B10170	"Bread mix, commercial, white flour"	1453	9.6	1.8	0.9	70.1	0.6	555
+02B10171	"Bread mix, commercial, increased fibre & grain"	1509	10.1	2.8	0.5	69.9	0.1	585
+02B10172	"Bread mix, commercial, white flour, crusty style"	1461	10.5	1.4	0.4	70.6	0.3	620
+02B10226	"Bread, gluten free (from rice/corn or tapioca flour), commercial"	1036	7.1	4.4	0.8	42.8	6.4	502
+02B10227	"Bread, gluten free (from rice/corn or tapioca flour), commercial, toasted"	1204	8.3	5.1	0.9	49.8	7.4	584
+02B10235	"Bread, pizza base, commercial"	1022	7.2	2.2	0.4	46.7	5.1	326
+02B10236	"Breadcrumbs, white, commercial"	1504	12.5	3.6	0.8	66.2	4.4	680
+02B10255	"Bread, from rye flour, light"	1059	9	2.4	0.5	45.6	2.2	429
+02B10256	"Bread, from rye flour, light, toasted"	1276	10.8	2.9	0.6	55	2.7	516
+02B10257	"Bread, from rye flour, dark"	978	8.2	2.1	0.4	41.4	2.5	530
+02B10258	"Bread, from rye flour, dark, toasted"	1178	9.9	2.5	0.4	49.9	3.1	639
+02B10266	"Bread, naan, Indian restaurant style"	1217	8	8.6	2	43.5	12.2	95
+02B10273	"Bread, from white or wholemeal flour, soy & linseed"	1031	13.5	5.9	0.8	31	5.9	450
+02B10274	"Bread, from white or wholemeal flour, soy & linseed, toasted"	1146	15	6.6	0.9	34.5	6.6	500
+02B10275	"Bread, foccacia or Turkish style bread, plain"	1054	8.9	3.3	0.6	44.7	2.4	596
+02B10279	"Bread, flat (pita or Lebanese), white, toasted"	1355	10.7	2.5	0.5	61.9	4	531
+02B10280	"Bread, flat (pita or Lebanese style), wholemeal, toasted"	1275	10.1	2.4	0.5	56	3.7	562
+02B10312	"Bread, from white flour, Italian style e.g. ciabatta, pane di casa"	1114	11.2	2.2	0.3	48.1	3.5	474
+02B10313	"Bread, from white flour, sour dough"	1160	11.7	2.3	0.3	50.1	3.6	494
+02B10314	"Bread, from white flour, crusty, e.g. French stick/baguette"	1250	12.6	2.5	0.4	54	3.9	532
+02B10316	"Bread, from white flour, sour dough, toasted"	1349	13.6	2.7	0.4	58.3	4.2	574
+02B10317	"Bread, from white flour, crusty, e.g. French stick/baguette, toasted"	1454	14.6	2.9	0.4	62.8	4.5	619
+02B10322	"Bread, foccacia or Turkish style bread, plain, toasted"	1226	10.3	3.8	0.7	52	2.8	693
+02B10330	"Bread roll, from white flour, added fibre"	1183	8.5	3.8	0.6	49.4	3.4	566
+02B10335	"Bread, flat (pita or Lebanese), white, reduced salt"	1138	8.3	2.1	0.4	52.6	3.4	240
+02B10354	"Bread, from rye flour, light, soy & linseed"	1170	11	6.3	0.9	40.6	2.5	375
+02B10355	"Bread, from rye flour, light, soy & linseed, toasted"	1361	12.8	7.3	1	47.2	2.9	436
+02B10356	"Bread, from rye flour, light, grains"	1100	9.1	2.6	0.5	47.5	2.1	386
+02B10357	"Bread, from rye flour, light, grains, toasted"	1280	10.5	3	0.6	55.3	2.4	449
+02B10358	"Bread, from white flour, Dutch style fruit loaf, extra dried fruit"	1189	7.1	3.2	1	54.3	26.1	157
+02B10359	"Bread, from spelt flour, grain & seeds"	1018	8.7	4.5	0.6	38.3	2.2	443
+02B10360	"Bread, from spelt flour, grain & seeds, toasted"	1184	10.1	5.2	0.7	44.5	2.5	515
+02B10361	"Bread, from spelt flour"	930	11	2.4	0.3	35.6	3.8	430
+02B10362	"Bread, from spelt flour, toasted"	1082	12.8	2.8	0.4	41.4	4.4	500
+02B10373	"Bread, from white flour, pumpkin seeds"	1046	10.5	2.1	0.3	45	4.2	560
+02B10374	"Bread, from wholemeal flour, seeds"	1103	12.4	7.9	1	32	3.5	380
+02B10375	"Bread, from wholemeal flour, seeds, toasted"	1282	14.4	9.2	1.2	37.2	4.1	442
+02B10378	"Bread, from wholemeal flour, seeds & oats"	1073	11.8	6.3	0.8	34.5	4.2	377
+02B10379	"Bread, from wholemeal flour, seeds & oats, toasted"	1248	13.7	7.3	0.9	40.1	4.9	438
+02B10382	"Bread, from white flour, Dutch style fruit loaf, extra dried fruit, toasted"	1383	8.2	3.7	1.2	63.2	30.3	183
+02B10448	"Bread, damper, with added salt, toasted"	1193	7.7	5.4	3.1	49.5	2	782
+02B10450	"Bread, from wholemeal flour, dried fruit & seeds"	1115	11.7	7.4	0.9	34.5	7.9	355
+02B10451	"Bread, from wholemeal flour, dried fruit & seeds, toasted"	1312	13.7	8.7	1.1	40.6	9.3	417
+02B10452	"Bread, from rye flour, light, soy & sesame"	1194	11.9	6.8	1.1	40.1	2.6	366
+02B10453	"Bread, from rye flour, light, soy & sesame, toasted"	1405	14	8	1.3	47.2	3.1	431
+02B10463	"Bread, gluten free (from rice/corn or tapioca flour), mixed grain"	1196	8.9	9.7	1.4	38.4	5.8	444
+02B10464	"Bread, gluten free (from rice/corn or tapioca flour), fruit or raisin"	1060	6.5	4	0.7	45.5	13.3	452
+02B10465	"Bread, gluten free (from rice/corn or tapioca flour), fruit or raisin, toasted"	1232	7.5	4.6	0.8	52.9	15.4	525
+02B10503	"Bread, roti, Indian restaurant style"	1196	8.1	6.4	1.5	45.5	12.7	117
+02B10515	"Bagel, from white flour, toasted"	1250	10.8	1.6	0.2	57.6	7	557
+02B10516	"Bread, damper, added salt, homemade"	1027	6.7	4.7	2.7	42.6	1.7	680
+02B10546	"Bread, from white flour"	1031	9.7	2.1	0.3	45	3.5	456
+02B10547	"Bread, from white flour, toasted"	1227	11.6	2.5	0.4	53.6	4.2	543
+02B10548	"Bread, from wholemeal flour"	985	9	2.9	0.5	39.7	3	468
+02B10549	"Bread, from wholemeal flour, toasted"	1159	10.6	3.4	0.6	46.7	3.6	551
+02B10552	"Bagel, from white flour"	1100	9.5	1.4	0	50.7	6.2	490
+02B10554	"Bread, brown (mixture of white & wholemeal flour)"	1010	9.7	2.5	0.6	41.9	1.5	500
+02B10555	"Bread, brown (mixture of white & wholemeal flour), toasted"	1188	11.4	2.9	0.7	49.3	1.8	588
+02B10556	"Bread, chapatti (chapati), no added fat"	907	8	1.4	0.2	38.8	0.5	345
+02B10557	"Bread, flat (pita or Lebanese), white"	1152	9.1	2.1	0.4	52.6	3.4	451
+02B10558	"Bread, flat (pita or Lebanese), wholemeal"	1084	8.6	2.1	0.5	47.6	3.1	478
+02B10561	"Bread, from wheat flour, added dried fruit"	1134	8.1	3.8	1.2	49.1	14.6	185
+02B10562	"Bread, from wheat flour, added dried fruit, toasted"	1260	9	4.2	1.4	54.6	16.2	205
+02B10563	"Bread, from white flour, added fibre"	1023	10.4	2.4	0.4	42.1	2.4	460
+02B10564	"Bread, from white flour, added fibre, toasted"	1217	12.3	2.8	0.5	50.1	2.8	548
+02B10567	"Bread, from white flour, added protein"	1025	9.4	2.3	0.5	44.6	1.7	490
+02B10568	"Bread, from white flour, added protein, toasted"	1191	10.9	2.7	0.6	51.9	2	570
+02B10571	"Bread roll, from white flour"	1074	9.6	3	0.5	45.6	4	547
+02B10572	"Bread roll, from white flour, toasted"	1248	11.2	3.4	0.6	53.1	4.6	637
+02B10573	"Bread, from wholemeal flour, added fibre"	1027	11.6	3.4	0.7	38	2.8	290
+02B10574	"Bread, from wholemeal flour, added fibre, toasted"	1223	13.8	4	0.8	45.3	3.4	345
+02B10575	"Bread, from wholemeal flour, grains & seeds"	1028	9.3	4.5	0.8	38.3	2.2	443
+02B10576	"Bread, from wholemeal flour, grain & seeds, toasted"	1210	10.9	5.3	0.9	45	2.6	521
+02B10577	"Bread roll, from wholemeal flour"	1071	10	2.9	0.5	44	2.9	540
+02B10578	"Bread roll, from wholemeal flour, toasted"	1260	11.8	3.4	0.6	51.7	3.4	635
+02B10583	"Bread, mixed grain"	993	8.8	2.9	0.4	41	2.7	474
+02B10584	"Bread, mixed grain, toasted"	1168	10.3	3.4	0.5	48.2	3.2	558
+02B10585	"Bread roll, mixed grain"	1030	11.1	3	0.5	40.3	2.3	660
+02B10586	"Bread roll, mixed grain, toasted"	1211	13.1	3.5	0.5	47.4	2.7	776
+02B10588	"Bread, pumpernickel"	890	6.4	1.6	0.3	38.3	4.2	702
+02B10589	"Bread, pumpernickel, toasted"	1047	7.6	1.9	0.4	45	4.9	826
+02B20011	"Muffin, English style, from white flour, with fruit, untoasted"	993	9.5	1.7	0.3	43.7	9.8	473
+02B20014	"Muffin, English style, from wholemeal flour, toasted"	918	12.5	1.4	0.3	35.9	1.5	457
+02B20015	"Muffin, English style, wheat bran, toasted"	929	12.5	1.4	0.3	35.9	1.5	457
+02B20016	"Muffin, English style, oat bran, toasted"	1033	11.7	2.1	0.4	42.1	1.9	419
+02B20017	"Muffin, English style, mixed grain, toasted"	965	11.9	1.7	0.3	38.6	1.8	465
+02B20018	"Crumpet, from white flour, untoasted"	794	5	0.7	0.1	38.9	1.5	945
+02B20039	"Muffin, English-style, from white flour, plain"	1161	6.9	7.9	1.4	42.5	2	462
+02B20045	"Crumpet, from white flour, toasted"	839	4.9	0.8	0.2	41.6	1.8	1002
+02B20046	"Crumpet, from wholemeal flour, toasted"	832	5.6	1.1	0.2	39.1	1.5	982
+02B20047	"Muffin, English-style, from white flour, toasted"	975	10.1	1.5	0.3	42.2	2.6	476
+02B20048	"Muffin, English-style, dried fruit, toasted"	1069	10.2	1.8	0.4	47	10.5	509
+02B30021	"Tortilla, from wheat flour"	1326	8.7	7.1	1.3	52.4	3.4	478
+02B30022	"Tortilla, from corn flour"	906	5.7	2.9	0.5	38.3	0.9	760
+02C10017	"Rice cake, with rye"	1575	8.2	2.9	0.4	75.8	0.6	3
+02C10019	"Rice cake, with corn & buckwheat"	1574	7.4	2.9	0.4	76.7	0.9	3
+02C10020	"Rice cake, with corn & oats"	1579	7.6	2.9	0.4	76.9	0.5	2
+02C10073	"Rice cake, salted"	1506	8	3.4	0.6	71.3	0.8	350
+02C10074	"Rice cake, rice with other grains, salted"	1531	9	3.4	0.6	71.3	0.8	340
+02C10075	"Rice cake, rice with corn & sesame, unsalted"	1530	8.5	3.4	0.7	71.3	0.8	2
+02C10076	"Rice cake, rice & corn, salted"	1535	9	3.4	0.6	72.5	2	230
+02C10101	"Biscuit, savoury, from white flour, flaky cracker style (e.g. SAO)"	2049	10.5	20.7	9.7	63.6	3.6	639
+02C10111	"Corn cake, salted"	1743	10.2	7.9	1	70.9	0.4	800
+02C10112	"Bread stick, from white flour, salted"	2005	11.8	18.5	2.7	64.2	5	1311
+02C20188	"Biscuit, sweet, chocolate flavour"	1865	6.2	17.2	8.4	65.3	23.9	308
+02C20190	"Biscuit, shortbread style"	2143	5.9	26.3	15	62	19.4	478
+02C20219	"Cone, wafer style, for ice cream"	1468	7.9	2.3	0.6	72	0.3	326
+02C20253	"Biscuit, sweet, plain"	1844	6.2	15.5	7.5	67.5	25.7	289
+02D10110	"Breakfast cereal, wheat bran, pellets (e.g. Kelloggs All Bran)"	1346	13.4	4.9	0.8	41	15	650
+02D10121	"Breakfast cereal, whole wheat, puffed (e.g. Kelloggs Puffed Wheat)"	1494	11.9	2.5	0.4	65.8	1	3
+02D10138	"Breakfast cereal, puffed corn"	1565	6.6	0.6	0.1	83.9	8.8	397
+02D10172	"Breakfast cereal, puffed or popped rice"	1549	7.1	1.1	0.2	81.2	6.2	658
+02D10174	"Semolina, prepared with water"	454	3.3	0.4	0.1	22.1	0	1
+02D10212	"Breakfast cereal, flakes of corn"	1529	7.6	0.4	0.1	80	9.3	397
+02D10243	"Breakfast cereal, whole wheat, biscuit (e.g. Sanitarium Weet Bix)"	1443	12.1	2.2	0.3	62.8	1.9	300
+02D20026	"Porridge, rolled oats, prepared with water, added salt"	273	2	1.4	0.2	10.2	0	28
+02E10302	"Cake, sponge, plain, unfilled, uniced, commercial"	1305	7.5	5.6	2	56.5	32.5	320
+02E10315	"Cake, plain or buttercake, uniced, commercial"	1512	8.2	15.3	7.1	46.9	25.3	480
+02E10399	"Cake mix, plain, dry (e.g. madeira, tea cake or vanilla cake)"	1645	4.8	8.2	4.1	73.5	42.5	670
+02E10414	"Cake mix, sponge, dry"	1488	6.4	4.8	2	69.9	32.4	610
+02E30065	"Pancake, plain, dry mix"	1433	9.3	3.2	1	67.2	25.2	680
+02E40025	"Pastry, puff, canola oil, raw, commercial"	1527	5.5	22.3	1.6	35.2	0.9	1
+02E40035	"Pastry, shortcrust, raw, commercial, reduced fat"	1589	7.2	19	10.9	43.6	2.4	390
+02E40039	"Vol au vent case, unfilled, commercial"	1889	7	26.5	15.1	45.7	1.6	545
+02E40064	"Pastry, puff, with butter, raw"	1384	5.5	19	11.9	32.9	1	160
+02E40065	"Pastry, puff, with butter, baked"	1798	7.1	24.7	15.5	42.7	1.3	208
+02E40071	"Pastry, shortcrust, wholemeal, commercial, baked"	1994	10.2	27	15.6	43.2	2.5	478
+02E40072	"Pastry, spring roll, raw"	1268	6.6	5.1	1.8	55.6	1.8	610
+02E40078	"Pastry, filo (fillo), raw"	1217	9.9	3.8	0.5	52.2	1.3	581
+02E40079	"Pastry, filo (fillo), baked"	1596	12.2	3.1	0.4	72.9	2.1	766
+02E40081	"Pastry, puff, vegetable oil, commercial, baked"	1838	7	26.5	12	42.7	1.7	545
+02E40082	"Pastry, shortcrust, commercial, raw"	1596	5.5	21.1	9.2	42	7.5	358
+02E40083	"Pastry, shortcrust, commercial, baked"	2090	6.6	27.5	9.6	55.6	9.6	463
+02E40084	"Pastry, shortcrust, wholemeal, commercial, raw"	1405	7.5	19.2	10.4	30.6	2.6	333
+02E40087	"Croissant (pastry crescent), commercial, plain"	1505	10	19.1	12	35.6	5.1	457
+02E40088	"Pastry, choux, raw"	894	5.8	12.9	5.6	18.2	0.1	255
+02E40089	"Pastry, choux, commercial, baked, unfilled"	1742	7.9	32.1	13.8	24.1	0.1	400
+02E40090	"Pastry mix, commercial, dry mix"	1935	7.8	26.4	14.3	47.3	0	828
+02E40092	"Pastry, puff, vegetable oil, commercial, raw"	1287	5.5	16.4	7.4	32.9	1	387
+02F30050	"Bread, from wholemeal flour, fruit"	1169	8.5	4.1	0.8	47.1	17.7	220
+02F30051	"Bread, from wholemeal flour, fruit, toasted"	1391	10.1	4.8	0.9	56.1	21.1	262
+02F30052	"Bread, mixed grain,  fruit"	1209	8.2	4	0.6	51	17.7	230
+02F30053	"Bread, mixed grain,  fruit, toasted"	1439	9.8	4.7	0.7	60.7	21.1	274
+02F30054	"Bread, malt"	1183	8.3	2.4	0.3	53	25.4	280
+02F40125	"Pasta, meat filled, boiled, without sauce"	630	6.3	3.9	1.3	21.3	0.3	200
+02F40136	"Taco shell, from corn flour, plain"	1947	7.2	22.6	8.9	54.3	1.2	367
+02F40170	"Gnocchi, potato, boiled"	620	4.2	0.9	0.2	29.1	0.4	300
+03A10020	"Egg, chicken, whole, omega-3 polunsaturate modified, poached, no added salt"	629	12.3	11.2	3.2	0.3	0.3	87
+03A10044	"Egg, chicken, whole, raw"	553	12.7	9	3.1	0.3	0.3	134
+03A10048	"Egg, chicken, whole, poached"	628	12.2	11.2	3.8	0.3	0.3	87
+03A10050	"Egg, chicken, white (albumen) only, raw"	197	11.2	0	0	0.4	0.4	175
+03A10051	"Egg, chicken, white (albumen) only, hard boiled"	204	11.6	0	0	0.4	0.4	175
+03A10052	"Egg, chicken, yolk, raw"	1311	15.6	28.2	9.6	0.2	0.2	58
+03A10053	"Egg, chicken, yolk, hard boiled"	1450	16.1	31.7	10.8	0.2	0.2	47
+03A10057	"Egg, chicken, whole, baked, no added fat"	565	13	9.1	3.1	0.3	0.3	137
+03A10059	"Egg, chicken, white, dried"	1489	82.2	0	0	5.4	5.4	1280
+03A10061	"Egg, chicken, whole, omega-3 polyunsaturated fatty acids modified, raw"	439	12.4	6	1.6	0.3	0.3	120
+03A10062	"Egg, chicken, whole, hard-boiled"	583	12.4	9.5	2.6	0.7	0.3	127
+03A10069	"Egg, duck, whole, raw"	743	12.8	13.8	3.7	0.9	0.9	146
+03A10070	"Egg, quail, whole, raw"	639	13	11.1	3.6	0.4	0.4	141
+03A10071	"Egg, chicken, whole, omega-3 polyunsaturated fatty acids modified, boiled"	447	12.7	6.1	1.6	0.3	0.3	122
+03A10072	"Egg, duck, whole, boiled"	715	12.3	13.2	3.5	0.9	0.9	140
+03B10044	"Egg, chicken, scrambled with full fat milk, cooked with no added fat"	524	11	8	3.1	2.3	2.3	338
+03B10069	"Egg, chicken, omelette, made with water, no added fat"	530	11.5	8.9	2.4	0.3	0.3	251
+04A10044	"Ghee, clarified butter"	3701	0.3	99.9	65.2	0	0	2
+04A10045	"Dairy blend, butter & edible oil spread"	3068	0.5	82.4	35.3	0.6	0.6	485
+04A10046	"Dairy blend, butter & edible oil spread, reduced salt"	3087	0.6	82.9	35.5	0.6	0.6	322
+04A10047	"Dairy blend, butter & edible oil spread, 70% fat"	2669	0.5	71.6	30.7	0.6	0.6	485
+04A10048	"Dairy blend, butter & edible oil spread, 70% fat, reduced salt"	2669	0.6	71.6	30.7	0.6	0.6	320
+04A10049	"Dairy blend, butter & edible oil spread, reduced fat (50% fat) & salt (360mg sodium/100g)"	1713	4.2	44.3	19.4	0.1	0.1	365
+04A10050	"Dairy blend, butter & canola oil spread, reduced fat (57% fat) & salt (230mg sodium/100g)"	2180	4.1	57	25.3	0.1	0.1	370
+04A10051	"Dairy blend, butter & canola oil spread, reduced fat (44%) & salt"	1715	4.1	44.4	19.8	0.1	0.1	360
+04A10054	"Dairy blend, butter & canola oil spread, reduced fat (58% fat)"	2254	4.1	59	26.2	0.1	0.1	420
+04A10055	"Dairy blend, butter & edible oil spread, 80% fat, sodium 700 mg/100g"	3059	0.6	82.1	35.2	0.6	0.6	719
+04A10058	"Dairy blend, butter & olive oil spread, reduced fat (59% fat)"	2254	4.1	59	26.2	0.1	0.1	480
+04A10059	"Dairy blend, butter & canola oil spread, reduced fat (60% fat) & salt (370mg sodium/100g)"	2291	4.1	60	26.7	0.1	0.1	370
+04A10060	"Butter, salted"	3036	1.1	81.5	53.8	0	0	776
+04A10061	"Butter, reduced salt (sodium less than 350 mg /100 g)"	3036	1.1	81.5	53.8	0	0	350
+04A10062	"Butter, no added salt"	3036	1.1	81.5	53.8	0	0	10
+04A20016	"Cream, pure, whipped, no added sugar (Specific gravity 0.507)"	1664	1.9	42.8	28.3	2.8	2.8	21
+04A20019	"Cream, thickened, whipped, no added sugar (Specific gravity 0.507)"	1450	2.1	36.8	24.2	3.1	3.1	48
+04A20022	"Cream, rich or double thick, whipped, sweetened"	1970	1.6	49.4	32.5	6.8	6.7	17
+04A20023	"Cream, rich or double thick, whipped, no added sugar"	1982	1.7	51.6	33.9	2.6	2.6	18
+04B10028	"Edible oil spread, polyunsaturated, reduced fat (50% fat) & salt (380mg sodium/100g)"	1836	0.2	49.4	11.7	0.3	0.3	380
+04B10030	"Edible oil spread, polyunsaturated, reduced fat (40% fat), no added salt or milk"	1462	0	39.5	9.4	0	0	2
+04B10031	"Margarine spread, polyunsaturated, reduced fat (60% fat)"	2233	0.3	60	14.2	0.5	0.5	590
+04B10033	"Margarine spread, polyunsaturated (75% fat), reduced salt (380mg sodium/100g)"	2790	0.4	75	17.8	0.5	0.5	380
+04B10035	"Margarine spread, polyunsaturated (65% fat), 780mg sodium /100 g"	2420	0.4	65	15.4	0.5	0.5	780
+04B10039	"Margarine spread, polyunsaturated (70% fat), 600mg sodium/100 g"	2629	0.7	70.7	16.8	0	0	600
+04B10040	"Margarine spread, polyunsaturated (70% fat), 360mg sodium /100 g"	2629	0.7	70.7	16.8	0	0	380
+04B10041	"Margarine spread, polyunsaturated, reduced fat (31% fat) & salt (380mg sodium/100g)"	1150	0.1	31	7.3	0.1	0.1	380
+04B10042	"Edible oil spread, polyunsaturated, reduced fat (48% fat), added phytosterols"	1779	0.1	48	9.5	0.1	0.1	360
+04B10043	"Margarine spread, polyunsaturated (70% fat), added phytosterols"	2679	0.4	72	15.2	0.5	0.5	380
+04B10044	"Margarine spread, polyunsaturated, reduced fat (60% fat), unsalted"	2225	0.3	60	14.2	0	0	2
+04B10050	"Margarine spread, poly- or mono-unsaturated, regular fat (70%), salt free"	2500	0.4	67.2	15.6	0.4	0.4	2
+04B10055	"Margarine spread, polyunsaturated, reduced fat (25% fat) & salt (380mg sodium/ 100g)"	928	0.1	25	5.9	0.1	0.1	380
+04B10056	"Margarine spread, polyunsaturated, reduced fat (50% fat), & salt (380mg sodium/100g)"	1836	0.2	49.4	11.7	0.3	0.3	380
+04B10057	"Margarine spread, polyunsaturated, reduced fat (30% fat) & salt (380mg of sodium/100g), added phytosterols"	1150	0.1	31	5.5	0.1	0.1	380
+04B10069	"Margarine spread, polyunsaturated (70% fat)"	2552	0	69	14.8	0	0	562
+04B10070	"Margarine spread, polyunsaturated (70% fat), reduced salt (380mg sodium/100g)"	2636	1	70.8	17.3	0	0	283
+04B10071	"Margarine spread, polyunsaturated, reduced fat (60% fat), reduced salt (267mg sodium/100g)"	2233	0.3	60	13.9	0.5	0.5	267
+04B20048	"Margarine, cooking"	2984	0.6	80	35.5	0.8	0.8	1130
+04B20050	"Margarine spread, monounsaturated (70% fat), 380mg sodium/100g"	2592	0.4	69.6	15.6	0.5	0.5	380
+04B20051	"Margarine spread, monounsaturated (65% fat), 380mg sodium/100g"	2420	0.4	65	14.6	0.5	0.5	380
+04B20052	"Margarine spread, monounsaturated (65% fat), 750 mg sodium/100 g"	2420	0.4	65	14.6	0.5	0.5	750
+04B20053	"Margarine spread, olive oil blend (70% fat), 380 mg sodium/100 g"	2592	0.4	69.6	16.1	0.5	0.5	380
+04B20054	"Margarine spread, olive oil blend (70% fat), no added salt"	2592	0.4	69.6	16.1	0.5	0.5	2
+04B20055	"Margarine spread, monounsaturated, extra light style (31% fat), unsalted"	1162	0.4	31	7	0.5	0.5	2
+04B20056	"Margarine spread, monounsaturated, extra light style (31% fat), reduced salt (380 mg sodium/100g)"	1162	0.4	31	7	0.5	0.5	380
+04B20057	"Margarine spread, monounsaturated (60% fat), 700 mg sodium/100 g"	2235	0.4	60	13.5	0.5	0.5	700
+04B20058	"Margarine spread, monounsaturated, reduced fat (fat approximately 40% fat), reduced salt (380mg sodium/100g), added phytosterols"	1456	0.3	39	7	0.5	0.5	380
+04B20059	"Margarine spread, monounsaturated (fat approximately 70%), 380mg sodium/100g, added phytosterols"	2790	0.4	75	15.3	0.5	0.5	380
+04B20060	"Margarine spread, monounsaturated, reduced fat (fat approximately 55%) & salt (380mg sodium/100g), added phytosterols"	2048	0.3	55	10.5	0.5	0.5	380
+04B20062	"Margarine spread, monounsaturated (60% fat), 230mg sodium/100 g"	2235	0.4	60	13.5	0.5	0.5	230
+04B20063	"Margarine spread, monounsaturated (60% fat), 300 mg sodium/100 g, dairy free"	2227	0.4	60	13.5	0	0	300
+04B20064	"Margarine spread, olive oil blend (40% fat), 380 mg sodium/100 g"	1495	0.4	40	9.3	0.5	0.5	380
+04B20065	"Margarine spread, monounsaturated, reduced fat (~55% fat), unsalted"	2100	0.3	56.4	12.7	0.5	0.5	2
+04B20066	"Margarine spread, olive oil blend (55% fat), 380 mg sodium/100 g"	2050	0.4	55	12.6	0.5	0.5	380
+04B20067	"Margarine spread, olive oil blend (75% fat), 380 mg sodium/100 g"	2790	0.4	75	17.1	0.5	0.5	380
+04B20068	"Margarine spread, catering, blend of animal & vegetable fats"	2614	0.6	70	31.1	0.8	0.8	1380
+04B20072	"Margarine spread, rice bran oil based"	3019	0.5	81	22.2	0.8	0.8	580
+04B20074	"Margarine spread, monounsaturated (70% fat)"	2445	0.3	65.9	14.6	0	0	594
+04B20075	"Margarine spread, monounsaturated, reduced fat (55% fat) & salt (380 mg sodium/100g)"	1922	1	51.5	11.5	0	0	338
+04B20076	"Margarine spread, monounsaturated (70% fat), reduced salt (380mg sodium/100g)"	2565	1	68.9	15.8	0	0	362
+04B20077	"Margarine spread, monounsaturated, reduced fat (50%)"	1875	0.3	50.5	10.3	0	0	572
+04C10009	"Oil, coconut"	3700	0	100	88	0	0	0
+04C10025	"Oil, sunflower, monounsaturated"	3700	0	100	6.7	0	0	0
+04C10053	"Oil, copha"	3700	0.2	99.9	92.4	0	0	1
+04C10055	"Oil, grapeseed"	3700	0	100	11.4	0	0	0
+04C10056	"Oil, macadamia"	3700	0	100	13.6	0	0	0
+04C10057	"Oil, maize"	3700	0	100	13.2	0	0	0
+04C10060	"Oil, palm"	3700	0	100	48.8	0	0	0
+04C10061	"Oil, peanut"	3700	0	100	18.1	0	0	0
+04C10063	"Oil, sesame"	3700	0	100	15.2	0	0	0
+04C10064	"Oil, sunflower"	3700	0	100	10.7	0	0	0
+04C10065	"Oil, soybean"	3700	0	100	14.7	0	0	0
+04C10070	"Oil, linseed or flaxseed"	3700	0	100	8.5	0	0	0
+04C10072	"Oil, blend of polyunsaturated vegetable oils"	3700	0	100	15.2	0	0	0
+04C10073	"Oil, olive, pure"	3700	0	100	15.3	0	0	0
+04C10075	"Oil, canola"	3700	0	100	7.3	0	0	0
+04C10076	"Oil, safflower"	3700	0	100	9.4	0	0	0
+04C10080	"Fat, solid, vegetable oil based"	3702	0.2	100	49	0	0	0
+04C10081	"Oil, mustard seed"	3700	0	100	12	0	0	0
+04C10084	"Oil, cottonseed"	3700	0	100	25.9	0	0	0
+04C10085	"Oil, almond"	3700	0	100	6	0	0	0
+04C10088	"Oil, rice bran"	3700	0	100	22.9	0	0	0
+04C10089	"Oil, blend of monounsaturated vegetable oils"	3700	0	100	6.9	0	0	0
+04C10091	"Oil, Palmolein"	3700	0	100	49.3	0	0	0
+04D10010	"Dripping, pork"	3703	0.2	100	40.9	0	0	0
+04D10028	"Fat, solid, blend of animal & vegetable oils"	3700	0.2	99.9	49.7	0	0	0
+04D10030	Lard	3696	0.2	99.8	38.8	0	0	0
+04D10033	"Oil, cod liver"	3696	0	99.9	20.9	0	0	0
+04D10035	"Dripping, beef"	3703	0.2	100	52.1	0	0	0
+04D10037	Suet	3395	0	86.7	49.2	11	0	0
+05A10051	"Blackfish, raw"	387	19.3	1.6	0.5	0	0	75
+05A10060	"Cod, baked or grilled, no added fat"	419	22.6	0.9	0.2	0	0	116
+05A10062	"Cod, steamed or poached"	388	21	0.8	0.2	0	0	97
+05A10063	"Cod, flesh, raw"	323	17.5	0.7	0.1	0	0	89
+05A10065	"Trout, coral, steamed or poached, no added salt"	459	23.1	1.8	0.6	0	0	73
+05A10066	"Trout, coral, raw"	382	19.2	1.5	0.5	0	0	68
+05A10067	"Dory, baked or grilled, no added fat"	460	24.3	1.3	0.4	0	0	135
+05A10069	"Dory, steamed or poached"	427	22.6	1.2	0.4	0	0	112
+05A10070	"Dory, flesh, raw"	356	18.8	1	0.3	0	0	104
+05A10075	"Flounder, baked or grilled, no added fat"	452	23.2	1.6	0.3	0	0	101
+05A10077	"Flounder, steamed or poached"	420	21.6	1.4	0.3	0	0	84
+05A10079	"Flounder, flesh, raw"	350	18	1.2	0.3	0	0	78
+05A10080	"Garfish, baked or grilled, no added fat"	510	26.6	1.6	0.5	0	0	374
+05A10082	"Garfish, raw"	395	20.6	1.2	0.4	0	0	289
+05A10084	"Herring, baked or grilled, no added fat"	1022	22.1	17.5	4.3	0	0	92
+05A10086	"Herring, fresh, raw"	790	17.1	13.5	3.3	0	0	72
+05A10087	"Hake, baked or grilled, no added fat"	437	21.2	2.1	0.7	0	0	84
+05A10089	"Hake, raw"	338	16.4	1.6	0.5	0	0	65
+05A10090	"Kingfish, baked or grilled, no added fat"	563	26.6	3	1	0	0	70
+05A10093	"Leatherjacket, steamed or  poached, no added salt"	412	22.6	0.8	0.2	0	0	109
+05A10094	"Leatherjacket, raw"	343	18.8	0.6	0.2	0	0	101
+05A10095	"Ling, baked or grilled, no added fat"	462	25.5	0.8	0.2	0	0	184
+05A10097	"Ling, steamed or poached"	429	23.6	0.7	0.1	0	0	153
+05A10098	"Ling, flesh, raw"	357	19.7	0.6	0.1	0	0	142
+05A10103	"Mackerel, fresh, raw"	542	21	5	1.4	0	0	75
+05A10104	"Perch, ocean, baked or grilled, no added fat"	398	21.7	0.8	0.2	0	0	84
+05A10106	"Perch, ocean, steamed or poached, no added salt"	370	20.2	0.7	0.2	0	0	70
+05A10108	"Perch, ocean, raw"	308	16.8	0.6	0.1	0	0	65
+05A10109	"Redfish, raw"	412	20.3	1.8	0.6	0	0	85
+05A10118	"Snapper, baked or grilled, no added fat"	523	26.3	2.1	0.8	0	0	110
+05A10123	"Sole, baked or grilled, no added fat"	471	24.1	1.7	0.5	0	0	139
+05A10124	"Sole, flesh, raw"	364	18.6	1.3	0.4	0	0	108
+05A10125	"Tailor, baked or grilled, no added fat"	712	26.4	7.1	2.1	0	0	110
+05A10127	"Tailor, poached or steamed, no added salt"	660	24.5	6.6	2	0	0	92
+05A10128	"Tailor, raw"	550	20.4	5.5	1.6	0	0	85
+05A10129	"Trevally, baked or grilled, no added fat"	594	27.2	3.6	1	0	0	83
+05A10131	"Trevally, steamed or poached"	551	25.2	3.3	1	0	0	69
+05A10132	"Trevally, flesh, raw"	459	21	2.8	0.8	0	0	64
+05A10133	"Trout, baked or grilled, no added fat"	611	25.1	5	1.2	0	0	64
+05A10135	"Trout, steamed or poached, no added salt"	567	23.3	4.6	1.1	0	0	53
+05A10136	"Trout, raw"	472	19.4	3.8	0.9	0	0	49
+05A10138	"Trumpeter, raw"	414	20.9	1.6	0.5	0	0	64
+05A10142	"Whitebait, baked or grilled, no added fat"	980	23.4	15.7	3.8	0	0	208
+05A10144	"Whitebait, raw"	755	18	12.1	3	0	0	160
+05A10145	"Whiting, baked or grilled, no added fat"	469	25.6	0.9	0.3	0	0	91
+05A10157	"Cod, smoked, baked, grilled or pan fried, no added fat"	419	22.6	0.9	0.2	0	0	847
+05A10159	"Mackerel, smoked"	1465	18.9	30.9	8	0	0	750
+05A10162	"Haddock, smoked, steamed or poached, no added salt"	429	23.3	0.9	0.2	0	0	990
+05A10163	"Herring, salted"	727	21.2	9.9	2.4	0	0	3064
+05A10164	"Herring, smoked, grilled, no added fat"	1022	22.1	17.5	4.3	0	0	92
+05A10165	"Herring, smoked, steamed or poached, no added salt"	951	19.7	16.7	4.1	0	0	80
+05A10167	"Anchovy, canned in brine, drained"	611	25.4	4.8	1.4	0	0	514
+05A10169	"Herring, canned with salt"	618	20.5	7.3	1.7	0	0	538
+05A10170	"Kipper, canned, drained"	1142	21.7	20.9	3.5	0	0	912
+05A10171	"Mackerel, canned in oil, drained"	1044	19	19.5	2.7	0	0	270
+05A10172	"Mackerel, canned in brine"	798	15.4	14.5	3.4	0	0	219
+05A10173	"Mackerel, canned in brine, drained"	985	19	17.9	4.2	0	0	270
+05A10181	"Salmon, pink, canned in water, no added salt"	543	19.4	5.8	1.7	0	0	97
+05A10185	"Sardine, canned in water, no added salt"	629	17.9	8.8	2.3	0	0	89
+05A10189	"Tuna, smoked, canned in oil, drained"	922	24.4	13.7	2.2	0	0	440
+05A10194	"Tuna, canned in water"	420	20.1	2.1	0.8	0	0	66
+05A10202	"Blue grenadier (hoki), raw"	303	15.2	1.2	0.2	0	0	53
+05A10347	"Barramundi, aquacultured fillets, raw"	385	19.4	1.5	0.4	0	0	70
+05A10348	"Barramundi, aquacultured fillets, steamed or poached"	453	22.8	1.8	0.4	0	0	70
+05A10349	"Bassa (basa), aquacultured, raw"	332	15.7	1.8	0.5	0	0	70
+05A10350	"Bassa (basa), aquacultured, steamed or poached"	391	18.5	2.1	0.6	0	0	70
+05A10351	"Bream, flesh, raw"	498	18.7	4.9	1.3	0	0	80
+05A10352	"Bream, flesh, steamed"	578	22.3	5.4	1.3	0	0	82
+05A10353	"Bream, flesh, baked in foil, no added fat"	586	22	5.7	1.5	0	0	94
+05A10356	"Flathead, flesh only, raw"	377	20.1	1	0.3	0	0	92
+05A10357	"Flathead, flesh only,  steamed"	487	26.1	1.2	0.3	0	0	91
+05A10364	"Blue grenadier (hoki), baked, no added fat"	427	22	1.3	0.3	0.3	0.3	56
+05A10365	"Milkfish, aquacultured, raw"	795	23.4	10.7	3.8	0	0	70
+05A10366	"Milkfish, aquacultured, steamed or poached"	935	27.5	12.6	4.5	0	0	70
+05A10367	"Morwong, raw"	487	17.4	5.2	1.4	0	0	80
+05A10368	"Morwong, flesh only, steamed"	526	22.9	3.7	1.4	0	0	86
+05A10371	"Mulloway, flesh only, raw"	409	19.4	2.2	0.6	0	0	51
+05A10376	"Mullet, yelloweye, raw"	501	17.6	5.5	2.4	0	0	120
+05A10377	"Mullet, yelloweye, steamed"	530	20.8	4.7	1.9	0	0	136
+05A10380	"Salmon, Atlantic, aquacultured, fillet, raw"	805	24.1	10.7	2.8	0	0	42
+05A10381	"Salmon, Atlantic, aquacultured, fillet, steamed or poached"	947	28.4	12.5	3.3	0	0	42
+05A10382	"Salmon, Atlantic, aquacultured, fillet, grilled, no added fat"	905	27.1	12	3.1	0	0	49
+05A10384	"Shark (flake), skinless fillet, raw"	421	24.5	0.1	0	0	0	84
+05A10385	"Shark (flake), skinless fillet, steamed"	523	30.3	0.2	0.1	0	0	94
+05A10389	"Silver perch, aquacultured, raw"	923	19.4	16	4.3	0	0	70
+05A10390	"Silver perch, aquacultured, steamed or poached"	1086	22.8	18.9	5	0	0	70
+05A10391	"Snapper, flesh, raw"	405	20.4	1.6	0.5	0	0	85
+05A10392	"Snapper, flesh, steamed"	518	24.5	2.7	0.8	0	0	103
+05A10396	"Tilapia, aquacultured, raw"	477	18.5	4.4	1.4	0	0	70
+05A10397	"Tilapia, aquacultured, steamed or poached"	562	21.8	5.2	1.6	0	0	70
+05A10398	"Trout, rainbow, aquacultured, raw"	645	19.6	8.4	2.5	0	0	70
+05A10399	"Trout, rainbow, aquacultured, steamed or poached"	758	23	9.9	3	0	0	70
+05A10400	"Tuna, yellowfin, fresh, raw"	435	23.4	1	0.2	0	0	37
+05A10403	"Whiting, king george, flesh only, raw"	372	20.3	0.7	0.2	0	0	72
+05A10404	"Whiting, king george, flesh only, steamed"	465	24.8	1.2	0.3	0	0	73
+05A10408	"Cod, smoked, steamed or poached"	397	20.1	1.5	0.4	0	0	548
+05A10411	"Salmon, smoked, sliced"	561	23	4.6	0.9	0	0	1266
+05A10413	"Anchovy, canned in oil, drained"	762	25.4	8.9	2	0	0	5480
+05A10414	"Salmon, Australian, canned in brine, undrained"	646	19.5	8.5	3.1	0	0	500
+05A10415	"Salmon, Australian, canned in brine, drained"	680	20.5	8.9	3.2	0	0	526
+05A10418	"Salmon, pink, canned in brine, undrained"	529	19.4	5.4	1.2	0	0	548
+05A10419	"Salmon, pink, canned in brine, drained"	639	22.8	6.8	1.5	0	0	405
+05A10421	"Salmon, red, canned in brine, undrained"	722	19.4	10.6	2.8	0	0	378
+05A10422	"Salmon, red, canned in brine, drained"	764	20.5	11.2	2.9	0	0	400
+05A10428	"Tuna, canned in brine, undrained"	435	22.1	1.6	0.5	0	0	390
+05A10429	"Tuna, canned in brine, drained"	497	23.8	2.5	0.8	0	0	327
+05A10430	"Tuna, canned in vegetable oil, undrained"	1212	20.8	23.2	3.5	0	0	417
+05A10431	"Tuna, canned in vegetable oil, drained"	889	23.6	13.2	2.1	0	0	425
+05A10446	"Flathead, flesh only, baked or grilled, no added fat"	495	26.4	1.3	0.3	0	0	122
+05A10449	"Silver perch, aquacultured, baked or grilled, no added fat"	1215	25.5	21.1	5.6	0	0	92
+05A10453	"Barramundi, aquacultured fillets, baked or grilled, no added fat"	507	25.5	2	0.5	0	0	92
+05A10455	"Bassa (basa), aquacultured, baked or grilled, no added fat"	437	20.7	2.3	0.7	0	0	92
+05A10469	"Shark (flake), skinless fillet, baked or grilled, no added fat"	555	32.2	0.2	0.1	0	0	111
+05A10472	"Orange roughy, flesh, raw"	426	19.6	2.5	0.1	0	0	71
+05A10473	"Orange roughy, baked or grilled, no added fat"	560	25.8	3.3	0.1	0	0	93
+05A10494	"Blue grenadier (hoki), steamed or poached"	365	18.3	1.4	0.3	0	0	54
+05A10503	"Mullet, yelloweye, baked or grilled, no added fat"	659	23.1	7.2	3.2	0	0	157
+05A10534	"Trout, rainbow, aquacultured, baked or grilled, no added fat"	848	25.7	11.1	3.3	0	0	92
+05A10536	"Tuna, canned in water, drained"	497	23.8	2.5	0.8	0	0	82
+05A10547	"Gemfish, flesh, raw"	323	13.2	2.6	0.7	0.1	0.1	40
+05A10559	"Cod, Atlantic, dried, salted"	1157	62.8	2.4	0.5	0	0	7027
+05A10560	"Cod, smoked, raw"	358	18.8	1	0.2	0	0	658
+05A10563	"Herring, Atlantic, pickled"	1038	14.2	18	2.4	7.7	7.7	870
+05A10570	"Salmon, red, canned in water, no added salt, drained"	816	21.9	12	3.1	0	0	62
+05A10571	"Salmon, pink, canned in water, no added salt, drained"	613	21.9	6.5	1.8	0	0	76
+05A10572	"Sardine, canned in oil"	1283	17.6	26.6	6.3	0	0	350
+05A10573	"Sardine, canned in oil, drained"	916	21	15.1	4.7	0	0	585
+05A10574	"Sardine, canned in water, no added salt, drained"	721	21.5	9.6	2.5	0	0	160
+05A10580	"Gemfish, flesh, steamed"	517	23.3	3.1	0.9	0.3	0.3	72
+05A10584	"Mulloway, flesh, steamed"	521	22.4	3.8	1.3	0	0	61
+05A10585	"Tuna, sandwich variety (shredded), canned in vegetable oil, undrained"	1056	18.1	20.2	3.1	0	0	483
+05A10606	"Tuna, raw, sashimi style, Japanese restaurant-style"	514	26.3	1.8	0.4	0	0	50
+05A10607	"Salmon, raw, sashimi style, Japanese restaurant-style"	879	22.3	13.5	3.5	0	0	42
+05A10609	"Smoked fish (including eel & trout), smoked"	631	27.8	4.3	1.4	0	0	1509
+05A10611	"Salmon, Australian, canned in water, no added salt, undrained"	646	19.5	8.5	3.1	0	0	69
+05A10734	"Sole, steamed or poached"	437	22.3	1.6	0.5	0	0	110
+05B10002	"Eel, stewed, grilled, baked, steamed or barbecued, no added salt"	944	23.3	14.8	3.2	0	0	58
+05C10020	"Bug, moreton bay, cooked whole in water or steam"	407	22	0.9	0.2	0	0	395
+05C10022	"Prawn, school, raw"	371	20.5	0.6	0.1	0	0	350
+05C10035	"Abalone, raw"	410	20.6	1	0.3	1.4	0.9	356
+05C10046	"Octopus, steamed, no added salt"	515	25.4	1.8	0.4	1	0.2	364
+05C10055	"Scallop, baked or grilled, no added fat"	389	19.3	1.2	0.3	1	0.2	272
+05C10061	"Prawn, canned, drained"	320	17.1	0.8	0.2	0	0	270
+05C10092	"Crab, various types, fresh only, boiled or steamed"	274	14.9	0.6	0.1	0	0	420
+05C10093	"Lobster, purchased steamed or boiled"	407	22	0.9	0.2	0	0	306
+05C10095	"Oyster, raw"	303	12	2.4	0.8	0.6	0	310
+05C10096	"Prawn, king (large size), raw (green)"	371	20.5	0.6	0.2	0	0	350
+05C10097	"Prawn, king (large size), flesh only, purchased cooked"	436	23.7	0.9	0.2	0	0	552
+05C10098	"Prawn, school, flesh only, purchased cooked"	320	17.1	0.8	0.2	0	0	524
+05C10100	"Scallop, raw"	384	18.5	1	0.2	1.9	0.5	220
+05C10101	"Scallop, boiled in water, no added salt"	441	22.2	1.5	0.3	0.5	0	155
+05C10102	"Squid or calamari, raw"	328	16.7	1.2	0.4	0	0	284
+05C10103	"Squid or calamari, poached"	410	20.9	1.5	0.5	0	0	355
+05C10105	"Crabmeat, canned in brine, undrained"	220	10.8	0.5	0.1	1.1	1.1	669
+05C10106	"Crabmeat, canned in brine, drained"	248	12.2	0.5	0.1	1.2	1.2	755
+05C10112	"Clam, boiled in water with no added salt"	441	22.2	1.5	0.3	0.5	0	155
+05C10113	"Squid or calamari, baked or grilled, no added fat"	391	19.9	1.4	0.4	0	0	338
+05C10115	"Oyster, baked or grilled, no added fat"	399	15.8	3.1	1	0.8	0.1	408
+05C10116	"Prawn, king (large size), baked or grilled, no added fat"	442	24.5	0.7	0.2	0	0	416
+05C10126	"Mussel, green, steamed or boiled"	504	18.8	3.1	0.9	4.1	0.7	553
+05C10130	"Mussel, smoked, canned in oil, drained"	807	20.8	10.4	2.8	4.1	0	457
+05C10131	"Oyster, smoked, canned in oil, drained"	858	17.4	12	3.4	7	0	391
+05C10140	"Mussel, blue, steamed"	438	16	2.3	0.4	4.7	0	353
+05D10042	"Roe, fish, boiled, no added salt"	641	28.8	4.1	1	0	0	127
+05D10102	"Shark's fin, canned"	713	23	8.7	2.3	0	0	443
+05D10290	"Fish roe (caviar), black, in spiced brine, drained"	386	10.9	5.4	1.2	0	0	2120
+05D10295	"Fish, white fish fillet, crumbed, frozen, baked"	959	11.8	14.5	5.5	12.8	0.7	397
+05D10296	"Fish ball, Asian style, raw"	315	12.3	0.8	0.2	4.5	1.4	650
+05D10300	"Fish finger, crumbed, frozen, raw"	838	10.1	11.5	3.1	13.8	0	259
+05D10301	"Fish finger, crumbed, frozen, grilled"	925	11.6	11.3	3.1	17.8	0.8	320
+05D10308	"Fish finger, crumbed, frozen, baked with no added fat"	997	12.1	13.7	3.7	16.4	0	308
+05D10335	"Fish roe (caviar), red, in spiced brine, drained"	631	19.2	8.2	2	0	0	1859
+05D10341	"Fish ball, Asian style, cooked"	315	12.3	0.8	0.2	4.5	1.4	650
+06A10015	"Cranberry, fresh, raw"	96	0.4	0.2	0	3.9	3.9	1
+06A10024	"Boysenberry, canned in light syrup, undrained"	257	0.6	0.4	0	12.7	12.6	4
+06A10026	"Loganberry, fresh, raw"	185	1.5	0.3	0	4.9	4.9	1
+06A10060	"Blackberry, fresh, raw"	220	1.4	0.3	0.1	7.5	7.5	0
+06A10062	"Blueberry, fresh, raw"	207	0.5	0.1	0	10.1	9.7	0
+06A10065	"Blueberry, canned in syrup, drained"	341	0.8	0.1	0	16.9	16.6	5
+06A10066	"Cranberry, dried, sweetened"	1202	0.1	1.4	0.2	65	65	3
+06A10067	"Mulberry, fresh, raw"	146	2.2	0.2	0.1	4.3	4.3	6
+06A10068	"Raspberry, purchased frozen"	238	1.2	0.3	0.1	7.3	7	1
+06A10069	"Raspberry, fresh, raw"	238	1.2	0.3	0.1	7.3	7	1
+06A10070	"Raspberry, canned in syrup, undrained"	335	0.6	0.1	0	17	16.8	5
+06A10071	"Raspberry, canned in syrup, drained"	362	1	0.2	0.1	16.2	15.9	6
+06A10074	"Strawberry, canned in syrup, drained"	374	0.9	0.1	0	18.7	18.5	10
+06A10075	"Strawberry, canned in syrup, undrained"	355	0.5	0.2	0	18.8	18.7	8
+06A10076	"Blueberry, dried"	1035	2.7	0.4	0	50.5	48.3	2
+06A10079	"Blueberry, fresh, stewed, no added sugar"	227	0.6	0.1	0	11.1	10.6	0
+06A10081	"Raspberry, purrchased frozen, stewed, no added sugar"	261	1.3	0.3	0.1	8.1	7.7	2
+06A10083	"Strawberry, fresh, stewed, no added sugar"	106	1.9	0.1	0	3	3	7
+06A10084	"Boysenberry, fresh, raw"	220	1.4	0.3	0.1	7.5	7.5	0
+06A10086	"Strawberry, fresh, raw"	113	0.7	0.2	0	3.9	3.8	3
+06A10096	"Blueberry, canned in syrup, undrained"	321	0.4	0	0	17.2	17	3
+06A10097	"Strawberry, purchased frozen"	113	0.7	0.2	0	3.9	3.8	3
+06A10098	"Blueberry, purchased frozen"	238	0.6	0.1	0	11.6	11.1	0
+06A20008	"Raspberry, canned in syrup, syrup only"	317	0.2	0	0	17.5	17.5	4
+06A20009	"Strawberry, canned in syrup, syrup only"	340	0.1	0.2	0	18.9	18.8	7
+06A20012	"Blueberry, canned in syrup, syrup only"	303	0.1	0	0	17.4	17.4	2
+06B10018	"Orange peel, raw"	341	1.5	0.2	0	16.2	16.2	3
+06B10025	"Kumquat, fresh, raw"	265	0.9	0.1	0	12.7	12.7	6
+06B10028	"Peel, mixed, dried"	1078	0.6	0.1	0	61.8	61.8	280
+06B10043	"Grapefruit, peeled, raw"	148	1	0.2	0	5.4	5.4	4
+06B10044	"Lemon, peeled, raw"	131	0.6	0.2	0	1.8	1.8	2
+06B10045	"Lemon peel, raw"	193	1.5	0.3	0	4.2	4.2	6
+06B10046	"Lime, peeled, raw"	137	0.8	0.2	0	1.2	1.2	3
+06B10047	"Mandarin (imperial), peeled, raw"	204	0.9	0.2	0	9	9	3
+06B10048	"Mandarin (tangor), ellendale, peeled, raw"	210	1.1	0.2	0	8.8	8.8	2
+06B10049	"Mandarin (tangelo), peeled, raw"	184	0.6	0.1	0	7.8	7.8	4
+06B10051	"Mandarin, canned in syrup, drained"	269	0.5	0.2	0	13.8	13.6	6
+06B10052	"Orange, navel (all varieties), peeled, raw"	185	1	0.1	0	8	8	3
+06B10055	"Orange, navel (washington), peeled, raw"	193	1.1	0.1	0	8	8	3
+06B10056	"Orange, valencia, peeled, raw"	163	0.9	0.1	0	6.9	6.9	2
+06B10060	"Orange, navel (all varieties), unpeeled (pith & peel), raw"	215	1.3	0.3	0	8	8	3
+06B10068	"Orange, navel (leng),  peeled, raw"	190	0.9	0.1	0	8.5	8.5	3
+06B10069	"Orange, navel (lane late),  peeled, raw"	196	0.9	0.1	0	9	9	3
+06B10074	"Mandarin, canned in syrup, undrained"	256	0.4	0.1	0	13.5	13.4	5
+06B10093	"Lemon, unpeeled, raw"	152	0.9	0.2	0.1	2.6	2.6	3
+06B20004	"Mandarin, canned in syrup, syrup only"	239	0.2	0	0	13.2	13.2	4
+06C10044	"Apricot, canned, pie filling"	182	0.8	0.1	0	8.8	8.8	2
+06C10045	"Apricot, canned in water, undrained"	94	0.5	0	0	4.3	4.3	3
+06C10054	"Cherry, stewed, no added sugar"	157	0.7	0.1	0	7.7	7.7	1
+06C10056	"Cherry, canned in light syrup, undrained"	299	0.8	0.1	0	16	15.8	4
+06C10059	"Nectarine, fresh, peeled, raw"	169	1	0.1	0	7.8	7.8	1
+06C10060	"Nectarine, stewed, from raw, no added sugar"	138	0.8	0	0	6.4	6.4	1
+06C10064	"Peach, fresh, peeled, raw"	134	0.8	0.1	0	6.2	6.2	2
+06C10065	"Peach, stewed, from raw,  no added sugar"	100	0.7	0.1	0	4.6	4.6	1
+06C10068	"Peach, canned, pie filling"	179	0.8	0.1	0	8.9	8.9	2
+06C10069	"Peach, canned in water, drained"	115	0.7	0	0	5.4	5.4	4
+06C10072	"Peach, canned in extra light juice, drained"	159	0.8	0	0	7.9	7.9	5
+06C10082	"Plum, canned in natural juice, undrained"	246	0.5	0	0	13.4	13.4	3
+06C10083	"Plum, canned in light syrup, undrained"	283	0.4	0	0	15.6	15.6	2
+06C10088	"Date, fresh, raw"	601	1	0.1	0	32	31.4	7
+06C10094	"Nectarine, dried"	1016	6.5	0.6	0.1	45.3	45.3	6
+06C10095	"Peach, dried"	841	5.5	0.6	0	38.6	38.6	12
+06C10101	"Prune (dried plum), canned, drained"	305	0.8	0.1	0	15.9	15.5	3
+06C10131	"Apricot, fresh, raw"	177	0.8	0.1	0	6.6	6.6	2
+06C10132	"Apricot, canned in syrup, undrained"	255	0.7	0	0	12.9	12.9	2
+06C10133	"Apricot, canned in syrup, drained"	259	0.9	0	0	12.3	12.3	2
+06C10134	"Apricot, canned in light syrup, undrained"	202	0.7	0	0	9.7	9.7	3
+06C10135	"Apricot, canned in light syrup, drained"	207	1	0	0	9	9	3
+06C10136	"Apricot, canned in pear juice, undrained"	181	0.8	0	0	8.2	8.2	4
+06C10137	"Apricot, canned in pear juice, drained"	189	1	0	0	7.8	7.8	3
+06C10140	"Apricot, dried"	927	4.5	0.2	0.1	43.5	42.4	39
+06C10141	"Cherry, fresh, raw"	232	0.8	0.2	0.1	10.9	10.9	0
+06C10142	"Cherry, black, canned in syrup, drained"	311	0.9	0.1	0	16	15.7	5
+06C10144	"Date, dried"	1283	2	0.2	0.1	67.2	65.9	14
+06C10145	"Nectarine, fresh, unpeeled, raw"	195	1.2	0.1	0	8.1	8.1	0
+06C10146	"Peach, fresh, unpeeled, raw"	202	1	0.1	0	8.7	8.5	2
+06C10147	"Peach, canned in syrup, undrained"	239	0.6	0	0	12.1	12.1	3
+06C10148	"Peach, canned in syrup, drained"	237	0.7	0	0	11.5	11.5	3
+06C10149	"Peach, canned in light syrup, undrained"	242	0.6	0	0	12.3	12.3	3
+06C10150	"Peach, canned in light syrup, drained"	238	0.8	0	0	11.5	11.5	2
+06C10151	"Peach, canned in pear juice, undrained"	180	0.6	0	0	8.5	8.5	8
+06C10152	"Peach, canned in pear juice, drained"	189	0.8	0.1	0	8.4	8.4	7
+06C10153	"Peach, canned in intense sweetened liquid, drained"	127	0.7	0	0	5.4	5.4	4
+06C10154	"Peach, canned in intense sweetened liquid, undrained"	121	0.5	0	0	5.5	5.5	4
+06C10155	"Plum, dark, canned in syrup, drained"	400	0.4	0.1	0	21.3	21	4
+06C10156	"Plum, dark, canned in syrup, undrained"	389	0.3	0.1	0	21.3	21.1	3
+06C10157	"Prune (dried plum)"	696	2.3	0.4	0.1	32.5	31	7
+06C10158	"Plum, fresh, unpeeled, all types, raw"	164	0.6	0.1	0	6.5	6.5	2
+06C10160	"Prune (dried plum), stewed, no added sugar"	248	0.8	0.1	0	11.6	11	2
+06C10162	"Mixed fruit, peach & pear, canned in light syrup, drained"	249	0.6	0	0	12.4	12.4	2
+06C10163	"Mixed fruit, peach & pear, canned in light syrup, undrained"	250	0.4	0	0	13.1	13.1	2
+06C10164	"Peach, fresh, unpeeled, poached in water, no added sugar, drained"	202	1	0.1	0	8.7	8.5	2
+06C10166	"Plum, pickled, drained"	640	2.4	0.4	0.1	25	25	7317
+06C10167	"Plum, unpeeled, all types, stewed in water, no added sugar"	181	0.7	0.1	0	7.1	7.1	2
+06C10171	"Apricot, canned in intense sweetened liquid, drained"	113	0.8	0	0	3.9	3.9	3
+06C10186	"Cherry, black, canned in syrup, undrained"	300	0.7	0.1	0	16	15.8	4
+06C10187	"Apricot, canned in intense sweetened liquid, undrained"	105	0.5	0	0	4.3	4.3	3
+06C20019	"Apricot, canned in syrup, syrup only"	250	0.4	0	0	13.7	13.7	2
+06C20020	"Apricot, canned in light syrup, syrup only"	197	0.3	0	0	10.5	10.5	2
+06C20021	"Apricot, canned in pear juice, juice only"	170	0.5	0	0	8.7	8.7	5
+06C20024	"Peach, canned in syrup, syrup only"	243	0.3	0	0	13.2	13.2	4
+06C20025	"Peach, canned in light syrup, syrup only"	247	0.3	0	0	13.3	13.3	4
+06C20026	"Peach, canned in pear juice, juice only"	167	0.4	0	0	8.5	8.5	10
+06C20027	"Peach, canned in intense sweetened liquid, liquid only"	108	0.2	0	0	5.6	5.6	3
+06C20028	"Plum, dark, canned in syrup, syrup only"	377	0.2	0	0	21.3	21.2	2
+06C20029	"Cherry, black, canned in syrup, syrup only"	288	0.5	0	0	16	16	3
+06C20030	"Apricots, canned in intense sweetened liquid, liquid only"	94	0.2	0	0	4.7	4.7	2
+06D10078	"Blackcurrant, fresh, raw"	227	1.4	0.4	0	8	8	2
+06D10096	"Pear, brown skin, peeled, raw"	209	0.3	0.1	0	10.8	10.8	2
+06D10098	"Pear, green skin, peeled, raw"	189	0.3	0.1	0	9.8	9.8	2
+06D10115	"Quince, stewed, no added sugar"	193	0.4	0.1	0	8.1	8.1	12
+06D10126	"Pineapple, canned in light syrup, undrained"	214	0.7	0.1	0	11.3	11.3	3
+06D10132	"Carambola (starfruit), fresh, raw"	122	0.7	0.2	0	5.3	4.8	3
+06D10137	"Jackfruit, canned, undrained"	421	1.3	0.2	0	22.3	22	2
+06D10140	"Mango, stewed, no added sugar"	186	0.7	0.2	0	9.3	9	1
+06D10142	"Mango, canned in natural juice, undrained"	229	0.8	0.1	0	12	11.7	1
+06D10143	"Mango, canned in natural juice, drained"	227	0.9	0.1	0	11.7	11.4	1
+06D10144	"Mango, canned in light syrup, undrained"	255	0.7	0.1	0	13.6	13.3	2
+06D10145	"Mango, canned in light syrup, drained"	249	1	0.1	0	13	12.7	3
+06D10153	"Fig, fresh, peeled, raw"	189	1.3	0.3	0	8.2	8.2	3
+06D10154	"Fig, stewed, from raw, no added sugar"	143	1	0.2	0	6	6	2
+06D10158	"Grape, green, with seeds, raw"	269	0.8	0.1	0	14.4	14.4	6
+06D10159	"Grape, black, with seeds, raw"	285	1.2	0.1	0	14.9	14.9	4
+06D10165	"Lychee, canned in light syrup, undrained"	304	0.4	0.1	0	17	16.9	6
+06D10166	"Lychee, canned in light syrup, drained"	315	0.6	0.1	0	17.1	16.9	6
+06D10173	"Rhubarb, canned in light syrup"	227	0.8	0.1	0	11.6	11.6	6
+06D10178	Raisin	1320	2.3	0.9	0.3	71.1	69.1	58
+06D10182	"Banana, dried"	1289	5.6	0.3	0	66	56.1	3
+06D10185	"Pear, dried"	880	1.1	0.4	0	45.3	45.3	10
+06D10276	"Apple, granny smith, unpeeled, raw"	214	0.3	0	0	10.7	10.5	2
+06D10281	"Apple, red skin, unpeeled, raw"	240	0.4	0.1	0	12.2	11.6	1
+06D10282	"Apple, green skin, unpeeled, raw"	211	0.3	0	0	10.6	10.4	2
+06D10283	"Apple, dried"	1306	1.3	0.3	0.1	64.5	62.1	91
+06D10286	"Pear, brown skin, unpeeled, raw"	213	0.3	0	0	10.4	10.4	2
+06D10287	"Pear, nashi, unpeeled, raw"	220	0.4	0.1	0	11.1	10.6	7
+06D10289	"Pear, canned in syrup, undrained"	266	0.4	0	0	14.1	14.1	3
+06D10290	"Pear, canned in syrup, drained"	271	0.6	0	0	13.7	13.7	3
+06D10291	"Pear, canned in light syrup, undrained"	258	0.3	0	0	13.7	13.7	2
+06D10292	"Pear, canned in light syrup, drained"	260	0.4	0	0	13.2	13.2	2
+06D10293	"Pear, canned in pear juice, undrained"	173	0.5	0	0	8.7	8.7	6
+06D10294	"Pear, canned in pear juice, drained"	182	0.6	0	0	8.6	8.6	6
+06D10295	"Pear, canned in intense sweetened liquid, drained"	109	0.3	0	0	4.9	4.9	3
+06D10296	"Pear, canned in intense sweetened liquid, undrained"	102	0.3	0	0	4.9	4.9	3
+06D10301	"Currant, dried"	1233	2.8	0.5	0.1	65.1	63.2	46
+06D10303	"Fig, unpeeled, raw"	205	1.4	0.3	0	8.1	8.1	3
+06D10304	"Fig, dried"	1137	3.6	0.7	0.1	54.5	52.6	39
+06D10308	"Grape, red globe, raw"	341	0.9	0.2	0.1	16.3	16.3	5
+06D10309	"Grape, thompson seedless or sultana, raw"	301	0.6	0.1	0	15.5	15.5	4
+06D10311	"Guava, hawaiian, raw"	152	0.7	0.5	0.1	3.5	3.4	4
+06D10313	"Kiwifruit, hayward, peeled, raw"	233	1.2	0.2	0.1	9.1	9.1	4
+06D10315	"Lychee, peeled, raw"	313	1.1	0.1	0	16.2	16.2	1
+06D10316	"Mango, peeled, raw"	244	0.9	0.2	0	11.6	11.2	1
+06D10317	"Melon, honey dew, white skin, peeled, raw"	157	0.7	0.3	0.1	7.1	7.1	44
+06D10319	"Melon, rockmelon (cantaloupe), peeled, raw"	127	0.6	0.1	0	5.7	5.7	17
+06D10320	"Melon, watermelon, peeled, raw"	134	0.4	0.3	0.1	6.4	6.4	2
+06D10321	"Passionfruit, raw"	322	3	0.3	0.1	5.7	5.7	19
+06D10322	"Passionfruit, pulp, canned"	322	3	0.3	0.1	5.7	5.7	19
+06D10323	"Pawpaw (papaya), peeled, raw"	149	0.4	0.1	0	6.9	6.9	7
+06D10325	"Persimmon, peeled, raw"	315	0.6	0.2	0.1	16.1	16.1	6
+06D10326	"Pineapple (cayenne), fresh, peeled, raw"	189	0.6	0.2	0.1	8.2	8.2	2
+06D10327	"Pineapple, canned in heavy syrup, undrained"	383	0.3	0.6	0.2	19.8	19.8	6
+06D10328	"Pineapple, canned in heavy syrup, drained"	374	0.2	0.3	0.1	19.8	19.8	2
+06D10329	"Pineapple, canned in pineapple juice, undrained"	250	0.5	0.6	0.2	12	12	5
+06D10330	"Pineapple, canned in pineapple juice, drained"	220	0.5	0.1	0	10.5	10.5	4
+06D10332	"Pomegranate, peeled, raw"	349	1.9	0.2	0.1	13.5	13.5	4
+06D10334	"Rambutan, raw"	328	1	0.4	0.1	15.7	15.7	2
+06D10335	"Rhubarb, stalk, raw"	100	1.5	0.2	0.1	1.7	1.7	12
+06D10336	"Sultana, dried"	1388	2.8	0.4	0.1	75	73.2	36
+06D10340	"Apple, red skin, peeled, raw"	249	0.3	0.2	0.1	12.4	12.2	1
+06D10341	"Apple, green skin, peeled, raw"	212	0.3	0	0	10.8	10.7	2
+06D10342	Banana chip	2206	2.3	33.6	29.1	50.7	35.3	5
+06D10352	"Kiwifruit, unpeeled, raw"	196	0.9	0.6	0	8.6	8.1	4
+06D10353	"Banana, cavendish, peeled, baked"	460	1.8	0.2	0	23	19.3	0
+06D10360	"Apricot, dried, stewed, no added sugar"	330	1.6	0.1	0	15.5	15.1	14
+06D10369	"Rhubarb, stalk, stewed, no added sugar"	107	1.6	0.2	0.1	1.8	1.8	13
+06D10371	"Pear, nashi, peeled, raw"	220	0.4	0.1	0	11.1	10.6	7
+06D10375	"Mango, pulp, canned"	267	0.9	0.2	0	13.1	12.7	1
+06D10376	"Apple, peeled, stewed, no added sugar"	181	0.2	0.1	0	9.1	8.9	1
+06D10378	"Apple, canned in syrup, pie filling"	221	0.3	0	0	11.3	11.2	1
+06D10379	"Apricot, fresh, stewed, no added sugar"	134	0.6	0.1	0	5	5	2
+06D10380	"Feijoa, flesh, raw"	188	0.7	0.3	0	8	7.7	3
+06D10383	"Lychee, canned in pear juice, drained"	324	1.1	0.1	0	16.9	16.9	1
+06D10384	"Mango, dried"	1221	4.6	0.9	0.2	58.2	55.9	4
+06D10385	"Pear, peeled, poached in water, no added sugar, drained"	201	0.3	0	0	9.6	9.6	2
+06D10386	"Pineapple, canned in water, drained"	191	0.7	0.3	0.1	8.3	8.3	2
+06D10389	"Kiwano, flesh, raw"	127	1.8	0	0	3.1	3.1	6
+06D10395	"Pineapple, fresh, cooked in light syrup, drained"	221	0.2	0.4	0	10.4	10.4	2
+06D10398	"Grape, black muscatel, raw"	373	1.1	0.1	0	18.8	18.8	8
+06D10399	"Grape, cornichon, raw"	280	1.3	0.1	0	12.7	12.7	3
+06D10400	"Grape, waltham cross, raw"	303	0.8	0.1	0	14.4	14.4	6
+06D10401	"Grape, black sultana, raw"	302	1.2	0.1	0	14	14	3
+06D10407	"Loquat, peeled, raw"	128	1	0.2	0	4.9	4.9	2
+06D10411	"Pepino, peeled, raw"	106	0.6	0.1	0	4.8	4.8	1
+06D10412	"Tamarillo, peeled, raw"	159	2	0.1	0	3.4	3.4	1
+06D10415	"Melon, honey dew, yellow skin, peeled, raw"	113	0.8	0.3	0	4.4	4.4	40
+06D10416	"Jackfruit, peeled, raw"	365	2.2	0.3	0	16.7	16.3	3
+06D10417	"Prickly pear, peeled, raw"	216	0.4	0.3	0	8.8	8.8	1
+06D10418	"Wax jambu, raw"	114	0.7	0.2	0	4.5	4.5	1
+06D10419	"Babaco, peeled, raw"	94	1.3	0.1	0	3.1	3.1	2
+06D10422	"Custard apple, African pride, peeled, raw"	342	1.4	0.6	0.2	15.8	14.7	4
+06D10427	"Apple, red delicious, unpeeled, raw"	244	0.3	0	0	12.8	12.4	1
+06D10428	"Apple, golden delicious, unpeeled, raw"	213	0.3	0	0	10.8	10.8	2
+06D10430	"Apple, jonathon, unpeeled, raw"	233	0.3	0	0	11.9	11.8	1
+06D10431	"Apple, fuji, unpeeled, raw"	253	0.3	0.3	0	12.1	12.1	2
+06D10432	"Apple, bonza, unpeeled, raw"	251	0.3	0.3	0	11.5	11.5	0
+06D10433	"Apple, pink lady, unpeeled, raw"	254	0.3	0.4	0	11.9	11.9	0
+06D10437	"Pear, packhams triumph, unpeeled, raw"	184	0.3	0	0	9.1	9.1	1
+06D10438	"Pear, william bartlett, unpeeled, raw"	196	0.3	0	0	8.9	8.9	2
+06D10443	"Banana, cavendish, peeled, raw"	398	1.4	0.3	0	19.6	12.8	0
+06D10444	"Banana, lady finger or sugar, peeled, raw"	497	1.5	0.1	0	25	18.3	2
+06D10448	"Apple, granny-smith, unpeeled, baked"	230	0.4	0.2	0	10.3	9.8	3
+06D10449	"Quince, peeled, raw"	255	0.5	0.2	0	11	11	16
+06D10456	"Apple, royal gala, unpeeled, raw"	234	0.4	0	0	12.1	11.1	1
+06D10463	"Kiwifruit, gold, peeled"	259	1.2	0.5	0.1	11.1	10.9	3
+06D20014	"Pear, canned in sugar syrup, syrup only"	260	0.2	0	0	14.7	14.7	2
+06D20015	"Pear, canned in light syrup, syrup only"	256	0.2	0	0	14.5	14.5	2
+06D20016	"Pear, canned in pear juice, juice only"	160	0.2	0	0	8.8	8.8	6
+06D20017	"Pear, canned in intense sweetened liquid, liquid only"	93	0.2	0	0	5	5	2
+06D20020	"Guava, pulp, canned"	152	0.7	0.5	0.1	3.5	3.4	4
+06D20022	"Pineapple, canned in pineapple juice, juice only"	201	0.3	0	0	10.6	10.6	1
+06D20023	"Pineapple, canned in heavy syrup, syrup only"	396	0.3	0	0	22	22	1
+06E10064	"Fruit salad, canned in heavy syrup, undrained"	367	0.5	0.1	0	19.5	19.5	2
+06E10065	"Fruit salad, canned in heavy syrup, drained"	372	0.6	0.2	0.1	19	19	2
+06E10066	"Fruit salad, canned in syrup, undrained"	212	0.4	0.1	0	11	11	4
+06E10067	"Fruit salad, canned in syrup, drained"	215	0.6	0.1	0	10.6	10.6	4
+06E10068	"Fruit salad, canned in pear juice, drained"	177	0.6	0.1	0	8.5	8.5	6
+06E10069	"Fruit salad, canned in pear juice, drained"	184	0.8	0.1	0	8.2	8.2	6
+06E10075	"Pawpaw (papaya) dried, sweetened"	1218	1.4	0.4	0.1	64.8	64.8	25
+06E10076	"Pineapple, dried, sugar sweetened"	1361	2.3	0.9	0.2	69.7	69.7	7
+06E10080	"Fruit salad, canned in pineapple juice, drained"	236	0.9	0.2	0	10.8	10.8	2
+06E10085	"Fruit salad, canned in pineapple juice, undrained"	229	0.7	0.1	0	11	11	2
+06E20009	"Fruit salad, canned in heavy syrup, syrup only"	358	0.2	0	0	20.3	20.3	2
+06E20010	"Fruit salad, canned in syrup, syrup only"	209	0.2	0	0	11.6	11.6	3
+06E20011	"Fruit salad, canned in pear juice, juice only"	168	0.4	0	0	8.9	8.9	7
+06E20016	"Fruit salad, canned in pineapple juice, juice only"	214	0.4	0	0	11.5	11.5	2
+08A10227	"Beef, oxtail, raw"	1287	17.4	26.8	10.3	0	0	82
+08A10709	"Venison, grilled or barbecued"	632	31.6	2.5	0.9	0	0	43
+08A10727	"Beef, blade steak, separable lean, raw"	474	22.2	2.6	0.9	0	0	56
+08A10728	"Beef, blade steak, semi-trimmed, raw"	598	21.6	6.2	2.3	0	0	54
+08A10729	"Beef, blade steak, untrimmed, raw"	707	21	9.5	3.6	0	0	52
+08A10730	"Beef, blade steak, separable lean, grilled, no added fat"	650	31.9	2.9	1	0	0	48
+08A10731	"Beef, blade steak, fully-trimmed, grilled, no added fat"	683	31.6	4	1.4	0	0	48
+08A10732	"Beef, blade steak, semi-trimmed, grilled, no added fat"	740	31	5.8	2.2	0	0	47
+08A10733	"Beef, blade steak, untrimmed, grilled, no added fat"	791	30.5	7.4	2.8	0	0	46
+08A10734	"Beef, chuck steak, separable lean, raw"	517	23	3.4	1.2	0	0	62
+08A10735	"Beef, chuck steak, fully-trimmed, raw"	654	22.2	7.5	2.8	0	0	59
+08A10736	"Beef, chuck steak, untrimmed, raw"	755	21.7	10.5	3.9	0	0	58
+08A10737	"Beef, chuck steak, separable lean, casseroled, no added fat"	953	33	10.6	3.5	0	0	53
+08A10738	"Beef, chuck steak, fully-trimmed, casseroled, no added fat"	1035	31.9	13.3	4.7	0	0	52
+08A10739	"Beef, chuck steak, untrimmed, casseroled, no added fat"	1089	31.2	15.1	5.5	0	0	51
+08A10740	"Beef, diced, separable lean, raw"	574	27.9	2.7	1	0	0	38
+08A10741	"Beef, diced, untrimmed, raw"	614	27.6	3.9	1.5	0	0	38
+08A10742	"Beef, diced, separable lean, dry fried"	667	32.7	3	1	0	0	47
+08A10743	"Beef, diced, fully-trimmed, dry fried"	667	32.7	3	1	0	0	47
+08A10744	"Beef, diced, untrimmed, dry fried"	691	32.4	3.8	1.3	0	0	47
+08A10745	"Beef, eye fillet, separable lean, grilled, no added fat"	746	31.9	5.5	1.8	0	0	49
+08A10746	"Beef, fillet steak, separable lean, raw"	570	22.2	5.2	2	0	0	57
+08A10747	"Beef, fillet steak, untrimmed, raw"	710	21.5	9.3	3.7	0	0	55
+08A10748	"Beef, fillet steak, separable lean, grilled, no added fat"	746	31.9	5.5	1.8	0	0	49
+08A10749	"Beef, fillet steak, fully-trimmed, grilled, no added fat"	746	31.9	5.5	1.8	0	0	49
+08A10750	"Beef, fillet steak, semi-trimmed, grilled, no added fat"	783	31.5	6.7	2.3	0	0	49
+08A10751	"Beef, fillet steak, untrimmed, grilled, no added fat"	849	30.8	8.8	3.2	0	0	48
+08A10752	"Beef, round medallion, separable lean, grilled, no added fat"	615	31.8	2	0.7	0	0	43
+08A10753	"Beef, round steak, separable lean, raw"	420	21	1.7	0.6	0	0	50
+08A10754	"Beef, round steak, semi-trimmed, raw"	525	20.5	4.7	1.9	0	0	49
+08A10755	"Beef, round steak, untrimmed, raw"	568	20.4	6	2.5	0	0	48
+08A10756	"Beef, round steak, separable lean, grilled, no added fat"	615	31.8	2	0.7	0	0	43
+08A10757	"Beef, round steak, fully-trimmed, grilled, no added fat"	632	31.6	2.5	0.9	0	0	43
+08A10758	"Beef, round steak, semi-trimmed, grilled, no added fat"	656	31.4	3.3	1.2	0	0	43
+08A10759	"Beef, round steak, untrimmed, grilled, no added fat"	697	31	4.6	1.6	0	0	42
+08A10760	"Beef, rump medallion, separable lean, grilled, no added fat"	710	32	4.5	1.5	0	0	43
+08A10761	"Beef, rump steak, separable lean, raw"	450	20.4	2.8	1	0	0	50
+08A10762	"Beef, rump steak, semi-trimmed, raw"	546	20	5.6	2.1	0	0	49
+08A10763	"Beef, rump steak, untrimmed, raw"	815	18.9	13.3	5.3	0	0	46
+08A10764	"Beef, rump steak, separable lean, grilled, no added fat"	710	32	4.5	1.5	0	0	43
+08A10765	"Beef, rump steak, fully-trimmed, grilled, no added fat"	742	31.7	5.5	1.9	0	0	43
+08A10766	"Beef, rump steak, semi-trimmed, grilled, no added fat"	804	31	7.5	2.6	0	0	42
+08A10767	"Beef, rump steak, untrimmed, grilled, no added fat"	910	29.9	10.9	3.8	0	0	41
+08A10768	"Beef, scotch fillet, separable lean, raw"	508	23.8	2.8	1.1	0	0	57
+08A10769	"Beef, scotch fillet, semi-trimmed, raw"	751	22.4	10	4.1	0	0	53
+08A10770	"Beef, scotch fillet, untrimmed, raw"	883	21.6	13.9	5.8	0	0	51
+08A10771	"Beef, scotch fillet, separable lean, grilled, no added fat"	707	31.9	4.5	1.5	0	0	49
+08A10772	"Beef, scotch fillet, fully-trimmed, grilled, no added fat"	756	31.4	6	2.1	0	0	48
+08A10773	"Beef, scotch fillet, semi-trimmed, grilled, no added fat"	863	30.3	9.4	3.6	0	0	47
+08A10774	"Beef, scotch fillet, untrimmed, grilled, no added fat"	953	29.4	12.3	4.9	0	0	46
+08A10775	"Beef, silverside minute steak, separable lean, roasted, no added fat"	664	26.9	5.6	1.6	0	0	54
+08A10776	"Beef, silverside roast, separable lean, raw"	495	24.1	2.3	0.8	0	0	44
+08A10777	"Beef, silverside roast, semi-trimmed, raw"	568	23.7	4.5	1.8	0	0	43
+08A10778	"Beef, silverside roast, untrimmed, raw"	711	22.8	8.7	3.6	0	0	42
+08A10779	"Beef, silverside roast, separable lean, roasted, no added fat"	664	26.9	5.6	1.6	0	0	54
+08A10780	"Beef, silverside roast, fully-trimmed, roasted, no added fat"	681	26.8	6.1	1.7	0	0	54
+08A10781	"Beef, silverside roast, semi-trimmed, roasted, no added fat"	704	26.6	6.8	2	0	0	53
+08A10782	"Beef, silverside roast, untrimmed, roasted, no added fat"	797	26	9.6	3.1	0	0	52
+08A10783	"Beef, sirloin steak, separable lean, raw"	480	24.1	1.9	0.7	0	0	57
+08A10784	"Beef, sirloin steak, semi-trimmed, raw"	599	23.4	5.5	2.2	0	0	55
+08A10785	"Beef, sirloin steak, untrimmed, raw"	930	21.4	15.3	6.4	0	0	50
+08A10786	"Beef, sirloin steak, separable lean, grilled, no added fat"	659	30.5	3.8	1.2	0	0	49
+08A10787	"Beef, sirloin steak, fully-trimmed, grilled, no added fat"	676	30.3	4.3	1.5	0	0	49
+08A10788	"Beef, sirloin steak, semi-trimmed, grilled, no added fat"	746	29.7	6.5	2.4	0	0	48
+08A10789	"Beef, sirloin steak, untrimmed, grilled, no added fat"	1007	27.3	14.7	6	0	0	45
+08A10790	"Beef, stir-fry strips, separable lean, raw"	536	27.2	2	0.7	0	0	38
+08A10791	"Beef, stir-fry strips, untrimmed, raw"	559	27	2.7	1	0	0	38
+08A10792	"Beef, stir-fry strips, separable lean, dry fried"	644	30.9	3.2	1	0	0	47
+08A10793	"Beef, stir-fry strips, fully-trimmed, dry fried"	644	30.9	3.2	1	0	0	47
+08A10794	"Beef, stir-fry strips, untrimmed, dry fried"	657	30.8	3.6	1.2	0	0	47
+08A10795	"Beef, t-bone steak, separable lean, raw"	487	24.4	2	0.7	0	0	57
+08A10796	"Beef, t-bone steak, semi-trimmed, raw"	738	22.8	9.5	3.9	0	0	53
+08A10797	"Beef, t-bone steak, untrimmed, raw"	988	21.3	16.9	7.1	0	0	49
+08A10798	"Beef, t-bone steak, separable lean, grilled, no added fat"	637	29.2	3.8	1.2	0	0	49
+08A10799	"Beef, t-bone steak, fully-trimmed, grilled, no added fat"	755	28.2	7.4	2.8	0	0	48
+08A10800	"Beef, t-bone steak, semi-trimmed, grilled, no added fat"	837	27.5	10	3.9	0	0	47
+08A10801	"Beef, t-bone steak, untrimmed, grilled, no added fat"	984	26.3	14.5	5.9	0	0	45
+08A10802	"Beef, topside roast, separable lean, raw"	490	22.3	3	1.1	0	0	44
+08A10803	"Beef, topside roast, semi-trimmed, raw"	558	22	5	2	0	0	43
+08A10804	"Beef, topside roast, untrimmed, raw"	558	22	5	2	0	0	43
+08A10805	"Beef, topside roast, separable lean, roasted, no added fat"	660	32.7	2.8	0.8	0	0	54
+08A10806	"Beef, topside roast, fully-trimmed, roasted, no added fat"	676	32.5	3.3	1	0	0	54
+08A10807	"Beef, topside roast, semi-trimmed, roasted, no added fat"	719	32.1	4.7	1.5	0	0	53
+08A10808	"Beef, topside roast, untrimmed, roasted, no added fat"	793	31.3	7.1	2.4	0	0	52
+08A10809	"Beef, topside steak, separable lean, raw"	490	22.3	3	1.1	0	0	44
+08A10810	"Beef, topside steak, semi-trimmed, raw"	558	22	5	2	0	0	43
+08A10811	"Beef, topside steak, untrimmed, raw"	564	21.9	5.2	2	0	0	43
+08A10812	"Beef, topside steak, separable lean, roasted, no added fat"	660	32.7	2.8	0.8	0	0	54
+08A10813	"Beef, topside steak, fully-trimmed, roasted, no added fat"	676	32.5	3.3	1	0	0	54
+08A10814	"Beef, topside steak, semi-trimmed, roasted, no added fat"	719	32.1	4.7	1.5	0	0	53
+08A10815	"Beef, topside steak, untrimmed, roasted, no added fat"	793	31.3	7.1	2.4	0	0	52
+08A10824	"Beef, all cuts, separable fat, raw"	2478	12.1	61.4	25.7	0	0	25
+08A10825	"Beef, all cuts, separable fat, cooked, no added fat"	2317	15.3	55.6	21.6	0	0	29
+08A10826	"Beef, topside steak, fully-trimmed, raw"	508	22.2	3.5	1.3	0	0	44
+08A10827	"Beef, topside roast, fully-trimmed, raw"	518	22.2	3.8	1.4	0	0	44
+08A10828	"Beef, silverside minute steak, separable lean, raw"	495	24.1	2.3	0.8	0	0	44
+08A10829	"Beef, silverside roast, fully-trimmed, raw"	525	23.9	3.2	1.2	0	0	44
+08A10830	"Beef, stir-fry strips, fully-trimmed, raw"	544	27.1	2.2	0.8	0	0	38
+08A10831	"Beef, round steak, fully-trimmed, raw"	457	20.8	2.8	1.1	0	0	50
+08A10832	"Beef, round medallion, separable lean, raw"	420	21	1.7	0.6	0	0	50
+08A10833	"Beef, rump steak, fully-trimmed, raw"	511	20.2	4.6	1.7	0	0	49
+08A10834	"Beef, rump medallion, separable lean, raw"	450	20.4	2.8	1	0	0	50
+08A10835	"Beef, diced, fully-trimmed, raw"	588	27.8	3.1	1.1	0	0	38
+08A10836	"Beef, fillet steak, fully-trimmed, raw"	608	22	6.3	2.4	0	0	56
+08A10837	"Beef, eye fillet, separable lean, raw"	570	22.2	5.2	2	0	0	57
+08A10838	"Beef, t-bone steak, fully-trimmed, raw"	607	23.7	5.5	2.3	0	0	55
+08A10839	"Beef, sirloin steak, fully-trimmed, raw"	520	23.9	3.1	1.2	0	0	56
+08A10840	"Beef, scotch fillet, fully-trimmed, raw"	607	23.2	5.7	2.3	0	0	55
+08A10841	"Beef, blade steak, fully-trimmed, raw"	534	21.9	4.4	1.6	0	0	55
+08A10911	"Beef, topside or silverside, separable fat, raw"	2478	12.1	61.4	26.6	0	0	25
+08A10912	"Beef, stir-fry strips or diced, separable fat, raw"	2478	12.1	61.4	25.7	0	0	25
+08A10913	"Beef, round steak, separable fat, raw"	2478	12.1	61.4	27.4	0	0	25
+08A10914	"Beef, rump steak, separable fat, raw"	2478	12.1	61.4	24.6	0	0	25
+08A10915	"Beef, loin (fillet, sirloin, scotch fillet, t-bone), separable fat, raw"	2478	12.1	61.4	26.1	0	0	25
+08A10916	"Beef, blade steak, separable fat, raw"	2478	12.1	61.4	23.6	0	0	25
+08A10917	"Beef, topside/silverside, separable fat, roasted, no added fat"	2317	15.3	55.6	21.1	0	0	29
+08A10918	"Beef, stir-fry strips or diced, separable fat, dry fried"	2317	15.3	55.6	21.1	0	0	29
+08A10919	"Beef, round steak, separable fat, grilled, no added fat"	2317	15.3	55.6	20.4	0	0	29
+08A10920	"Beef, rump steak, separable fat, grilled, no added fat"	2317	15.3	55.6	20.3	0	0	29
+08A10921	"Beef, loin (fillet, sirloin, scotch fillet, t-bone), separable fat, grilled, no added fat"	2317	15.3	55.6	23.7	0	0	29
+08A10922	"Beef, blade steak, separable fat, grilled, no added fat"	2317	15.3	55.6	22.8	0	0	29
+08A10924	"Beef, chuck steak, separable fat, casseroled, no added fat"	2317	15.3	55.6	22.8	0	0	29
+08A10925	"Beef, mince, low fat (lean/heart smart), dry fried"	731	27.7	7	3.2	0	0	82
+08A10926	"Beef, rump steak, semi-trimmed, grilled, no added fat"	1021	27	15.2	6.8	0	0	46
+08A10927	"Beef, mince, regular, dry fried"	942	27.4	12.9	5.7	0	0	60
+08A10929	"Beef, 40% chemical lean, raw"	2432	12.5	60	25.1	0	0	25
+08A10930	"Beef, 50% chemical lean, raw"	2108	15.2	50	20.9	0	0	28
+08A10931	"Beef, 60% chemical lean, raw"	1785	17.9	40	16.7	0	0	30
+08A10932	"Beef, 80% chemical lean, raw"	1136	23.2	20	8.3	0	0	34
+08A10933	"Beef, 70% chemical lean, raw"	1459	20.6	30	12.5	0	0	32
+08A20519	"Lamb, butterfly steak, separable lean, grilled, no added fat"	843	29.8	9.1	3.4	0	0	74
+08A20520	"Lamb, chump chop, separable lean, raw"	542	22.5	4.3	1.4	0	0	65
+08A20521	"Lamb, chump chop, semi-trimmed, raw"	753	21.1	10.6	4.2	0	0	60
+08A20522	"Lamb, chump chop, untrimmed, raw"	981	19.6	17.5	7.3	0	0	54
+08A20523	"Lamb, chump chop, separable lean, grilled, no added fat"	957	34.1	10.2	3.6	0	0	65
+08A20524	"Lamb, chump chop, fully-trimmed, grilled, no added fat"	1063	32.6	13.7	5.4	0	0	62
+08A20525	"Lamb, chump chop, semi-trimmed, grilled, no added fat"	1132	31.7	16	6.5	0	0	60
+08A20526	"Lamb, chump chop, untrimmed, grilled, no added fat"	1251	30	20	8.5	0	0	57
+08A20527	"Lamb, diced, separable lean, raw"	554	21.3	5.2	1.8	0	0	53
+08A20528	"Lamb, diced, untrimmed, raw"	588	21.1	6.2	2.2	0	0	52
+08A20529	"Lamb, diced, separable lean, dry fried"	773	31.3	6.5	2.5	0	0	59
+08A20530	"Lamb, diced, fully-trimmed, dry fried"	784	31.2	6.9	2.6	0	0	59
+08A20531	"Lamb, diced, untrimmed, dry fried"	806	31	7.6	2.9	0	0	58
+08A20532	"Lamb, drumstick, separable lean, raw"	559	20.5	5.7	2	0	0	72
+08A20533	"Lamb, drumstick, fully-trimmed, raw"	700	19.7	9.9	3.8	0	0	68
+08A20534	"Lamb, drumstick, untrimmed, raw"	1053	17.8	20.3	8.3	0	0	58
+08A20535	"Lamb, drumstick, separable lean, grilled, no added fat"	898	28	11.4	4.3	0	0	67
+08A20536	"Lamb, drumstick, untrimmed, grilled, no added fat"	1053	26.6	16.2	6.6	0	0	63
+08A20537	"Lamb, easy carve leg roast, separable lean, raw"	477	21.1	3.2	1	0	0	61
+08A20538	"Lamb, easy carve leg roast, semi-trimmed, raw"	618	20.3	7.4	2.9	0	0	58
+08A20539	"Lamb, easy carve leg roast, untrimmed, raw"	786	19.4	12.3	5.1	0	0	54
+08A20540	"Lamb, easy carve leg roast, separable lean, roasted, no added fat"	742	30.6	6	2.1	0	0	56
+08A20541	"Lamb, easy carve leg roast, fully-trimmed, roasted, no added fat"	833	29.7	8.8	3.5	0	0	54
+08A20542	"Lamb, easy carve leg roast, semi-trimmed, roasted, no added fat"	840	29.7	9.1	3.6	0	0	54
+08A20543	"Lamb, easy carve leg roast, untrimmed, roasted, no added fat"	955	28.6	12.7	5.4	0	0	52
+08A20544	"Lamb, easy carve shoulder, separable lean, raw"	468	18.2	4.3	1.5	0	0	53
+08A20545	"Lamb, easy carve shoulder, semi-trimmed, raw"	695	17.3	10.9	4.3	0	0	49
+08A20546	"Lamb, easy carve shoulder, untrimmed, raw"	894	16.5	16.6	6.8	0	0	46
+08A20547	"Lamb, easy carve shoulder, separable lean, roasted, no added fat"	703	29.6	5.4	2	0	0	69
+08A20548	"Lamb, easy carve shoulder, fully-trimmed, roasted, no added fat"	796	28.8	8.3	3.4	0	0	67
+08A20549	"Lamb, easy carve shoulder, semi-trimmed, roasted, no added fat"	859	28.3	10.2	4.3	0	0	65
+08A20550	"Lamb, easy carve shoulder, untrimmed, roasted, no added fat"	1095	26.2	17.5	7.6	0	0	59
+08A20551	"Lamb, eye of loin, separable lean, grilled, no added fat"	843	29.8	9.1	3.4	0	0	74
+08A20552	"Lamb, forequarter chop, separable lean, raw"	559	20.5	5.7	2	0	0	72
+08A20553	"Lamb, forequarter chop, fully-trimmed, raw"	733	19.5	10.8	4.2	0	0	67
+08A20554	"Lamb, forequarter chop, semi-trimmed, raw"	971	18.2	17.9	7.2	0	0	60
+08A20555	"Lamb, forequarter chop, untrimmed, raw"	1126	17.4	22.4	9.2	0	0	56
+08A20556	"Lamb, forequarter chop, separable lean, grilled, no added fat"	898	28	11.4	4.3	0	0	67
+08A20557	"Lamb, forequarter chop, fully-trimmed, grilled, no added fat"	1060	26.6	16.4	6.7	0	0	62
+08A20558	"Lamb, forequarter chop, semi-trimmed, grilled, no added fat"	1108	26.2	17.9	7.4	0	0	61
+08A20559	"Lamb, forequarter chop, untrimmed, grilled, no added fat"	1173	25.6	19.9	8.3	0	0	59
+08A20560	"Lamb, frenched cutlet/rack, separable lean, raw"	620	21.9	6.7	2.4	0	0	64
+08A20561	"Lamb, frenched cutlet/rack, semi-trimmed, raw"	919	19.9	15.7	6.8	0	0	57
+08A20562	"Lamb, frenched cutlet/rack, untrimmed, raw"	1004	19.4	18.2	8.1	0	0	54
+08A20563	"Lamb, Frenched cutlet/rack, separable lean, grilled, no added fat"	837	30.5	8.6	3.2	0	0	66
+08A20564	"Lamb, Frenched cutlet/rack, fully-trimmed, grilled, no added fat"	879	30.1	9.9	3.8	0	0	65
+08A20565	"Lamb, Frenched cutlet/rack, semi-trimmed, grilled, no added fat"	1107	27.8	17.1	7.3	0	0	59
+08A20566	"Lamb, Frenched cutlet/rack, untrimmed, grilled, no added fat"	1163	27.2	18.9	8.2	0	0	57
+08A20567	"Lamb, leg roast, separable lean, raw"	477	21.1	3.2	1	0	0	68
+08A20568	"Lamb, leg roast, semi-trimmed, raw"	604	20.4	7	2.7	0	0	65
+08A20569	"Lamb, leg roast, untrimmed, raw"	786	19.4	12.3	5.1	0	0	60
+08A20570	"Lamb, leg roast, separable lean, roasted, no added fat"	742	30.6	6	2.1	0	0	65
+08A20571	"Lamb, leg roast, fully-trimmed, roasted, no added fat"	833	29.7	8.8	3.5	0	0	63
+08A20572	"Lamb, leg roast, semi-trimmed, roasted, no added fat"	840	29.7	9.1	3.6	0	0	63
+08A20573	"Lamb, leg roast, untrimmed, roasted, no added fat"	958	28.5	12.8	5.4	0	0	60
+08A20574	"Lamb, loin chop, separable lean, raw"	671	28.6	5	1.8	0	0	71
+08A20575	"Lamb, loin chop, semi-trimmed, raw"	856	26.6	10.9	4.7	0	0	65
+08A20576	"Lamb, loin chop, untrimmed, raw"	1276	22	24.4	11.3	0	0	53
+08A20577	"Lamb, loin chop, separable lean, grilled, no added fat"	843	29.8	9.1	3.4	0	0	74
+08A20578	"Lamb, loin chop, fully-trimmed, grilled, no added fat"	914	29.1	11.3	4.4	0	0	72
+08A20579	"Lamb, loin chop, semi-trimmed, grilled, no added fat"	953	28.7	12.6	5	0	0	70
+08A20580	"Lamb, loin chop, untrimmed, grilled, no added fat"	1154	26.8	18.9	8.1	0	0	64
+08A20581	"Lamb, rump, separable lean, grilled, no added fat"	957	34.1	10.2	3.6	0	0	65
+08A20582	"Lamb, tenderloin, separable lean, grilled, no added fat"	671	27.5	5.5	1.9	0	0	75
+08A20583	"Lamb, mini roast, separable lean, raw"	546	21.9	4.7	1.5	0	0	63
+08A20584	"Lamb, mini roast, semi-trimmed, raw"	662	21.2	8.2	3.1	0	0	60
+08A20585	"Lamb, mini roast, untrimmed, raw"	782	20.4	11.8	4.7	0	0	58
+08A20586	"Lamb, mini roast, separable lean, roasted, no added fat"	680	27.8	5.6	2	0	0	58
+08A20587	"Lamb, mini roast, fully-trimmed, roasted, no added fat"	696	27.7	6.1	2.2	0	0	58
+08A20588	"Lamb, mini roast, semi-trimmed, roasted, no added fat"	779	27.1	8.6	3.5	0	0	56
+08A20589	"Lamb, mini roast, untrimmed, roasted, no added fat"	858	26.5	11	4.6	0	0	55
+08A20590	"Lamb, steak, separable lean, raw"	546	21.9	4.7	1.5	0	0	63
+08A20591	"Lamb, steak, semi-trimmed, raw"	662	21.2	8.2	3.1	0	0	60
+08A20592	"Lamb, steak, untrimmed, raw"	782	20.4	11.8	4.7	0	0	58
+08A20593	"Lamb, steak, separable lean, roasted, no added fat"	680	27.8	5.6	2	0	0	58
+08A20594	"Lamb, steak, fully-trimmed, roasted, no added fat"	696	27.7	6.1	2.2	0	0	58
+08A20595	"Lamb, steak, semi-trimmed, roasted, no added fat"	779	27.1	8.6	3.5	0	0	56
+08A20596	"Lamb, steak, untrimmed, roasted, no added fat"	858	26.5	11	4.6	0	0	55
+08A20597	"Lamb, stir-fry strips, separable lean, raw"	528	21.9	4.2	1.4	0	0	53
+08A20598	"Lamb, stir-fry strips, untrimmed, raw"	578	21.6	5.7	2	0	0	52
+08A20599	"Lamb, stir-fry strips, separable lean, dry fried"	763	28.1	7.7	2.7	0	0	59
+08A20600	"Lamb, stir-fry strips, fully-trimmed, dry fried"	770	28	7.9	2.8	0	0	59
+08A20601	"Lamb, stir-fry strips, untrimmed, dry fried"	781	28	8.3	3	0	0	59
+08A20602	"Lamb, mince, raw"	602	20.4	6.9	2.3	0	0	57
+08A20603	"Lamb, mince, dry fried"	729	24.4	8.5	3.1	0	0	74
+08A20604	"Lamb, all cuts, separable fat, raw"	2315	10.8	57.6	25.7	0	0	22
+08A20605	"Lamb, all cuts, separable fat, cooked, no added fat"	2251	16.2	53.4	24.7	0	0	28
+08A20607	"Mutton, casserole, separable lean, raw"	518	21.3	4.2	1.6	0	0	61
+08A20608	"Mutton, casserole, fully-trimmed, raw"	638	20.5	7.8	3.3	0	0	59
+08A20609	"Mutton, casserole, untrimmed, raw"	717	20	10.2	4.4	0	0	58
+08A20610	"Mutton, separable lean, casseroled, no added fat"	1041	36.4	11.4	3.9	0	0	66
+08A20611	"Mutton, fully-trimmed, casseroled, no added fat"	1094	35.6	13.2	4.8	0	0	66
+08A20612	"Mutton, untrimmed, casseroled, no added fat"	1137	34.9	14.7	5.5	0	0	66
+08A20613	"Mutton, leg roast, separable lean, raw"	509	21.6	3.8	1.3	0	0	80
+08A20614	"Mutton, leg roast, fully-trimmed, raw"	582	21.1	6	2.2	0	0	78
+08A20615	"Mutton, leg roast, semi-trimmed, raw"	634	20.8	7.6	2.9	0	0	77
+08A20616	"Mutton, leg roast, separable lean, roasted, no added fat"	792	29.8	7.7	2.7	0	0	56
+08A20617	"Mutton, leg roast, fully-trimmed, roasted, no added fat"	881	28.9	10.5	3.8	0	0	56
+08A20618	"Mutton, leg roast, semi-trimmed, roasted, no added fat"	919	28.5	11.7	4.3	0	0	57
+08A20619	"Mutton, leg roast, untrimmed, roasted, no added fat"	1093	26.8	17.2	6.4	0	0	57
+08A20620	"Mutton, all cuts, separable fat, raw"	2522	8.2	64.4	28.6	0	0	33
+08A20621	"Mutton, all cuts, separable fat, cooked, no added fat"	2694	10.7	67.9	28.4	0	0	64
+08A20622	"Lamb, butterfly steak, separable lean, raw"	671	28.6	5	1.8	0	0	71
+08A20623	"Lamb, eye of loin, separable lean, raw"	671	28.6	5	1.8	0	0	71
+08A20624	"Lamb, easy carve shoulder, fully-trimmed, raw"	635	17.5	9.1	3.6	0	0	50
+08A20625	"Lamb, frenched cutlet/rack, fully-trimmed, raw"	688	21.5	8.7	3.4	0	0	62
+08A20626	"Lamb, tenderloin, separable lean, raw"	485	19.8	4	1.3	0	0	69
+08A20627	"Lamb, loin chop, fully-trimmed, raw"	737	27.9	7.1	2.8	0	0	69
+08A20628	"Lamb, stir-fry strips, fully-trimmed, raw"	544	21.8	4.7	1.6	0	0	53
+08A20629	"Lamb, chump chop, fully-trimmed, raw"	719	21.3	9.6	3.8	0	0	61
+08A20630	"Lamb, rump, separable lean, raw"	542	22.5	4.3	1.4	0	0	65
+08A20631	"Lamb, diced, fully-trimmed, raw"	567	21.2	5.6	2	0	0	53
+08A20632	"Lamb, leg roast, fully-trimmed, raw"	587	20.5	6.5	2.5	0	0	65
+08A20633	"Lamb, easy carve leg roast, lean, raw"	587	20.5	6.5	2.5	0	0	59
+08A20634	"Lamb, steak, fully-trimmed, raw"	582	21.7	5.8	2	0	0	62
+08A20635	"Lamb, mini roast, fully-trimmed, raw"	582	21.7	5.8	2	0	0	62
+08A20636	"Lamb, leg (leg roast, mini roast, chump chop), separable fat, raw"	2315	10.8	57.6	25.4	0	0	22
+08A20637	"Lamb, leg (leg roast, mini roast, chump chop), separable fat, roasted, no added fat"	2251	16.2	53.4	25.3	0	0	28
+08A20638	"Lamb, loin, separable fat, raw"	2315	10.8	57.6	27.5	0	0	22
+08A20639	"Lamb, loin, separable fat, grilled, no added fat"	2251	16.2	53.4	24.8	0	0	28
+08A20640	"Lamb, forequarter (easy carve shoulder, forequarter chop), separable fat, raw"	2315	10.8	57.6	24.4	0	0	22
+08A20641	"Lamb, forequarter (easy carve shoulder, forequarter chop), separable fat, grilled, no added fat"	2251	16.2	53.4	24	0	0	28
+08A20642	"Lamb, drumstick, fully-trimmed, grilled, no added fat"	986	27.2	14.1	5.6	0	0	64
+08A20643	"Mutton, leg roast, separable fat, raw"	2522	8.2	64.4	27	0	0	33
+08A20644	"Mutton, leg roast, separable fat, roasted,  no added fat"	2694	10.7	67.9	26.3	0	0	64
+08A20645	"Mutton, casserole, separable fat, raw"	2522	8.2	64.4	30.3	0	0	33
+08A20646	"Mutton, separable fat, casseroled, no added fat"	2694	10.7	67.9	30.5	0	0	64
+08A20647	"Mutton, leg roast, untrimmed, raw"	811	19.6	12.9	5.2	0	0	73
+08A20648	"Lamb, loin chop, semi-trimmed, grilled, no added fat"	1006	29.2	13.7	6.7	0.2	0.2	70
+08A20650	"Lamb, 70% chemical lean, raw"	1389	16.3	30	13.2	0	0	38
+08A20651	"Lamb, 90% chemical lean, raw"	716	20.3	10	4	0	0	50
+08A20805	"Mutton, 70% chemical lean, raw"	1379	15.8	30	13.1	0	0	60
+08A30103	"Pork, pig's trotters, cooked"	1051	28.4	15.3	6.1	0	0	51
+08A30104	"Pork, pig's hocks, cooked"	1161	27.1	18.9	7.5	0	0	51
+08A30111	"Pork, pickled, all cuts, lean & fat, cooked"	787	25.2	9.7	3.8	0	0	940
+08A30112	"Pork, pickled, all cuts, fat trimmed, cooked"	739	27.2	7.5	2.9	0	0	953
+08A30312	"Pork, butterfly steak, separable lean, raw"	469	24.1	1.6	0.5	0	0	46
+08A30313	"Pork, butterfly steak, separable lean, grilled, no added fat"	656	32.5	2.8	1.1	0	0	46
+08A30314	"Pork, fillet, fully-trimmed, raw"	433	23.1	1.1	0.4	0	0	42
+08A30315	"Pork, fillets, separable lean, roasted, no added fat"	566	28.5	2.2	0.8	0	0	44
+08A30316	"Pork, forequarter chop, separable lean, raw"	476	19.5	3.9	1.4	0	0	73
+08A30317	"Pork, forequarter chop, separable lean, barbequed, no added fat"	680	26.3	6.3	2.4	0	0	73
+08A30318	"Pork, forequarter shoulder roast, separable lean, raw"	447	19.6	3.1	1.1	0	0	75
+08A30319	"Pork, forequarter shoulder, separable lean, barbequed, no added fat"	658	24.8	6.4	2.4	0	0	76
+08A30320	"Pork, diced, as purchased, raw"	502	22.8	3.1	1	0	0	59
+08A30321	"Pork, diced, as purchased, fried with a small amount of pork fat"	647	31.3	3.1	1	0	0	90
+08A30325	"Pork, leg steak (round, rump, topside, silverside), raw, separable lean"	466	23.5	1.8	0.6	0	0	50
+08A30326	"Pork, leg steak (round, rump, topside, silverside), separable lean, fried with a small amount of pork fat"	589	28.8	2.7	0.9	0	0	54
+08A30327	"Pork, strips, as purchased, fried with a small amount of pork fat"	623	31.2	2.5	0.8	0	0	58
+08A30329	"Pork, loin chop, separable lean, dry fried"	687	30.6	4.5	1.6	0	0	58
+08A30330	"Pork, scotch roast, separable lean, raw"	631	20.6	7.6	2.7	0	0	49
+08A30331	"Pork, scotch roast, separable lean, roasted, no added fat"	964	30.6	12	4.2	0	0	57
+08A30332	"Pork, forequarter (chop, roast, neck), separable fat, raw"	2042	9.6	50.8	19.5	0	0	47
+08A30333	"Pork, leg steak (rump), separable fat, raw"	2603	8.6	66.4	23.9	0	0	23
+08A30334	"Pork, medallion or loin steak, separable fat, raw"	2642	6.3	68.5	24.1	0	0	22
+08A30335	"Pork, forequarter, separable fat, barbecued/roasted, no added fat"	2179	11.5	53.6	20.4	0	0	86
+08A30336	"Pork, leg steak (rump), separable fat, fried with a small amount of pork fat"	2191	12	53.7	19.3	0	0	36
+08A30337	"Pork, loin chop, separable fat, dry fried"	2765	8.8	70.7	27.9	0	0	33
+08A30338	"Pork, mince, as purchased, raw"	724	19.5	10.6	3.8	0	0	58
+08A30339	"Pork, mince, as purchased, fried with a small amount of pork fat"	842	25.4	11	4	0	0	59
+08A30340	"Pork, medallion or loin steak, separable lean, raw"	469	24.1	1.6	0.5	0	0	46
+08A30341	"Pork, medallion or loin steak, separable lean, fried with a small amount of pork fat"	631	29.5	3.5	1.2	0	0	52
+08A30342	"Pork, crackling, roasted, salted"	2129	33.8	42	16.3	0	0	3700
+08A30343	"Pork, butterfly steak, as purchased, raw"	643	22.7	7	2.4	0	0	44
+08A30344	"Pork, butterfly steak, as purchased, grilled, no added fat"	825	30.6	8.2	3.2	0	0	45
+08A30347	"Pork, forequarter chop, as purchased, raw"	785	17.5	13.2	5	0	0	68
+08A30348	"Pork, forequarter chop, as purchased, barbecued, no added fat"	988	23.3	16	6.1	0	0	76
+08A30349	"Pork, forequarter shoulder roast, as purchased, raw"	762	17.6	12.5	4.8	0	0	69
+08A30350	"Pork, forequarter shoulder roast, as purchased, barbequed, no added fat"	901	22.6	14	5.3	0	0	78
+08A30353	"Pork, leg roast, as purchased, raw"	685	21.6	8.6	3.1	0	0	48
+08A30354	"Pork, leg roast, as purchased, roasted, no added fat"	926	31.2	10.7	3.8	0	0	54
+08A30356	"Pork, leg steak (round, rump, topside, silverside), as purchased, raw"	487	23.3	2.4	0.8	0	0	49
+08A30357	"Pork, leg steak (round, rump, topside, silverside), as purchased, fried with a small amount of pork fat"	603	28.6	3.1	1.1	0	0	54
+08A30358	"Pork, strips, as purchased, raw"	466	22.4	2.3	0.8	0	0	46
+08A30359	"Pork, loin chop, as purchased, raw"	705	21.5	9.2	3.5	0	0	49
+08A30360	"Pork, loin chop, as purchased, dry fried"	930	28	12.3	4.6	0	0	55
+08A30361	"Pork, scotch roast, as purchased, raw"	893	18.9	15.5	6.1	0	0	46
+08A30362	"Pork, scotch roast, as purchased, roasted, no added fat"	1024	29.6	14.1	5.2	0	0	56
+08A30364	"Pork, forequarter chop, semi-trimmed, barbequed, no added fat"	771	25.4	9.2	3.5	0	0	74
+08A30365	"Pork, forequarter shoulder, semi-trimmed, barbequed, no added fat"	748	24	9.2	3.5	0	0	77
+08A30367	"Pork, loin chop, semi-trimmed, dry fried"	791	29.5	7.8	2.9	0	0	57
+08A30369	"Pork, loin chop, separable lean, raw"	461	23.2	1.8	0.6	0	0	52
+08A30370	"Pork, loin chop, separable fat, raw"	2694	7.9	69.2	27.3	0	0	24
+08A30371	"Pork, scotch roast, separable fat, raw"	2124	10.7	52.5	22.2	0	0	30
+08A30372	"Pork, scotch roast, separable fat, roasted"	2076	12.2	50.5	21.3	0	0	41
+08A30373	"Pork, medallion or loin steak, as purchased, raw"	615	22.9	6.1	2.1	0	0	44
+08A30374	"Pork, medallion or loin steak, separable fat, fried with a small amount of pork fat"	2307	14.9	55.5	19.5	0	0	47
+08A30376	"Pork, rump steak, separable lean, raw"	508	25.3	2.1	0.7	0	0	50
+08A30377	"Pork, rump steak, as purchased, raw"	568	24.8	4	1.4	0	0	49
+08A30378	"Pork, round steak, fully-trimmed, raw"	416	22.1	1.1	0.3	0	0	48
+08A30379	"Pork, silverside steak, as purchased, raw"	475	22.4	2.6	0.9	0	0	53
+08A30380	"Pork, topside steak, fully-trimmed, raw"	482	24	2	0.6	0	0	48
+08A30381	"Pork, silverside steak, separable lean, raw"	456	22.5	2	0.7	0	0	53
+08A30382	"Pork, rump steak, separable lean, fried with a small amount of pork fat"	627	28.6	3.8	1.3	0	0	52
+08A30384	"Pork, round steak, fully-trimmed, fried with a small amount of pork fat"	563	29.4	1.7	0.5	0	0	51
+08A30385	"Pork, topside steak, fully-trimmed, fried with a small amount of pork fat"	582	29.2	2.3	0.7	0	0	55
+08A30386	"Pork, topside steak, as purchased, fried with a small amount of pork fat"	583	29.2	2.4	0.8	0	0	55
+08A30387	"Pork, silverside steak, separable lean, fried with a small amount of pork fat"	585	27.9	3	1	0	0	59
+08A30389	"Pork, round mini roast, separable lean, raw"	444	23.7	1.1	0.3	0	0	50
+08A30390	"Pork, round mini roast, separable fat, raw"	1842	11.3	44.6	16	0	0	38
+08A30391	"Pork, round mini roast, as purchased, raw"	472	23.5	2	0.7	0	0	50
+08A30392	"Pork, round mini roast, separable lean, roasted, no added fat"	682	34.7	2.5	0.8	0	0	54
+08A30393	"Pork, round mini roast, separable fat, roasted"	1961	16.3	45.5	16.3	0	0	54
+08A30394	"Pork, round mini roast, as purchased, roasted, no added fat"	699	34.5	3.1	1	0	0	54
+08A30395	"Pork, loin roast, separable lean, raw"	478	23.3	2.2	0.8	0	0	52
+08A30396	"Pork, loin roast, separable fat, raw"	2941	5.2	77.1	29	0	0	27
+08A30397	"Pork, loin roast, as purchased, raw"	943	19.9	16.4	6.1	0	0	47
+08A30398	"Pork, loin roast, separable lean, roasted, no added fat"	860	31.9	8.6	2.9	0	0	57
+08A30399	"Pork, loin roast, separable fat, roasted"	2629	8.8	67	25.2	0	0	40
+08A30400	"Pork, loin roast, as purchased, roasted, no added fat"	1093	28.9	16.3	5.9	0	0	55
+08A30401	"Pork, loin cutlet, as purchased, raw"	843	21	13.1	4.6	0	0	42
+08A30478	"Pork, 60% chemical lean, raw"	1694	12.6	40	15.3	0	0	50
+08A40144	"Veal, cutlet, separable lean, raw"	459	24.6	1.1	0.4	0	0	45
+08A40145	"Veal, cutlet, fully-trimmed, raw"	494	24.4	2.1	0.9	0	0	44
+08A40146	"Veal, cutlet, semi-trimmed, raw"	512	24.3	2.7	1.2	0	0	44
+08A40147	"Veal, cutlet, untrimmed, raw"	523	24.2	3	1.3	0	0	44
+08A40148	"Veal, cutlet, separable lean, grilled, no added fat"	552	28.1	2	0.8	0	0	46
+08A40149	"Veal, cutlet, fully-trimmed, grilled, no added fat"	595	27.8	3.3	1.5	0	0	45
+08A40150	"Veal, cutlet, semi-trimmed, grilled, no added fat"	625	27.6	4.2	2	0	0	45
+08A40151	"Veal, cutlet, untrimmed, grilled, no added fat"	632	27.5	4.4	2.1	0	0	45
+08A40152	"Veal, diced, separable lean, raw"	448	23.1	1.5	0.5	0	0	46
+08A40153	"Veal, diced, fully-trimmed, raw"	452	23.1	1.6	0.6	0	0	46
+08A40154	"Veal, diced, untrimmed, raw"	466	23	2	0.8	0	0	46
+08A40155	"Veal, diced, separable lean, dry fried"	653	31.9	3	1.1	0	0	85
+08A40156	"Veal, diced, fully-trimmed, dry fried"	660	31.8	3.2	1.2	0	0	85
+08A40157	"Veal, diced, untrimmed, dry fried"	679	31.6	3.8	1.6	0	0	84
+08A40158	"Veal, leg roast, separable lean, raw"	470	24.4	1.5	0.4	0	0	56
+08A40159	"Veal, leg roast, fully-trimmed, raw"	489	24.3	2	0.7	0	0	55
+08A40160	"Veal, leg roast, separable lean, grilled, no added fat"	655	34.4	1.9	0.5	0	0	49
+08A40161	"Veal, leg roast, fully-trimmed, grilled, no added fat"	665	34.2	2.2	0.7	0	0	49
+08A40162	"Veal, leg steak, separable lean, raw"	470	24.4	1.5	0.4	0	0	56
+08A40163	"Veal, leg steak, fully-trimmed, raw"	481	24.3	1.8	0.6	0	0	56
+08A40164	"Veal, leg steak, untrimmed, raw"	482	24.3	1.8	0.6	0	0	56
+08A40165	"Veal, leg steak, separable lean, grilled, no added fat"	655	34.4	1.9	0.5	0	0	49
+08A40166	"Veal, leg steak, fully-trimmed,  grilled, no added fat"	662	34.3	2.1	0.7	0	0	49
+08A40167	"Veal, leg steak, untrimmed, grilled, no added fat"	675	34.1	2.6	0.9	0	0	49
+08A40168	"Veal, loin chop, separable lean, raw"	440	22.6	1.5	0.5	0	0	91
+08A40169	"Veal, loin chop, fully-trimmed, raw"	461	22.5	2.1	0.8	0	0	91
+08A40170	"Veal, loin chop, untrimmed, raw"	555	22.2	4.8	2.1	0	0	89
+08A40171	"Veal, loin chop, separable lean, grilled, no added fat"	606	29.8	2.7	1.1	0	0	100
+08A40172	"Veal, loin chop, fully-trimmed, grilled, no added fat"	652	29.4	4.1	1.9	0	0	100
+08A40173	"Veal, loin chop, untrimmed, grilled, no added fat"	674	29.2	4.8	2.2	0	0	100
+08A40174	"Veal, stir-fry strips, separable lean, raw"	536	27.2	2	0.7	0	0	56
+08A40175	"Veal, stir-fry strips, fully-trimmed, raw"	547	27.1	2.3	0.9	0	0	56
+08A40176	"Veal, stir-fry strips, untrimmed, raw"	551	27.1	2.5	0.9	0	0	55
+08A40177	"Veal, stir-fry strips, separable lean, dry fried"	614	30	2.8	1.1	0	0	79
+08A40178	"Veal, stir-fry strips, fully-trimmed, dry fried"	620	29.9	3	1.2	0	0	79
+08A40179	"Veal, stir-fry strips, untrimmed, dry fried"	623	29.9	3.1	1.2	0	0	79
+08A40180	"Veal, all cuts, separable fat, raw"	1403	19.4	29	14	0	0	25
+08A40181	"Veal, all cuts, separable fat, cooked, no added fat"	1573	20.7	33	17	0	0	32
+08A40182	"Veal, loin chop, separable fat, raw"	1486	19.3	31.3	15.1	0	0	69
+08A40183	"Veal, loin chop, separable fat, grilled, no added fat"	1685	20.1	36.3	18.7	0	0	99
+08A40224	"Veal, 80% chemical lean, raw"	1091	20.6	20	9.6	0	0	32
+08B10013	"Venison, baked or roasted"	664	32.9	2.8	1.2	0	0	53
+08B10016	"Venison, raw"	458	22.6	2	0.8	0	0	53
+08B10040	"Rabbit, farmed, whole, raw"	472	23.2	2.1	0.8	0	0	53
+08B10041	"Rabbit, flesh, casseroled"	713	29.3	5.7	2.3	0.2	0.2	56
+08B10042	"Kangaroo, rump, raw"	373	20.3	0.8	0.2	0	0	47
+08B10043	"Kangaroo, rump, baked"	669	33.9	2.5	0.9	0	0	51
+08B10044	"Kangaroo, loin fillet, raw"	397	21.4	0.9	0.3	0	0	40
+08B10045	"Kangaroo, loin fillet, grilled"	566	30.7	1.2	0.4	0	0	44
+08B10046	"Buffalo, swamp, cube roll, raw"	507	24.4	2.5	1	0	0	45
+08B10047	"Buffalo, swamp, topside, raw"	448	24.6	0.8	0.3	0	0	41
+08B10048	"Buffalo, riverine, cube roll, raw"	650	23.9	6.6	3.7	0	0	56
+08B10049	"Buffalo, riverine, topside, raw"	496	24.4	2.2	1.1	0	0	56
+08B10050	"Camel, cube roll, raw"	630	20.3	7.7	4.4	0	0	46
+08B10051	"Camel, rump, raw"	475	21.4	3	1.3	0	0	52
+08B10052	"Crocodile, tail fillet, raw"	442	22.5	1.6	0.5	0	0	51
+08B10053	"Crocodile, back leg, raw"	455	22	2.2	0.6	0	0	70
+08B10056	"Venison, forequarter muscle, diced, lean, dry fried"	539	28	1.7	0.7	0	0	63
+08B10057	"Venison, forequarter muscle, diced, lean, raw"	415	22	1.1	0.5	0	0	58
+08B10058	"Venison, leg medallion, lean, dry fried"	549	28.7	1.6	0.7	0	0	51
+08B10059	"Venison, leg medallion, lean, raw"	457	23.5	1.5	0.6	0	0	49
+08B10060	"Venison, mince, premium, dry fried"	644	29.8	3.7	2	0	0	101
+08B10061	"Venison, mince, premium, raw"	465	21	2.9	1.6	0	0	71
+08B10062	"Venison, stir fry strips, lean, dry fried"	654	35.2	1.5	0.6	0	0	58
+08B10063	"Venison, stir fry strips, lean, raw"	439	23.6	1	0.4	0	0	46
+08C10147	"Turkey, breast, rolled roast, cooked"	648	29.4	4	0.9	0	0	210
+08C10156	"Turkey, leg (thigh & drumstick), stewed or braised, with skin"	1011	28.6	14.2	4.5	0	0	171
+08C10214	"Emu fillet, grilled"	612	25.9	4.7	1.5	0	0	60
+08C10218	"Chicken, breast, lean, raw"	438	22.3	1.6	0.5	0	0	41
+08C10219	"Chicken, breast, lean, skin & fat, raw"	484	21.9	3	1	0	0	41
+08C10220	"Chicken, breast, lean, baked"	637	29	3.9	1.2	0	0	46
+08C10221	"Chicken, breast, lean, skin & fat, baked"	782	27.9	8.3	2.6	0	0	49
+08C10222	"Chicken, breast, lean, casseroled"	596	27	3.7	1.2	0	0	41
+08C10223	"Chicken, breast, lean, skin & fat, casseroled"	699	26.2	6.9	2.1	0	0	42
+08C10225	"Chicken, drumstick, lean, raw"	492	18.5	4.8	1.5	0	0	71
+08C10226	"Chicken, drumstick, lean, skin & fat, raw"	645	17.6	9.3	2.8	0	0	67
+08C10228	"Chicken, drumstick, lean, skin & fat, baked"	944	26.8	13.1	4	0.3	0.3	101
+08C10229	"Chicken, drumstick, lean, casseroled"	730	28.6	6.6	2.2	0	0	74
+08C10230	"Chicken, drumstick, lean, skin & fat, casseroled"	870	27.1	11.1	3.4	0	0	71
+08C10231	"Chicken, skin only, raw"	1515	12.7	35.1	10.7	0	0	43
+08C10232	"Chicken, skin only, baked"	1818	22.3	38.9	11.8	0	0	78
+08C10233	"Chicken, skin only, casseroled"	1742	18	38.8	11.4	0	0	51
+08C10234	"Chicken, thigh, lean, raw"	496	18.3	5	1.5	0	0	62
+08C10235	"Chicken, thigh, lean, skin & fat, raw"	940	15.5	18.3	5.6	0	0	53
+08C10236	"Chicken, thigh fillets (flesh & some fat), raw"	608	17.5	8.4	2.5	0	0	60
+08C10237	"Chicken, thigh, lean, baked"	733	24.2	8.7	2.7	0	0	76
+08C10238	"Chicken, thigh, lean, skin & fat, baked"	941	23.3	14.8	4.5	0	0	75
+08C10239	"Chicken, thigh, lean, casseroled"	810	26.3	9.8	3	0	0	62
+08C10240	"Chicken, thigh, lean, skin & fat, casseroled"	996	24.5	15.7	4.8	0	0	60
+08C10241	"Chicken, wing, lean, raw"	470	18.7	4.1	1.2	0	0	66
+08C10242	"Chicken, wing, lean, skin & fat, raw"	917	16.1	17.4	5.3	0	0	56
+08C10243	"Chicken, wing, lean, baked"	810	30.9	7.7	2.4	0	0	84
+08C10244	"Chicken, wing, lean, skin & fat, baked"	1097	28.2	16.7	5.1	0	0	82
+08C10245	"Chicken, wing, lean, casseroled"	800	27.9	8.8	2.7	0	0	70
+08C10246	"Chicken, wing, lean, skin & fat, casseroled"	1064	25.1	17.2	5.2	0	0	65
+08C10247	"Chicken, fat only, raw"	2392	5.1	62.3	19	0	0	22
+08C10248	"Chicken, fat only, baked"	1916	9.9	47.2	14.9	0	0	51
+08C10249	"Chicken, fat only, casseroled"	1862	14.2	43.8	13.3	0	0	49
+08C10251	"Turkey, breast, lean, raw"	490	21.6	3.3	0.9	0	0	240
+08C10253	"Turkey, breast, lean, baked"	648	29.4	4	1.1	0	0	210
+08C10254	"Turkey, breast, lean, skin & fat, baked"	705	26.5	6.9	2.1	0	0	190
+08C10257	"Turkey, hindquarter, lean, baked"	714	26.8	7	2.4	0	0	170
+08C10258	"Turkey, hindquarter, lean, skin & fat, baked"	911	25.6	12.9	4.4	0	0	165
+08C10263	"Duck, lean, skin & fat, baked or roasted"	765	24.3	9.5	3	0	0	95
+08C10269	"Chicken, maryland, lean, baked"	755	25.5	8.6	2.6	0.1	0.1	87
+08C10270	"Chicken, maryland, lean, skin & fat, baked"	942	24.6	14.1	4.3	0.1	0.1	85
+08C10271	"Chicken, breast, lean, grilled or barbecued, no added fat"	600	30.5	2.2	0.7	0	0	45
+08C10282	"Chicken, breast, lean, skin & fat, dry fried"	637	28.8	4	1.3	0	0	43
+08C10283	"Chicken, thigh, lean, dry fried"	653	24.1	6.6	2	0	0	65
+08C10287	"Chicken, mince, raw"	626	19.2	8.1	2.5	0	0	78
+08C10288	"Chicken, maryland, lean, raw"	494	18.4	4.9	1.5	0	0	66
+08C10296	"Chicken, maryland, lean, stewed or braised"	706	26.3	7	2.1	0	0	95
+08C10298	"Chicken, whole, lean, skin & fat, raw"	702	18.5	10.5	3.2	0	0	51
+08C10299	"Chicken, whole, lean, raw"	465	20.3	3.2	1	0	0	54
+08C10301	"Chicken, whole, lean, baked or roasted, no added fat"	637	27.8	4.4	1.4	0	0	59
+08C10302	"Chicken, whole, lean, stewed or braised"	665	29	4.6	1.4	0	0	77
+08C10303	"Turkey, breast, lean, stewed or braised"	700	30.9	4.7	1.3	0	0	343
+08C10304	"Turkey, breast, lean, smoked, no added fat"	671	29.6	4.5	1.2	0	0	263
+08C10311	"Chicken, breast, lean, smoked, no added fat"	600	30.5	2.2	0.7	0	0	45
+08C10320	"Chicken, mince, dry fried"	824	25.3	10.7	3.3	0	0	82
+08C10321	"Chicken, kebab, raw"	452	21.8	2.2	0.7	0	0	43
+08C10332	"Chicken, breast, lean, skin & fat, smoked, no added fat"	663	30	4.1	1.3	0	0	45
+08C10333	"Chicken, wing, lean, grilled or barbecued, no added fat"	643	25.6	5.6	1.7	0	0	72
+08C10337	"Chicken, whole, lean, skin & fat, stewed or braised"	1002	26.5	14.9	4.6	0	0	72
+08C10338	"Chicken, whole, lean, grilled or barbecued, no added fat"	637	27.8	4.4	1.4	0	0	59
+08C10340	"Chicken, kebab, grilled or barbecued, no added fat"	619	29.8	3	1	0	0	48
+08C10356	"Chicken, maryland, lean, skin & fat, stewed or braised"	1132	23.6	19.7	6	0	0	86
+08C10357	"Chicken, mince, boiled or simmered"	894	27.4	11.6	3.6	0	0	78
+08C10362	"Chicken, breast, lean, skin & fat, grilled or barbecued without added fat"	663	30	4.1	1.3	0	0	45
+08C10363	"Duck, lean, stewed or casseroled"	723	25.4	7.9	2.4	0	0	91
+08C10374	"Turkey, wing, flesh, skin & fat, casseroled"	1064	25.1	17.2	5.2	0	0	65
+08C10384	"Chicken, drumstick, lean, baked, no added fat"	830	29.9	8.5	2.5	0.4	0.4	120
+08C10385	"Chicken, skin, composite, raw"	1515	12.7	35.1	10.7	0	0	43
+08C10387	"Chicken, separable fat, composite, raw"	2392	5.1	62.3	19	0	0	22
+08C10395	"Chicken, breast, lean, dry fried"	681	35	2	0.6	0.7	0.7	54
+08C10398	"Turkey, hindquarter, lean, raw"	510	18.4	5.3	1.8	0	0	260
+08C10400	"Turkey, hindquarter, lean, skin & fat, raw"	782	18.6	12.6	1.8	0	0	237
+08C10403	"Turkey,  breast, lean, skin & fat, raw"	663	20.4	8.5	0.8	0	0	217
+08C10405	"Duck, skin & fat, raw"	2352	9.5	59.2	18.1	0	0	34
+08C10407	"Duck, skin & fat, baked"	2016	13.4	48.3	14.8	0	0	60
+08C10408	"Duck, lean, baked"	765	24.3	9.5	3	0	0	95
+08C10411	"Duck, lean, skin & fat, raw"	1585	13	36.9	11.3	0	0	58
+08C10427	"Chicken, breast, lean, grilled, no added fat"	598	29.8	2.5	0.8	0	0	43
+08C10479	"Chicken, 60% chemical lean, raw"	1666	10.8	40	12.2	0	0	34
+08C20001	"Pigeon, baked, without skin"	883	26.9	11.5	3.1	0	0	169
+08C20008	"Quail, flesh & skin, baked"	826	27.7	9.6	2.9	0	0	58
+08C20009	"Quail, flesh & skin, raw"	722	18.5	11	3.3	0	0	45
+08C20011	"Ostrich, fan fillet, raw"	424	23.4	0.7	0.2	0	0	53
+08C20012	"Ostrich, moon steak, raw"	455	23.7	1.4	0.5	0	0	52
+08C20013	"Pigeon (squab), whole, raw"	1219	16.2	25.5	6.8	0	0	68
+08C20014	"Emu, fan fillet, raw"	486	24.7	1.8	0.6	0	0	43
+08C20015	"Emu, steak, raw"	504	25.5	1.9	0.6	0	0	54
+08D10033	"Chicken, liver, stewed or braised"	666	25.7	5.5	1.8	1.5	0	51
+08D10036	"Lamb, liver, stewed or braised"	972	30.6	10.7	3.1	3.3	0	43
+08D10041	"Ox, liver, stewed or braised"	922	26.2	11.7	3.8	2.6	0	70
+08D10052	"Ox, tongue, stewed or braised"	1289	21.2	25.1	11.8	0	0	78
+08D10053	"Ox, tongue, smoked or cured or pickled, cooked"	1289	21.2	25.1	11.8	0	0	922
+08D10056	"Giblets, excluding liver, cooked"	650	24.8	6.2	1.8	0	0	64
+08D10100	"Beef, kidney, simmered"	566	27.4	2.7	1	0	0	110
+08D10104	"Beef, tail, simmered"	1453	21.7	29.3	11.2	0	0	53
+08D10112	"Lamb, brain, simmered"	565	12.8	9.4	2.6	0	0	110
+08D10130	"Pork, Blood, Fresh"	320	18.5	0.1	0	0.1	0.1	207
+08D10131	"Beef, heart, raw"	420	18.2	3	1.2	0	0	91
+08D10132	"Beef, heart, simmered"	627	31.2	2.6	1	0	0	89
+08D10133	"Beef, liver, raw"	704	20	8.6	2.8	2.7	0	78
+08D10134	"Beef, liver, simmered"	922	26.2	11.7	3.8	2.6	0	70
+08D10135	"Beef, kidney, raw"	369	18.2	1.6	0.6	0	0	160
+08D10137	"Beef, tail, raw"	1287	17.4	26.8	10.3	0	0	82
+08D10139	"Beef, tongue, raw"	833	17.2	14.6	6.9	0	0	79
+08D10140	"Beef, tongue, simmered"	1289	21.2	25.1	11.8	0	0	78
+08D10141	"Beef, tripe, raw"	302	13.2	2.1	0.9	0	0	100
+08D10142	"Beef, tripe, simmered"	348	14.4	2.8	1.2	0	0	72
+08D10143	"Lamb, brain, raw"	505	12.3	8	2.2	0	0	120
+08D10145	"Lamb, heart, raw"	510	17.8	5.6	2.3	0	0	82
+08D10146	"Lamb, heart, baked"	770	28.1	7.9	3.3	0	0	73
+08D10147	"Lamb, kidney, raw"	383	17.1	2.5	0.9	0	0	190
+08D10148	"Lamb, kidney, simmered"	611	26.6	4.3	1.5	0	0	200
+08D10149	"Lamb, tongue, raw"	834	15.3	15.5	6	0	0	82
+08D10150	"Lamb, tongue, simmered"	1158	23.7	20.4	7.9	0	0	88
+08D10151	"Lamb, liver, raw"	680	21.4	7.5	2.2	2.3	0	67
+08D10153	"Veal, heart, raw"	429	18.5	3.1	1.2	0	0	93
+08D10154	"Veal, heart, baked"	762	32	5.9	2.2	0	0	78
+08D10155	"Veal, kidney, raw"	448	17.4	4.1	1.5	0	0	200
+08D10156	"Veal, kidney, grilled"	702	26.7	6.7	2.5	0	0	230
+08D10157	"Veal, liver, grilled"	786	27	8.1	2.7	1.6	0	100
+08D10158	"Veal, liver, raw"	567	18.4	5.5	1.8	3	0	83
+08D10160	"Chicken, liver, raw"	489	17.8	5.1	1.4	0	0	66
+08E20029	"Sausage, Chinese, simmered"	1156	12.3	24	8	2.3	0	553
+08E20039	"Sausage, lamb, unflavoured, grilled or barbecued"	1201	24.8	18.1	7.7	6.2	4.6	650
+08E20072	"Frankfurt, canned, boiled, drained"	877	11.3	17.4	6.4	1.7	0.8	560
+08E20073	"Sausage, beef, raw"	1063	12.5	21.4	9.9	2.4	0	650
+08E20074	"Sausage, beef, fried, no added fat"	1079	15.1	19.7	9.4	4.7	0.4	795
+08E20076	"Sausage, pork, raw"	1090	12	22.2	9	3.2	0	690
+08E20077	"Sausage, pork, fried, no added fat"	1102	15.4	20	8.1	5.2	0.7	900
+08E20078	"Sausage, pork, grilled, no added fat"	1203	16.8	21.7	8.8	6.1	0.6	950
+08E20082	"Salami, Polish"	970	16.9	17.1	5.8	2.3	0.4	843
+08E20083	"Frankfurt or cheerios, fresh, simmered"	1030	14	19.5	7.6	3.3	0.2	754
+08E20085	"Sausage, beef, baked or microwaved, no added fat"	1437	16.9	28.9	13.3	3.2	0	659
+08E20087	"Sausage, pork, boiled or casseroled"	1160	12.8	23.6	9.6	3.4	0	551
+08E20090	"Sausage, beef, boiled or casseroled"	1131	13.3	22.8	10.5	2.6	0	519
+08E20093	"Sausage, chicken, raw"	1090	11.6	22.6	7	2.1	0	695
+08E20094	"Sausage, chicken, grilled or barbecued, no added fat"	1473	15.7	30.5	9.5	2.9	0	704
+08E20095	"Sausage, chicken, baked or microwaved, no added fat"	1473	15.7	30.5	9.5	2.9	0	704
+08E20097	"Sausage, pork, baked or microwaved, no added fat"	1473	16.2	30	12.2	4.3	0	699
+08E20099	"Frankfurt or cheerios, grilled"	1067	14.5	20.2	7.9	3.4	0.2	781
+08E20102	"Sausage, chicken, dry fried"	1380	14.7	28.6	8.9	2.7	0	660
+08E20104	"Sausage, chicken, boiled or casseroled"	1160	12.3	24	7.5	2.3	0	555
+08E20107	"Sausage, Dutch style, dry fried"	1228	21.4	21.6	7.4	2.9	0.5	801
+08E20108	"Sausage, Dutch style, grilled, no added fat"	1311	22.8	23.1	7.8	3.1	0.5	855
+08E20109	"Sausage, Dutch style, boiled or casseroled"	1032	17.9	18.1	6.2	2.4	0.4	673
+08E20117	"Sausage, beef, grilled, no added fat"	1124	13.9	21.5	10.3	4.9	0.4	786
+08E20122	"Sausage, Lebanese restaurant-style"	1197	24.8	18.1	7.7	6.2	4.6	650
+08E30073	"Ham, leg, canned, reduced salt (sodium less than 850mg/100g)"	469	17.2	4.5	1.7	0.6	0.6	845
+08E30074	"Ham, shoulder, non-canned, no separable fat"	386	14.9	3.6	1.2	0	0	1270
+08E30076	"Ham, non-canned, reduced salt (sodium approximately 300mg/100g)"	430	17.5	3.6	1.3	0	0	302
+08E30097	Pancetta	839	19.2	13.7	5.2	0.4	0.4	1373
+08E30100	Speck	900	22.6	14	5.5	0	0	1510
+08E30103	"Turkey, deli-carve (light & dark meat), delicatessen-sliced, ready to eat"	597	15.5	8.7	2.5	0.7	0	820
+08E30104	"Turkey, breast, smoked, deli-sliced, ready-to-eat"	648	29.4	4	0.9	0	0	210
+08E30105	Turkey ham	413	15.2	3.9	1.3	0.6	0.6	780
+08E30112	"Spam, canned, reduced salt (sodium approximately 500mg/100g)"	1386	12.5	31	11.9	1.3	1.3	513
+08E30113	"Spam, canned,  reduced fat (fat approximately 20g/100g)"	1024	15.4	19.9	7.6	1.3	1.3	1178
+08E30165	"Bacon, breakfast rasher, raw"	404	14.6	3.4	1.2	1.4	0.7	1400
+08E30166	"Bacon, breakfast rasher, dry fried"	648	21.9	5.8	2.1	3.1	1.8	2000
+08E30167	"Bacon, breakfast rasher, grilled, no added fat"	593	22.2	4.5	1.6	2.4	1.8	2100
+08E30169	"Bacon, middle rasher, 75% trimmed, raw"	825	19.3	13.3	5	0.4	0.4	1379
+08E30170	"Bacon, middle rasher, lean & fat, raw"	1310	15.4	28.2	10.6	0.3	0.3	1148
+08E30172	"Bacon, middle rasher, 75% trimmed, dry fried"	1162	29	17.6	6.6	0.9	0.9	1842
+08E30173	"Bacon, middle rasher, lean, grilled"	999	33.2	11.3	4.2	0.9	0.9	2300
+08E30174	"Bacon, middle rasher, 75% trimmed, grilled, no added fat"	1095	32.2	14.4	5.3	0.9	0.9	2221
+08E30175	"Bacon, middle rasher, fat only, grilled, no added fat"	2747	14.5	67.4	26.2	0.4	0.4	860
+08E30176	"Beef, corned, lean, ready to eat"	416	18.4	2.7	1.1	0.2	0.2	1200
+08E30177	"Beef, corned, 75% trimmed, ready-to-eat"	475	18.1	4.5	2	0.2	0.2	1180
+08E30179	"Beef, corned, lean & fat, ready to eat"	631	17.2	9	3.9	0.2	0.2	1128
+08E30180	"Beef, corned, canned"	839	23.6	11.7	4.9	0.3	0.3	1190
+08E30183	"Brawn, processed meat"	909	16.7	16.9	5.9	0	0	830
+08E30184	"Camp pie, processed meat, canned"	678	13.4	8.5	3.6	6.6	0.1	827
+08E30185	"Chicken, processed luncheon meat, low or reduced fat"	515	18.8	1.8	0.5	6.4	0.4	730
+08E30186	Devon or fritz	977	12.1	18	7.2	5.6	0.7	844
+08E30188	"Ham, leg, canned, lean & fat"	469	17.2	4.5	1.7	0.6	0.6	1250
+08E30189	"Ham, leg, non-canned, lean"	453	18.8	3.6	1.3	0	0	1293
+08E30190	"Ham, leg, non-canned, lean & fat"	867	31.5	8.9	3.1	0	0	1650
+08E30191	"Ham, shoulder, canned, lean & fat"	495	15.4	6.3	2.4	0	0	1430
+08E30192	"Ham, shoulder, non-canned, lean & fat"	463	14.2	6	2.1	0	0	1270
+08E30193	"Ham, steak, raw"	520	14.4	6.1	2.3	2.9	0.4	1130
+08E30194	"Ham steak, grilled"	681	19.4	7.8	2.9	3.7	0.8	1400
+08E30195	"Ham & chicken roll, processed luncheon meat"	965	12.8	17.7	6.4	4.6	1	874
+08E30196	"Kabana or cabanossi, processed meat"	1168	14.9	24.7	10.5	0	0	850
+08E30197	Mortadella	1345	14.2	28.9	9.3	1.2	0.4	759
+08E30198	"Salami, Danish"	1794	18.9	38.9	13.3	1.2	0.8	1495
+08E30199	"Salami, Hungarian"	1731	21	36.4	11.7	0.9	0	1726
+08E30200	"Salami, mettwurst"	1755	21.5	36.8	12.2	0.8	0.5	1560
+08E30201	"Salami, Milano"	1780	21.7	36.9	11.6	2.2	1	1552
+08E30202	"Salami, pepperoni"	1722	22.8	35.1	13	1.6	0.8	1433
+08E30204	"Spam, canned"	1359	12.3	30.4	11.3	1.3	1.3	1539
+08E30206	"Turkey, roast, deli-sliced, ready-to-eat"	606	15.5	8.7	2.9	0.7	0	820
+08E30207	"Turkey, processed luncheon meat"	427	15.2	3.9	1.4	0.6	0.6	780
+08E30208	"Beef, roast, deli-sliced, ready-to-eat"	434	18.5	3	1.3	0.5	0.5	1200
+08E30210	"Chicken roll, processed luncheon meat"	661	14.6	8.6	2.8	4.9	0.5	716
+08E30211	"Bacon, middle rasher, lean & fat, grilled"	1344	29.5	22.4	8.5	0.8	0.8	2015
+08E30212	"Bacon, middle rasher, lean & fat, dry fried"	1556	24.5	30.4	11.8	0.8	0.8	1543
+08E30213	"Bacon, middle rasher, 75% trimmed, boiled or simmered"	1289	30.2	20.7	7.7	0.5	0.5	1940
+08E30221	"Bacon, middle rasher, lean & fat, boiled or simmered"	2046	24.1	44	16.6	0.4	0.4	1614
+08E30256	"Sausage, white pudding"	1553	5.7	25.8	8.3	29.5	0	301
+08E30259	"Ham, prosciutto or parma style, raw"	1045	27.6	15.4	6	0.4	0.4	2600
+08E30273	"Bacon, middle rasher, lean & fat, baked, no added fat"	2183	25.7	47	17.7	0.4	0.4	1721
+08E30277	Berliner	983	14.4	18.8	6.8	1.9	1.1	834
+08E30278	Strassburg	995	13.3	18.4	6.8	4.3	0.6	832
+08E30287	Garlic roll	989	13.1	17.8	6.6	5.1	0.6	880
+08E30293	"Bacon, middle rasher, lean, raw"	573	21.3	5.5	2	0.4	0.4	1500
+08E30315	"Beef, corned, 50% trimmed, ready to eat"	537	17.8	6.3	1.3	0.2	0.2	1162
+08F10667	"Hamburger patty, frozen, grilled"	1177	18.4	18.9	7.3	7.8	1	736
+09A10020	"Milk, cow, fluid, whole, lactose reduced (total sugars less than 5g/100g)"	278	3.4	3.8	2.5	4.7	4.7	41
+09A10027	"Milk, cow, fluid, reduced fat (fat 1 - 2%), reduced lactose  (total sugars approximately 5g/100g)"	210	4	1.4	0.9	5.3	5.3	48
+09A10040	"Buttermilk, cultured, skim or nonfat (fat less than 0.5%)"	172	4.4	0.1	0.1	5.5	5.5	56
+09A10094	"Milk, cow, fluid, reduced fat (fat approximately 1.5%), increased protein (protein approximately 4%)"	222	4	1.6	1.1	5.4	5.4	53
+09A10096	"Milk, cow, fluid, skim (fat approximately 0.15%)"	146	3.6	0.1	0.1	4.8	4.8	49
+09A10101	"Milk, cow, fluid, reduced fat (fat approximately 1.5%), added omega 3 fatty acids"	211	3.7	1.2	0.5	5.9	5.9	37
+09A10103	"Buttermilk, cultured, 2% fat"	246	4.2	2	1.3	5.4	5.4	57
+09A10104	"Milk, goat, fluid"	210	3.1	2.6	1.7	3.6	3.6	66
+09A10113	"Milk, cow, fluid, extra creamy (fat greater than 4%)"	295	3.2	4.4	2.9	4.6	4.6	46
+09A10114	"Milk, cow, fluid, reduced fat (fat approximately 1%), added milk solids"	213	3.2	1.5	1	5.9	5.9	37
+09A10122	"Milk, cow, fluid, regular fat (fat approximately 3.5%), increased protein"	297	4	3.4	2.3	6	6	62
+09A10138	"Milk, cow, fluid, reduced fat (fat approximately 1%), added fibre"	220	3.7	1.2	0.8	5.9	5.9	58
+09A10150	"Milk, rice, fluid, calcium & protein enriched"	278	1.2	1.4	0.2	11.7	5.1	70
+09A10153	"Milk, oat, fluid"	119	0.6	1.4	0.2	3.1	0	0
+09A10154	"Milk, sheep, fluid"	454	6	7	4.6	5.4	5.4	44
+09A10163	"Milk, cow, fluid, regular fat (fat approximately 3.5%)"	291	3.4	3.4	2.2	6.2	6.2	36
+09A10164	"Milk, cow, fluid, regular fat (fat approximately 3.5%), ultra high temperature treated, commercial"	273	3.5	3.7	2.4	4.5	4.5	43
+09A10180	"Milk, cow, fluid, reduced fat (fat approximately 1%)"	211	3.7	1.2	0.8	5.9	5.9	37
+09A20018	"Milk, canned, sweetened, condensed, regular"	1415	8.3	9.2	6.1	54.9	54.9	105
+09A20019	"Milk, canned, sweetened, condensed, skim (fat approximately 0.2%)"	1205	10	0.2	0.2	60.3	60.3	125
+09A20020	"Milk, canned, evaporated, regular"	600	7.6	8.1	5.4	9.9	9.9	104
+09A20022	"Milk, canned, evaporated, skim (fat less than 0.5%)"	326	7.7	0.4	0.3	10.5	10.5	91
+09A20026	"Milk, canned, evaporated, reduced fat (fat approximately 2%)"	393	7.9	2.1	1.4	10.6	10.6	105
+09A30011	"Milk, powder, cow, regular"	2088	27.2	26.3	17.4	38.3	38.3	310
+09A30012	"Milk, powder, cow, skim"	1506	36.3	0.9	0.6	50.4	50.4	428
+09A30013	"Milk, powder, goat"	2089	27.3	27.1	17.2	36.5	36.5	295
+09A30016	"Milk, powder, cow, whey"	1527	12.9	1.1	0.7	74.5	74.5	1079
+09A50013	"Cream, pure, 35% fat"	1385	2.3	35.5	22.8	1.8	1.8	36
+09A50014	"Cream, regular thickened, 35% fat"	1450	2.2	36.8	23.6	3	3	37
+09A50015	"Cream, regular thickened, 35% fat, ultra high temperature treated"	1459	2.3	36.8	23.6	3.4	3.4	48
+09A50016	"Cream, rich or double thick"	1884	1.6	49.4	31.7	1.7	1.7	36
+09A50017	"Cream, regular thickened, light (fat approximately 18%)"	780	3.2	18	11.5	3.5	3.5	27
+09A50018	"Cream, whipped, aerosol, regular fat (fat approximately 28%)"	1272	3.4	30.3	19.5	5.3	5.3	46
+09A50020	"Cream, sour"	1520	2.3	38.7	24.5	2.5	2.5	31
+09A50021	"Cream, sour, light (fat approximately 18%)"	911	3.9	20.3	12.8	4.7	4.7	51
+09A50022	"Cream, sour, extra light (fat approximately 12%)"	685	5.3	12.5	7.9	7	7	80
+09A50023	"Cream, imitation or mock (non-dairy)"	1125	1	21.8	19.3	17.7	16.3	57
+09A50028	"Cream, whipped, aerosol, reduced fat"	805	3.4	17.8	11	5.3	5.3	46
+09A50029	"Cream, regular thickened, whipped, added sugar"	1485	1.9	31.5	20.2	16.9	16.9	32
+09A50037	"Cream, reduced fat (fat approximately 25%), canned"	1083	2.9	26.4	16.9	3.3	3.3	34
+09B10038	"Cheese, bocconcini"	862	17.6	15.2	10	0	0	280
+09B10045	"Cheese, feta (fetta), reduced salt"	1580	19.3	33.8	21.7	0.1	0.1	220
+09B10051	"Cheese, kasseri"	1525	23.6	30.2	19.8	0.4	0.4	1388
+09B10059	"Cheese, kefalograviera"	1525	23.6	30.2	19.8	0.4	0.4	1388
+09B10066	"Cheese, marscapone"	2172	1.3	57.3	37.7	1.7	1.7	16
+09B10070	"Cheese, Swiss style, processed"	1344	12.4	28.8	19	4	4	1452
+09B10111	"Cheese, blended, for pizza use"	1308	28.8	21.9	14.2	0.1	0.1	715
+09B10112	"Cheese, blue vein"	1544	20.3	32.4	20.8	0	0	1089
+09B10113	"Cheese, brie"	1439	18.6	30.3	19.8	0.1	0.1	593
+09B10114	"Cheese, camembert"	1260	19.5	25	16.4	0.1	0.1	610
+09B10118	"Cheese, colby style"	1611	24	32.3	20.9	0.1	0.1	595
+09B10119	"Cheese, cream"	1367	8.2	31.9	20.4	2.5	2.5	336
+09B10120	"Cheese, edam"	1459	27.5	26.8	17	0	0	933
+09B10121	"Cheese, feta (fetta), sheep & cows milk"	1163	17.4	22.8	15	0.2	0.2	1107
+09B10123	"Cheese, gouda"	1579	26.2	30.6	19.4	0	0	701
+09B10124	"Cheese, haloumy"	1032	21.3	17.1	11.1	1.8	1.8	2900
+09B10125	"Cheese, havarti style"	1690	19.4	36.7	23.8	0.1	0.1	600
+09B10126	"Cheese, mozzarella"	1291	26	22.5	14.2	0.7	0.6	459
+09B10128	"Cheese, parmesan, finely grated"	1931	40.6	33.3	21.1	0	0	1503
+09B10129	"Cheese, parmesan, shaved"	1671	35.1	28.8	18.3	0	0	1300
+09B10130	"Cheese, pecorino style"	1492	28	27.2	17.6	0.2	0.2	948
+09B10131	"Cheese, provolone style"	1524	27.8	28.4	18.4	0.1	0.1	1000
+09B10132	"Cheese, romano style"	1568	31.3	27.9	17.7	0.2	0.2	1040
+09B10133	"Cheese, Swiss"	1594	28.4	30	19	0.1	0.1	425
+09B10134	"Cheese, cheddar, processed"	1381	20.9	27.5	18.6	0.1	0.1	1331
+09B10136	"Cheese, cream, reduced fat (fat approximately 25%)"	1169	8.2	26.5	17	2.5	2.5	336
+09B10137	"Cheese, edam, smoked"	1459	27.5	26.8	17	0	0	933
+09B10138	"Cheese, processed, cheesy pop style"	1382	18.2	26.5	18	5.4	5.4	1480
+09B10139	"Cheese, processed, babybel style"	1311	22.5	25	16.9	0.2	0.2	720
+09B10140	"Cheese, processed, fridge stick"	1388	18.6	26.5	18	5.4	5.4	1480
+09B10141	"Cheese, goat"	1110	18.5	21.1	14.1	0.9	0.9	368
+09B10142	"Cheese, cream, light (fat approximately 15%)"	794	9.1	15	9.6	4.6	4.6	347
+09B10144	"Cheese, cheddar, processed, reduced sodium"	1447	22.1	28.2	19.1	1.2	0.1	456
+09B10152	"Cheese, neufchatel"	1363	9.4	30.9	19.7	2.2	2.2	330
+09B10155	"Cheese, cheddar, regular fat"	1661	24.6	32.8	21.6	0.5	0.4	684
+09B10159	"Cheese, cheshire"	1638	24.2	32.5	21	0	0	580
+09B10161	"Cheese, gloucester style"	1718	25	34.3	22.1	0	0	620
+09B20008	"Cheese, quark"	563	10.8	9.6	6.2	1.4	1.4	98
+09B20019	"Cheese, cheddar, reduced fat (fat approximately 75% less than regular)"	856	34.6	7.2	4.7	0.1	0.1	660
+09B20020	"Cheese, edam, reduced fat"	1307	33.7	19.8	12.6	0.1	0.1	650
+09B20022	"Cheese, gouda, reduced fat"	1365	31.4	22.4	14.4	0.1	0.1	659
+09B20024	"Cheese, Swiss, reduced fat"	1403	35.4	21.6	13.7	0.1	0.1	135
+09B20027	"Cheese, cottage"	519	15.6	5.8	3.8	2.4	2.4	315
+09B20030	"Cheese, cottage, low fat (fat 1 - 2%)"	384	18.1	1.2	0.8	1.9	1.9	129
+09B20032	"Cheese, cottage, creamed, low fat"	422	15.5	2.3	1.5	4.3	4.3	430
+09B20033	"Cheese, cottage, low fat, reduced salt"	445	15.3	2.4	1.5	5.7	5.7	196
+09B20050	"Cheese, cheddar, reduced fat (fat approximately 25%)"	1401	28.9	24.2	15.7	0	0	550
+09B20051	"Cheese, cheddar, reduced fat (fat approximately 15%)"	1140	33.4	15.1	9.8	0	0	670
+09B20053	"Cheese, cottage, creamed, unflavoured"	505	15.4	5.7	3.5	1.9	1.9	277
+09B20054	"Cheese, feta (fetta), cows milk, reduced fat"	974	25.7	14.5	9.3	0.1	0.1	1100
+09B20057	"Cheese, ricotta, reduced fat (fat approximately 5%)"	465	12	5.9	3.8	2.4	2.4	221
+09B20058	"Cheese, ricotta"	497	8.6	8	5.1	3.2	3.2	120
+09B20064	"Cheese, mozzarella, reduced fat"	1226	31.7	17.9	11.5	0.1	0.1	580
+09B20065	"Cheese, quark, low fat"	349	13.9	1.1	0.7	2.9	2.9	160
+09B20068	"Cheese, cheddar, processed, reduced fat (fat approximately 16%)"	1057	22.5	15.4	10.3	4.9	4.9	1171
+09B20069	"Cheese, cheddar, processed, reduced fat (fat approximately 8%)"	810	24.4	7.8	5.6	4.9	4.9	1171
+09B30010	"Cheese spread, cheddar cheese-based"	1220	15.9	24.7	15.8	1.7	1.7	1416
+09B30011	"Cheese spread, cream cheese-based"	1456	11.1	33	21.1	2.8	2.8	1249
+09C10026	"Yoghurt, natural, regular fat (fat approximately 4%)"	355	5.7	4.2	2.7	4.8	4.8	72
+09C10036	"Yoghurt, reduced fat (fat approximately 1%), vanilla flavoured"	401	5	1	0.6	15.3	14.9	65
+09C10057	"Yoghurt, extra creamy (fat approximately 4.5%), vanilla flavoured"	534	5.2	4.6	3	15.1	12	98
+09C10067	"Yoghurt, Greek style (fat approximately 10%), natural"	622	5.7	10	6.4	8	8	86
+09C10068	"Yoghurt, Greek style (fat approximately 8.5%), natural"	572	4.3	8.5	5.5	10	10	98
+09C10069	"Yoghurt, Greek style (fat approximately 6%), plain or flavoured"	561	5.1	6	3.9	13.7	13.7	60
+09C10072	"Yoghurt, natural, reduced fat (fat approximately 2%)"	329	5.9	1.9	1.2	8.2	8.2	91
+09C10087	"Yoghurt, goat, regular fat"	264	3.1	3	2	4.8	4.8	66
+09C20025	"Yoghurt, natural, low fat (fat less than 0.5%)"	243	6.6	0.3	0.2	6	6	83
+09D10031	"Ice cream, rich (fat greater than 12.5%),  vanilla flavour"	951	4	14.4	9.5	20.6	20.6	55
+09D10047	"Ice cream, low fat (fat is less than 4%), vanilla flavour"	516	4.6	3.1	2	19	19	69
+09D10105	"Yoghurt, frozen, soft serve, regular fat, vanilla flavour"	682	4.7	5.6	3.7	23.2	23.2	53
+09D10108	"Yoghurt, frozen, soft serve, reduced fat, vanilla flavour"	524	5.3	1.7	1.1	21.8	21.8	61
+09D10132	"Gelato, commercial, various flavours"	591	2.2	2.6	1.8	26.6	25.7	34
+09D10135	"Ice cream, reduced fat, vanilla & other non-chocolate flavours"	654	3.3	3.3	2.2	28	25	70
+09D10145	"Ice cream, regular fat, chocolate flavour"	784	3.6	10.3	6.8	20	18	51
+09D10152	"Ice cream, reduced fat, chocolate flavour"	655	3.4	3.3	2.2	28	25	70
+09D10180	"Ice cream, reduced fat, low carbohydrate (carbohydrate approximately  5%), vanilla flavour"	368	2.8	3.3	2.2	7	4	70
+09D10200	"Ice cream, regular fat, vanilla flavour"	806	3.7	10.6	7.2	20.5	18.4	48
+09D20024	"Custard, egg, dry mix"	1733	7.5	6.1	1.9	80	80	481
+09D20055	"Cheesecake filling, dry mix"	1963	9.3	22.4	7.6	57.4	43.8	506
+09D20083	"Custard, dairy, vanilla, regular fat, commercial"	403	3.3	3	2	13.9	11.6	59
+09D20084	"Custard, dairy, vanilla, reduced fat, commercial"	382	4.5	0.9	0.6	15.8	13.5	61
+09D20088	"Custard, dairy, chocolate, regular fat, commercial"	490	4.2	3	2	18.1	15.8	104
+09D20096	"Custard, dairy, chocolate, reduced fat, commercial"	414	4.3	0.9	0.4	18.1	15.8	104
+09D20097	"Custard, egg, vanilla, baked"	1108	5.3	17.8	10.6	21	21	55
+10A10073	"Stock, fish, concentrated liquid, commercial"	37	1.1	0.2	0.1	0.6	0.1	3706
+10A10076	"Stock, vegetable, concentrated liquid, commercial"	46	1.1	0.4	0.2	0.7	0.1	5076
+10A10087	"Sauce, orange, savoury"	997	0.1	0.8	0	56.5	48.2	950
+10A10095	"Sauce, Asian, for stir fry"	614	1.4	10	1.2	12.7	6.8	797
+10A10096	"Sauce, horseradish, commercial"	555	1.8	8.6	5	11.4	10.4	1713
+10A10099	"Sauce, mustard, commercial"	210	3.9	2.3	0.2	1.7	1.4	1100
+10A10108	"Sauce, tomato, commercial, intense sweetened"	149	2	0.2	0	6	5	970
+10A10110	"Sauce, seafood, cocktail, commercial"	942	0.8	11.7	1.2	28.9	18	1633
+10A10171	"Sauce, apple, commercial"	369	0.2	0.1	0	20.7	20.6	1
+10A10288	"Gravy, commercial, prepared"	342	1.4	4.2	1.6	8.7	0.2	468
+10A10291	"Paste, curry, Indian style, commercial"	1314	4.8	26.4	2.7	10.2	4.2	3434
+10A10293	"Sauce, barbecue, commercial"	778	0.7	0.2	0.1	44.3	40.2	640
+10A10296	"Sauce, black bean, Asian, commercial"	539	4.1	2.8	0.6	19.4	15.2	3314
+10A10300	"Sauce, chilli, Asian, commercial"	484	0.9	2.6	0.5	18.9	15	1340
+10A10301	"Sauce, tabasco"	68	1.3	0.8	0.1	0.8	0.8	633
+10A10303	"Sauce, cranberry, commercial"	682	0.2	0.1	0	39.7	39.1	1
+10A10304	"Sauce, curry, Asian, commercial"	619	1.3	11.8	6.6	6.7	2.2	560
+10A10305	"Sauce, fish, Asian, commercial"	217	6.8	0.3	0.1	4.4	4.4	7990
+10A10306	"Sauce, hoi sin, Asian, commercial"	954	1.7	5.4	0.8	37.2	33.5	1550
+10A10309	"Sauce, oyster, Asian, commercial"	483	2.8	1	0.3	21	15.6	3790
+10A10310	"Sauce, pasta, cream-based, commercial"	440	1.7	8.3	5.3	5.2	3.3	584
+10A10311	"Sauce, pasta, tomato-based, commercial, heated"	234	1.6	1.6	0.1	7.6	6.3	378
+10A10313	"Sauce, plum, Asian, commercial"	1005	0.1	0.8	0.4	56.5	48.2	950
+10A10319	"Sauce, soy, commercial"	164	5.4	0	0	2.7	1.7	6555
+10A10320	"Sauce, soy, reduced salt"	172	5.9	0	0	2.7	1.7	3333
+10A10321	"Sauce, sweet & sour, Asian, commercial"	822	0.6	0.5	0.1	45.6	37.8	660
+10A10322	"Sauce, taco style, commercial"	126	0.9	0.3	0.1	4.8	3.5	432
+10A10323	"Sauce, tomato, commercial"	460	1.2	0.2	0.1	24.3	23.3	938
+10A10324	"Sauce, tomato, no added salt, commercial"	460	1.2	0.2	0.1	24.3	23.3	11
+10A10328	"Sauce, worcestershire, commercial"	328	1.3	0.2	0	17.6	16.9	1060
+10A10342	"Stock, chicken, liquid, commercial"	31	0.4	0.4	0.1	0.7	0.1	400
+10A10343	"Stock, beef, liquid, commercial"	48	1	0.4	0.1	1.1	0.5	350
+10A10354	"Sauce, mint, commercial"	546	0.4	0.1	0	29.9	29.6	4
+10A10367	"Gravy powder, reduced salt (light style), dry mix"	1343	8.9	1.8	0.4	65.7	0.7	4830
+10A10382	"Paste, shrimp, Asian style"	1250	6.1	2.5	0.5	60.7	50.6	1705
+10A10389	"Sauce, satay, Asian, commercial"	1190	4.9	17.2	3.9	25.8	15.3	913
+10A10411	"Gravy powder, dry mix"	1201	8.9	6.2	2.4	48.2	0.7	6020
+10B10009	"Cabbage, mustard, salted"	73	2.2	0.3	0	0.7	0.7	2058
+10B10010	"Cabbage, red, pickled (include sweet & sour cabbage)"	399	0.7	0.1	0	22	21.9	661
+10B10012	"Cucumber, pickled, sour, drained"	313	0.4	0.3	0	16.3	15.5	520
+10B10013	"Cucumber, pickled, sweet, drained"	522	0.4	0.3	0	28.6	27.8	520
+10B10014	"Bean, green, pickled"	387	0.5	0.1	0	21.8	21.6	657
+10B10015	"Eggplant, pickled"	389	0.4	0.1	0	22	22	656
+10B10016	"Horseradish cream, commercial"	694	2.2	10.8	6.3	14.3	13	2140
+10B10017	Mint jelly	794	0.5	0.1	0	45.9	45.8	92
+10B10025	"Pepper, pickled"	387	0.5	0	0	22.1	22.1	653
+10B10026	"Pepper, hot, pickled"	398	0.7	0.1	0	22.1	22.1	654
+10B10027	"Pickles, mustard"	310	0.8	0.5	0	15.7	12.8	620
+10B10029	"Pickle, mixed, in brine, sweetened"	391	0.4	0.2	0	22	21.9	660
+10B10032	"Seaweed, pickled"	401	0.5	0.1	0	21.1	21.1	698
+10B10051	"Chutney, fruit, commercial"	793	0.5	0.3	0	43.1	41.5	690
+10B10052	"Gherkin, pickled, drained, commercial"	463	0.4	0.3	0.1	24.4	23.6	520
+10B10053	"Olive, green, pimento stuffed, drained"	387	0.8	8.3	1.2	1.8	0	2070
+10B10054	"Olive, green or black, drained"	880	2.1	20.4	2.6	2.6	0	1472
+10B10055	"Onion, pickled, commercial, drained"	270	0.5	0.2	0	13	12.3	790
+10B10056	"Pickles, mustard, sweet, commercial"	360	0.8	0.5	0	17.5	14.7	620
+10B10058	"Capers, bottled, drained"	163	0.4	0.2	0	8.2	7.8	680
+10B10059	"Chutney or pickle, fruit, intense sweetened"	685	0.5	0.3	0	36.8	35.2	690
+10B10060	"Relish, corn"	444	0.6	0.1	0	24.8	17.9	132
+10C10153	"Soup, beef or lamb & vegetable, instant dry mix"	1433	12.9	1.9	0.8	66.8	9.7	5311
+10C10154	"Soup, beef or lamb & noodle, instant dry mix"	1491	12	3.3	1.3	68.1	6.4	6810
+10C10155	"Soup, chicken, reduced energy, instant dry mix"	1344	17.1	5.1	2	48.2	35.1	7344
+10C10156	"Soup, chicken, instant dry mix"	1384	20.7	2.9	1.1	53.9	6.4	7296
+10C10158	"Soup, chicken & noodle or rice, reduced energy, instant dry mix"	1400	10.6	10.3	4.1	46.6	25.1	7344
+10C10160	"Soup, chicken & noodle or rice, reduced salt, instant dry mix"	1491	12	3.3	1.3	68.1	6.4	2631
+10C10162	"Soup, creamed chicken, instant dry mix"	1628	19	11.4	1.4	42.9	4.8	3238
+10C10163	"Soup, creamed chicken, reduced salt, instant dry mix"	1628	19	11.4	1.4	42.9	4.8	1529
+10C10164	"Soup, creamed seafood, instant dry mix"	1628	19	11.4	1.4	42.9	4.8	3238
+10C10165	"Soup, tomato, smooth, reduced energy, instant dry mix"	1364	8.2	3.6	1.4	61.6	46.7	5450
+10C10167	"Soup, tomato, smooth, reduced salt, instant dry mix"	1347	9.2	1.2	0.5	67.1	11.9	2261
+10C10170	"Soup, vegetable, instant dry mix"	1490	6.5	2.2	0.8	76.1	10.5	4968
+10C10171	"Soup, vegetable, reduced salt, instant dry mix"	1490	6.5	2.2	0.8	76.1	10.5	2631
+10C10172	"Soup, vegetable & noodle or rice, instant dry mix"	1486	7	3.8	1.3	71.6	7.4	6412
+10C10173	"Soup, vegetable & noodle or rice, reduced energy, instant dry mix"	1387	5.7	6.6	2.6	58.8	41	5358
+10C10174	"Soup, creamed vegetable, instant dry mix"	1627	19	11.4	1.4	42.9	4.8	3238
+10C10175	"Soup, pea & ham, reduced energy, instant dry mix"	1612	13.7	6.8	2.7	65.7	5.5	6894
+10C10176	"Soup, pea & ham, instant dry mix"	1636	13.8	7	2.8	66.8	2.8	6894
+10C10177	"Soup, minestrone, instant dry mix"	1616	8.4	6	2.4	73.2	10.8	6995
+10C10179	"Soup, beef or lamb & vegetable, condensed, canned"	217	3.1	1.1	0.2	6.3	2.9	666
+10C10181	"Soup, chicken & vegetable, condensed, canned"	211	3.1	0.9	0.1	6.3	2.9	666
+10C10183	"Soup, creamed seafood, condensed, canned"	331	2.4	3.8	1.5	8.4	2.2	604
+10C10185	"Soup, tomato, reduced salt, condensed, canned"	227	1	0.3	0	10.8	8.8	329
+10C10186	"Soup, tomato & vegetable, condensed, canned"	207	1.4	0.5	0	8.7	5.9	669
+10C10187	"Soup, tomato & noodle or rice, condensed, canned"	315	1.6	0.3	0	15.6	6.2	481
+10C10188	"Soup, vegetable, condensed, canned"	187	1.8	0.7	0	6.6	3	698
+10C10189	"Soup, creamed vegetable, condensed, canned"	255	1.3	3	1.1	6.7	1	680
+10C10191	"Soup, pea & ham, condensed, canned"	436	6.6	1.8	0.9	13.1	1.1	677
+10C10192	"Soup, minestrone, condensed, canned"	544	3.5	6.8	2.6	11.9	1.6	575
+10C10308	"Soup, Asian style, meat or seafood, vegetable & noodles, instant dry mix, cup style"	1458	12.3	2.6	1.1	65.7	13.7	2840
+10C10310	"Soup, beef, broth style, instant dry mix, cup style"	1356	4.8	3.3	1.3	65.7	5.7	5020
+10C10312	"Soup, creamed chicken, condensed, canned"	277	1.9	3.3	1.1	7.1	1.1	690
+10C10318	"Soup, chicken noodle, simmer dry mix"	1442	14	3.9	1.3	60.6	10.1	5170
+10C10322	"Soup, chicken & vegetable, instant dry mix, cup style"	1475	4.5	7.5	3.1	62.3	10.3	3220
+10C10323	"Soup, chicken, simmer dry mix"	1559	7.5	10.3	4.2	60.3	11.3	5590
+10C10337	"Soup, tomato, condensed, canned"	233	1	0.3	0	10.8	8.8	640
+10C10339	"Soup, tomato & noodle, instant dry mix, cup style"	1530	8.7	6.3	2.6	65.5	16	2030
+10C10341	"Soup, creamed vegetables, condensed, canned"	256	1.3	3	1.1	6.7	1	680
+10C10343	"Soup, vegetable, cream style, simmer dry mix"	1497	6.2	8.4	3.4	61.3	12.8	4060
+10C10350	"Soup, vegetable & noodle, simmer dry mix"	1347	7.1	5	2	59.2	21.2	5260
+10C10365	"Soup, pumpkin & carrot, condensed, canned"	275	1.3	2.5	1.5	8.4	4.9	588
+10C10369	"Soup, pumpkin, cream style, simmer dry mix"	1497	6.2	8.4	3.4	61.3	12.8	2700
+10C10378	"Soup, beef, broth style, condensed, canned"	173	4.5	1.8	0.6	1.9	0.9	774
+10C10379	"Soup, chicken, broth style, condensed, canned"	144	3.1	1.4	0.4	2.2	0.3	809
+10C10392	"Soup, creamed mushroom, condensed, canned"	256	1.3	3	1.1	6.7	1	680
+10C10413	"Soup, French onion, dry mix"	706	8.1	2	1	25.9	6.2	8330
+10C10417	"Soup, chicken, with noodle, instant dry mix, cup style"	1536	11.4	6.3	1.1	64.1	6	4536
+10C10429	"Soup, vegetable, instant dry mix, cup style"	1440	3.4	7.5	2.7	63.1	17.6	2683
+10C10436	"Soup, mixed vegetables, reduced energy, instant dry mix, cup style"	1450	4.3	8.5	3.5	57.7	26.2	5400
+10C10438	"Soup, onion, without pasta or croutons, simmer dry mix"	872	6.7	2.1	0.9	38.3	10.3	7130
+10D10032	Popping corn	1463	11.8	4.1	0.6	55	4.5	4
+10D10080	"Corn chip, toasted, unflavoured, salted"	2082	7.2	27.3	10.7	52.8	0.5	349
+10D10081	"Corn chip, toasted, unflavoured, no added salt"	2092	7.2	27.9	11.3	52.1	0.5	11
+10D10082	"Corn chips, flavoured"	2085	7.1	27.3	11.2	53.1	1.3	512
+10D10083	"Corn chips, flavoured, fried, monounsaturated oil"	2102	7.1	27.7	3.2	53.1	1.3	512
+10D10094	Pretzels	1579	11.7	7.2	1.3	64.6	0.4	1980
+10D10096	"Crisp or chip, potato, unflavoured, restructured, salted"	2279	6.4	35.7	13	47.6	0.5	640
+10D10099	"Crisp or chip, vegetable, salted"	2072	6.7	26.3	2.8	55.7	0.7	607
+10D10103	"Crisp or chip, potato, unflavoured, reduced fat, reduced salt"	2060	5	25	9.1	60	2.1	500
+10D10107	"Potato straws, plain"	2168	6.9	31	13.4	51.6	0.2	576
+10D10110	"Prawn cracker, Asian, commercial, ready to eat"	2196	3.7	26.8	7.9	66.6	5.6	628
+10D10111	"Crisp or chip, soy"	2073	6.2	26.7	5.1	53.2	5.1	476
+10D10112	"Popcorn, regular, commercial"	2116	9.1	28.4	12.6	49.6	0.6	645
+10D10116	"Popcorn, air-popped, no added fat or salt"	1427	12.9	4.1	0.7	55.3	0.9	1
+10D10119	"Potato crisps or chips, plain, salted"	2161	6	33.9	11.8	45.8	0.9	618
+10D10120	"Potato crisps or chips, flavoured (other than salt & vinegar)"	2129	6.8	32.5	7.1	43.6	1.4	664
+10D10123	"Potato, crisp or chip, salt and vinegar flavoured"	2134	6.8	32.6	9	43.6	1.4	970
+10D10124	"Crisp, potato, plain, no added salt"	2474	5.9	38.9	16.9	53.3	1	43
+10D10125	"Potato crisps or chips, plain, reduced fat, salted"	1619	10.9	6.3	0.7	66.4	2.4	1546
+10D10126	"Potato crisps or chips, reformed, salted"	2240	4.7	34.1	7.8	51.3	2.2	430
+10E10004	"Mustard, made with dry powder, with added water"	302	5	4	0.2	2.4	1.5	990
+10E10028	"Paprika, ground, all types"	1475	14.4	11.7	1.9	37.1	25.7	27
+10E10058	"Paste, green curry, Asian style, commercial"	464	2.4	7.9	0.5	6.3	3.4	1807
+10E10060	"Chillies, dried, ground"	1583	14.1	16.8	3	29.6	10.4	34
+10E10061	Chilli powder	1451	12.3	16.8	3	20.5	10.1	1010
+10E10062	"Cinnamon, ground"	1039	4.2	2.7	0.1	25.5	13.8	44
+10E10063	"Cloves, ground"	1539	6	17.3	0.9	30.8	2.7	158
+10E10064	"Coriander seed, ground"	1485	13	19.8	1	10.5	8.8	49
+10E10065	"Cumin (cummin) seeds, dried, ground"	1918	18.4	25.8	1.3	33.3	2.3	119
+10E10066	"Curry powder, condiment"	1469	12.7	13.8	0.7	30.9	10.2	52
+10E10067	"Ginger, dried, ground"	1419	8.5	4.6	0.8	58.6	0.9	51
+10E10068	"Mustard, cream-style, condiment"	352	5.8	3.1	0.1	6.2	3.6	1420
+10E10069	"Mustard powder, dry"	2254	29.4	39.5	2	17.2	5	3
+10E10070	"Nutmeg, ground"	2134	6.4	37.6	1.9	27.5	14.9	42
+10E10071	"Oregano, dried"	1039	4.2	2.7	0.5	25.5	13.8	44
+10E10073	"Thyme, dried"	1151	8.1	6	1.1	29.1	1.8	69
+10E10074	"Turmeric, ground"	1405	7.7	8.6	1.5	46.3	25.1	48
+10E10075	"Spice, mixed spice (cinnamon, nutmeg & cloves)"	1468	5.2	16.1	0.8	27.2	11.9	66
+10E10080	"Pepper, ground, black or white"	1208	10.7	2.7	0.1	42.1	0.6	25
+10F20016	"Mayonnaise, with olive oil, commercial"	1553	0.9	32.3	3.4	19.9	14.4	810
+10F20024	"Dressing, French, with olive oil, commercial"	1081	0.1	23.8	3.3	11.7	11.4	1830
+10F20026	"Dressing, Italian, with olive oil, commercial"	1293	0.2	31.4	4.4	7.2	6.9	1330
+10F20030	"Mayonnaise (fat less than 20%), commercial"	813	0.5	13.1	2.9	18.5	14	728
+10F20031	"Mayonnaise (fat less than 20%), with canola oil, commercial"	813	0.5	13.1	0.9	18.5	14	728
+10F20034	"Dressing, coleslaw, (fat less than 10% ), intense sweetened, commercial"	226	0.6	5.4	0.7	0	0	1118
+10F20037	"Dressing, French, no added fat, commercial"	317	0.1	0.1	0	18.3	15.4	970
+10F20038	"Dressing, French, no added fat, intense sweetened, commercial"	6	0.1	0.1	0	0	0	1607
+10F20039	"Dressing, Italian, no added fat, commercial"	346	0.2	0	0	19.9	13.1	975
+10F20040	"Dressing, Italian, no added fat, intense sweetened, commercial"	12	0.2	0	0	0.5	0.5	797
+10F20063	Vinegar	57	0.1	0	0	0	0	5
+10F20065	"Dressing, coleslaw, reduced fat, commercial"	614	0.6	9.8	1.2	13	8.4	970
+10F20066	"Dressing, French, regular, commercial"	1114	0.1	23.8	2.8	11.7	11.4	1830
+10F20067	"Dressing, French, reduced fat, commercial"	89	0.1	0.1	0	2.9	2.7	1310
+10F20068	"Dressing, Italian, regular, commercial"	1313	0.2	31.4	3.2	7.2	6.9	1330
+10F20069	"Dressing, Italian, reduced fat, commercial"	132	0.2	0	0	5.5	5.2	790
+10F20071	"Dressing, thousand island, reduced fat, commercial"	735	0.8	10.4	1.2	17.6	16.2	830
+10F20082	"Dressing, caesar"	2363	3.9	61.6	10.3	0.5	0.3	210
+10F20087	"Dressing, thousand island, regular, commercial"	1508	1	31.8	3.4	16.6	14.7	878
+10F20094	"Dressing, coleslaw, regular, commercial"	1630	1	30.1	6.2	28.4	24.5	970
+10F20095	"Mayonnaise, reduced fat, commercial"	1204	0.5	21.2	2.8	23.2	18.6	695
+10F20096	"Mayonnaise, regular fat, commercial"	2911	0.9	76.7	10.2	2.7	2.5	468
+10F20097	"Mayonnaise, low fat, commercial"	574	0.7	5.3	0.7	21.5	16.1	678
+10F30007	"Yeast, compressed"	282	11.4	0.4	0.1	1.1	0	16
+10F30009	"Yeast, dried"	1274	40.1	5	0.6	11.3	0	170
+10F40010	"Spread, yeast, marmite"	665	15.6	1.6	0.3	20	10.4	3050
+10F40012	"Spread, beef extract, bovril"	763	40.4	0.6	0.2	3.2	0.4	4370
+10F40014	"Spread, yeast, vegemite"	519	23.9	0.9	0.2	1.6	1.6	2962
+10F40015	"Beef, extract, bonox"	401	16.6	0.2	0	6.5	0	6660
+10F60012	Stock cube	904	11.3	8.9	4.4	22.5	4.3	18400
+10F60025	Hydrolysed vegetable protein	976	40	2	1	12.9	12.8	17000
+10F60049	"Salt substitute, potassium & sodium chloride based mix"	0	0	0	0	0	0	21718
+10F60058	"Gelatine, powder, unflavoured"	1449	84.4	0.4	0.2	0	0	330
+10F60059	"Gluten, from wheat (vital wheat gluten)"	1598	74.9	2.2	0.3	14.3	0.1	191
+10F60060	"Salt, table, non-iodised"	0	0	0	0	0	0	38178
+10F60061	"Salt, table, iodised"	0	0	0	0	0	0	38168
+10F60062	"Salt, cooking"	0	0	0	0	0	0	37980
+10F60063	"Salt, flavoured, non-iodised"	0	0	0	0	0	0	27462
+10F60064	"Salt, rock"	0	0	0	0	0	0	38177
+10F60065	"Salt, sea"	0	0	0	0	0	0	37034
+10F60069	"Seasoning, chilli-based, for tacos"	1037	5.9	4.1	1.1	39.7	19.2	9350
+10F60070	"Starch, potato"	1332	0	0.5	0.2	74.5	0	9
+10F60072	"Vanilla, artificial, extract, alcohol free"	245	0	0	0	14.4	14.4	3
+10F60074	"Stock, powder, dry"	904	11.3	8.9	4.4	22.5	4.3	18400
+10F60075	"Salt, rock, flavoured"	0	0	0	0	0	0	27462
+10F60077	"Seasoning, chilli-based, salt reduced, for tacos"	1037	5.9	4.1	1.1	39.7	19.2	6540
+10F60078	Textured vegetable protein	1609	33.7	6.8	0.6	42.7	8.6	1364
+10F60083	"Vanilla bean extract, alcohol based"	1216	0.1	0.1	0	12.6	12.6	9
+10F60089	"Salt substitute, potassium chloride"	0	0	0	0	0	0	33
+10F60090	"Seasoning, salt-based"	1105	0.6	0.5	0.1	63.3	4.3	12139
+11A10006	"Seed, pumpkin, kernel, oil roasted, no added salt"	2531	23.6	49.3	7.3	13.3	1	17
+11A10008	"Seed, sunflower, hulled, oil roasted, salted"	2473	21.6	53.7	5.4	2.1	1.9	621
+11A10009	"Seed, sunflower, hulled, oil roasted, no added salt"	2512	22	54.5	4.7	2.1	1.9	1
+11A10010	"Seed, sunflower, hulled, dry roasted"	2445	23.2	52	4.4	2.2	2	1
+11A10018	"Seed, sesame, white"	2531	22.2	55.6	6.8	0.9	0.6	24
+11A10019	"Seed, sunflower"	2397	22.7	51	4.3	2.2	2	0
+11A10020	"Tahini, sesame seed pulp"	2718	20.4	60.7	7.5	1	0.7	79
+11A10022	"Seed, linseed or flaxseed"	2118	18.3	42.2	3.6	1.6	1.6	30
+11A10023	"Seed, pumpkin, hulled & dried"	2382	24.5	45.9	8.5	13.9	1	18
+11A10024	"Seed, poppy"	2273	18	44.7	4.9	13.7	13.7	21
+11B10029	"Nut, peanut, with skin, dry roasted, salted"	2392	24.8	47.3	5.4	9	5.1	594
+11B10030	"Nut, peanut, with skin, dry roasted, no added salt"	2392	24.8	47.3	5.4	9	5.1	1
+11B10034	"Peanut butter, salted, no added sugar"	2605	27.7	51.6	8.7	8.1	4.3	300
+11B10042	"Coconut, fresh, milk"	995	2.3	23.8	21.1	3.3	3.3	15
+11B10046	"Nut, almond, dry roasted, salted"	2506	20.4	54.4	5.4	4.4	4.4	780
+11B10049	Almond meal	2529	20	55.2	3.6	4.4	4.4	5
+11B10052	"Nut, cashew, roasted, with oil, salted"	2665	16.7	51.3	8.7	26.4	6.1	290
+11B10054	"Nut, cashew, dry roasted, no added salt"	2467	17.7	49.2	8.8	17.5	5.7	11
+11B10056	Chestnut puree	547	2	1.4	0.3	26.6	0.7	27
+11B10059	"Nut, hazelnut, dry roasted, no added salt"	2729	15.4	61.9	2.7	5.3	4.6	3
+11B10079	"Nut, pistachio, roasted, salted"	2474	21.1	47.6	5.4	16.2	6.3	639
+11B10080	"Nut, pistachio, roasted, no added salt"	2474	21.1	47.6	5.4	16.2	6.3	7
+11B10111	"Nut, peanut, with skin, raw, no added salt"	2402	24.7	47.1	7.1	10.1	5.1	1
+11B10112	"Nut, almond, without skin, blanched, no added salt"	2538	20.4	55.5	3.3	3.9	3.9	5
+11B10113	"Nut, almond, with skin, no added salt"	2508	19.5	54.7	3.7	4.8	4.8	5
+11B10114	"Nut, brazil, raw or blanched, no added salt"	2888	14.4	68.5	14.8	2.4	2.1	2
+11B10115	"Nut, cashew, raw, no added salt"	2442	17	49.2	8.4	16.8	5.5	11
+11B10116	"Nut, cashew, roasted, salted"	2664	16.7	51.3	8.7	26.3	6	290
+11B10118	"Nut, chestnut, roasted"	728	3.4	0.6	0.1	34.3	3.8	1
+11B10120	"Coconut, fresh, mature fruit, flesh"	1293	3.4	30.1	24.1	3.4	3.1	10
+11B10122	"Coconut, fresh, mature, water or juice"	92	0.5	0.1	0.1	4.7	4.7	17
+11B10124	"Coconut, grated & desiccated"	2779	6.6	65.4	52.3	7.3	6.6	15
+11B10127	"Coconut, milk or cream, dried, powder"	2846	8.7	66.3	59.7	12.5	7.4	30
+11B10128	"Nut, hazelnut, raw, no added salt"	2693	14.8	61.4	2.7	5.1	4.4	3
+11B10129	"Nut, macadamia, no added salt"	3073	7.6	76.2	10.3	4.5	4.5	3
+11B10130	"Marzipan, almond paste"	1771	7.4	18.1	1.2	55.1	54.1	12
+11B10131	"Nut, peanut, with skin, roasted, with oil, salted"	2640	24.4	51.7	7.8	14.4	4.7	380
+11B10132	"Nut, peanut, without skin, roasted, with oil, salted"	2666	25.1	52.7	7.9	14.1	4.4	335
+11B10133	"Nut, peanut, without skin, roasted, with oil, no added salt"	2666	25.1	52.7	7.9	14.1	4.4	1
+11B10134	"Nut, pecan, no added salt"	2977	9.8	71.9	4.5	4.9	4.3	3
+11B10135	"Nut, pine, raw, no added salt"	2928	13	70	4.2	4.5	3.4	3
+11B10136	"Nut, pistachio, no added salt"	2395	19.7	50.6	5.8	6.8	5.9	7
+11B10137	"Nut, walnut, raw, no added salt"	2907	14.4	69.2	4.4	3	2.7	3
+11B10143	"Peanut butter, smooth & crunchy, sweetened, salted, light"	2296	17	38.2	6.5	29.9	13.3	400
+11B10144	"Nut, almond, with skin, dry roasted, no added salt"	2559	19.9	55.8	3.7	4.9	4.9	5
+11B10145	"Nut, almond, with skin, roasted, with oil, no added salt"	2620	18.9	58.1	4.3	4.7	4.7	5
+11B10146	"Nut, almond, with skin, roasted, with oil, salted"	2594	18.7	57.6	4.3	4.6	4.6	390
+11B10147	"Nut, cashew, roasted, with oil, no added salt"	2556	16.5	52.8	8.9	16.3	5.3	10
+11B10148	"Nut, macadamia, roasted, with oil, no added salt"	3120	7.2	77.8	10.6	4.3	4.3	3
+11B10149	"Nut, pistachio, roasted, with oil, salted"	2486	18.9	53.6	6.3	6.5	5.7	392
+11B10154	"Nut, macadamia, roasted, with oil, salted"	3095	7.2	77.2	10.5	4.3	4.3	308
+11B10156	"Almond milk, with linseed oil & water"	479	3.3	10.6	0.7	1	1	1
+11B10172	"Nut, chestnut, raw"	683	2.4	0.7	0.1	29.7	3.1	1
+11B10176	"Coconut, fresh, young or immature, flesh"	357	1.6	5.6	4.9	7	4	6
+11B10177	"Coconut, fresh, young or immature, water or juice"	116	0.2	0	0	6.6	6.6	5
+11B10179	"Coconut, cream"	792	1.5	18.9	17	3.6	3.5	17
+11B10180	"Coconut, milk, regular fat, canned"	648	1.6	15.8	14.2	2	1.8	20
+11B10181	"Coconut, milk, reduced fat, canned"	292	0.6	7.1	6.4	1.1	0.9	15
+11B10184	"Peanut butter, smooth & crunchy, added sugar & salt"	2479	22.2	50	8.7	12	8.6	471
+11B10185	"Peanut butter, smooth & crunchy, added sugar, no added salt"	2495	22.2	50.4	8.8	12	8.6	25
+11B10186	"Peanut butter, smooth & crunchy, no added sugar or salt"	2639	24.3	54.3	9.4	9.7	5.5	25
+11B10192	"Flour, chestnut"	1440	6.1	3.7	0.7	64.2	23.8	25
+11B10193	"Flour, coconut"	1264	12.1	10.9	9.6	10.3	9.2	50
+12A10012	"Glucose, powder"	1684	0	0	0	99	49.1	12
+12A10022	Malt extract	1318	6.2	0	0	71.3	57	14
+12A10024	"Syrup, corn, light or dark"	1302	0	0	0	76.6	37.8	160
+12A10028	"Syrup, sugar & water (sugars content approximately 46%)"	786	0	0	0	46.2	46.2	0
+12A10029	"Syrup, treacle"	1134	1.2	0	0	65.2	65.2	180
+12A10030	"Syrup, grenadine"	786	0	0	0	46.2	46.2	0
+12A10031	"Syrup, malted rice"	1211	3.7	0	0	67.5	54	0
+12A10032	"Juice, apple, super concentrate, used in cooking"	852	0	0	0	50.1	50.1	45
+12A10033	"Syrup, pancake, maple-flavoured"	1294	0	0.1	0	75.8	75.3	51
+12A10035	Maltodextrin	1620	0.1	0	0	95.2	17.1	76
+12A10045	"Glucose, liquid or syrup"	1353	0	0	0	79.6	40.2	150
+12A10046	"Syrup, golden"	1325	0.2	0	0	77.7	74.9	130
+12A10047	Honey	1400	0.2	0	0	82.1	82.1	14
+12A10048	"Sugar, brown"	1649	0.2	0	0	96.8	96.8	21
+12A10049	"Sugar, raw"	1697	0	0	0	99.8	99.8	1
+12A10050	"Sugar, white, granulated or lump"	1700	0	0	0	100	100	0
+12A10051	"Sugar, white, icing"	1700	0	0	0	100	100	0
+12A10052	"Sugar, white, icing mixture"	1693	0	0	0	99.6	95.6	0
+12A10053	"Syrup, maple, pure"	1019	0	0.2	0	59.5	59.5	9
+12A10054	Fructose (fruit sugar)	1700	0	0	0	100	100	0
+12A10061	"Lactose, pure"	1700	0	0	0	100	100	0
+12A10062	"Sauce, wasabi (horseradish)"	1300	1.6	10.1	1.2	51.6	50.4	2294
+12A10063	"Syrup, molasses"	934	0	0.1	0	54.7	54.7	37
+12B10010	"Apricot, glace"	1123	0.3	0	0	65.3	65.3	1
+12B10013	"Pineapple, glace"	1132	0.4	0	0	65.7	65.7	1
+12B10021	"Fruit spread, 100% fruit, no added sugar"	556	0.7	0.1	0	31.3	30.7	10
+12B10023	"Jam, all flavours, intense sweetened with aspartame"	120	1.2	0.2	0	4.6	2.8	84
+12B10026	"Marmalade, all flavours, preserve, intense sweetened with aspartame"	71	1.2	0.1	0	2.4	1.9	33
+12B10027	"Marmalade, all flavours, preserve, intense sweetened with sucralose"	52	0.1	0.1	0	2.4	1.9	33
+12B10050	"Cherry, glace/maraschino"	1145	0.4	0	0	66.5	66.5	27
+12B10051	"Jam, apricot, preserve"	1110	0.2	0	0	64	63.9	14
+12B10052	"Jam, berry, preserve"	1169	0.3	0	0	67.3	67.2	12
+12B10053	"Jam, plum, preserve"	1119	0.2	0	0	64.6	64.5	14
+12B10055	"Marmalade, orange, preserve"	1127	0.1	0	0	65.5	65.4	33
+12B10057	"Topping, chocolate, commercial"	862	0.7	0.3	0.2	49.3	47.2	69
+12B10058	"Topping, fruit-flavoured"	795	0	0	0	46.3	44.4	35
+12B10059	"Jam, all flavours, intense sweetened with sucralose"	104	0.3	0.2	0	4.6	2.8	84
+12B10060	"Jam, all flavours, reduced sugar"	716	0.3	0	0	40.4	40.3	12
+12B10061	"Topping, butterscotch or caramel, commercial"	1148	1.5	0.3	0.2	65.3	63.2	349
+12B10062	"Topping, chocolate, intense sweetened"	39	0.7	0.3	0.2	0	0	85
+12B10063	"Topping, non-chocolate flavour, intense sweetened"	39	0.7	0.3	0.2	0	0	85
+12C10021	"Chocolate, carbohydrate-modified, intense sweetened, plain"	1242	5.4	27.8	16.9	6.8	5.5	90
+12C10023	"Chocolate, compound, milk, plain"	2252	6.2	32.4	20	55.4	53.7	90
+12C10024	"Chocolate, compound, white or caramel, plain"	2277	7.1	33.2	20.9	54.6	54.6	78
+12C10223	"Sugar confectionery, boiled"	1649	0	0	0	97	90.3	71
+12C10228	"Chocolate, compound, cooking"	2195	4	30.3	27.7	57	55.3	45
+12C10229	"Chocolate, dark, high cocoa solids"	2215	5.1	28.5	17.1	62.6	52	55
+12C10236	"Chocolate, white"	2277	7.1	33.2	20.9	54.6	54.6	78
+12C10244	"Honeycomb, plain"	1596	0.1	0	0	93.7	93.6	547
+12C10246	"Hundreds & thousands"	1674	0	0	0	98.5	94	1
+12C10249	"Licorice, plain"	1188	4.9	0.8	0.6	61.9	36.8	120
+12C10252	"Marshmallow, plain or flavoured"	1436	3.9	0	0	80.6	62	29
+12C10341	"Ginger, crystallised, sweetened & preserved"	1418	0.1	0.1	0	82.9	82.3	2
+12C10352	"Chocolate, milk, with added milk solids"	2257	7.6	30.5	18.8	56	54.6	68
+12C10360	"Bar, muesli, plain or with dried fruit"	1455	5.6	12.1	3.7	50.8	18	128
+12D10011	"Meringue, pavlova shell"	1628	2.6	1.4	0.9	90.1	89.4	40
+12D10026	"Jelly crystals, all flavours"	1690	7.1	0	0	90.7	90.7	520
+12D10027	"Jelly, made up, all flavours"	245	1	0	0	13.2	13.2	76
+12D10028	"Meringue, all flavours, commercial"	1628	2.6	1.4	0.5	90.1	89.4	40
+12D10032	Toffee	1524	0	0	0	89.6	89	26
+12D10039	"Jelly crystals, all flavours, intense sweetened"	1656	15.7	0	0	80.1	0	860
+13A10012	"Bean, purple, seeds & pod, fresh, raw"	150	3.7	0.3	0	2.7	1.1	2
+13A10013	"Bean, kidney, seeds only, fresh, raw"	565	12.8	0.4	0	14.7	1.2	3
+13A10014	"Bean, snake, seeds & pod, fresh, raw"	178	3.3	0.3	0	5.1	1.4	1
+13A10035	"Chives, Chinese, fresh, raw"	101	2.7	0.5	0.1	1	1	3
+13A10038	"Chrysanthemum, garland, fresh, raw"	68	1.7	0.4	0	0.4	0.3	32
+13A10049	"Gourd, wax, fresh, raw, peeled"	36	0.3	0	0	1	1	1
+13A10055	"Luffa, angled, fresh, raw, peeled"	66	1.2	0.1	0	1.7	1.5	0
+13A10060	"Okra, seeds & pod, fresh, raw"	116	3.1	0.2	0	1.4	1.4	2
+13A10061	"Olive, green, raw"	290	2.4	3.6	0.6	4.3	4.3	3
+13A10076	"Radish, oriental type, fresh, raw, peeled"	87	0.7	0.3	0	2.9	2.9	28
+13A10079	"Spinach, Chinese, fresh, raw"	95	2.9	0.4	0	0.3	0.2	6
+13A10161	"Ginger, peeled, boiled, no added salt"	149	0.9	0.4	0	5.3	1.9	12
+13A10173	"Pumpkin, golden nugget, peeled, boiled, drained, no added salt"	138	2.4	0.3	0	4.4	2.9	1
+13A10279	"Potato, unpeeled, dry-baked, no added fat, skin not eaten"	317	2.9	0.3	0	14.5	0.7	8
+13A10287	"Potato, new, canned, drained, no added fat"	249	2.1	0.1	0	11.6	0	335
+13A10290	"Potato, fries, par-fried in animal fat, purchased frozen, baked with no added fat"	1250	4.8	10.1	5.3	44.5	0.2	60
+13A10291	"Potato, fries, par-fried in polyunsaturated oil, purchased frozen, baked with no added fat"	1250	4.8	10.1	1.2	44.5	0.2	60
+13A10292	"Potato, fries, par-fried in canola oil, purchased frozen, baked with no added fat"	1250	4.8	10.1	0.7	44.5	0.2	60
+13A10301	"Potato, chips (straight or crinkle cut), par-fried in animal fat, purchased frozen, baked with no added fat"	1175	4.8	8.1	4.2	44.5	0.2	60
+13A10302	"Potato, chips (straight or crinkle cut), par-fried in polyunsaturated oil, purchased frozen, baked with no added fat"	1175	4.8	8.1	1	44.5	0.2	60
+13A10303	"Potato, chips (straight or crinkle cut), par-fried in canola oil, purchased frozen, baked with no added fat"	1175	4.8	8.1	0.6	44.5	0.2	60
+13A10311	"Potato, fries, par-fried in animal fat, purchased frozen"	654	3.1	6.7	3.5	19.3	0.6	19
+13A10312	"Potato, fries, par-fried in polyunsaturated oil, purchased frozen"	654	3.1	6.7	0.8	19.3	0.6	19
+13A10313	"Potato, fries, par-fried in canola oil, purchased frozen"	654	3.1	6.7	0.5	19.3	0.6	19
+13A10315	"Potato, chips (straight or crinkle cut), par-fried in animal fat, purchased frozen"	587	3.1	4.9	2.6	19.3	0.6	19
+13A10317	"Potato, chips (straight or crinkle cut), par-fried in polyunsaturated oil, purchased frozen"	587	3.1	4.9	0.6	19.3	0.6	19
+13A10318	"Potato, chips (straight or crinkle cut), par-fried in canola oil, purchased frozen"	587	3.1	4.9	0.4	19.3	0.6	19
+13A10319	"Potato, wedge, with skin, par-fried in polyunsaturated oil, purchased frozen, baked with no added fat"	1292	4.8	11	1.3	44.5	0.2	60
+13A10320	"Potato, wedge, with skin, par-fried in canola oil, purchased frozen, baked with no added fat"	1292	4.8	11	0.8	44.5	0.2	60
+13A10328	"Potato, wedge, with skin, par-fried in polyunsaturated oil, purchased frozen"	716	3.1	7.9	1	19.3	0.6	19
+13A10331	"Potato, peeled, mashed, no added ingredients"	256	2.3	0.1	0	11.8	0.4	3
+13A10344	"Potato, unpeeled, raw"	283	2.4	0.1	0	13.1	0.5	3
+13A10352	"Broccoli, Chinese, cooked, no added fat"	92	2.4	0.1	0	1.1	1.1	14
+13A10357	"Cabbage, Chinese, celery, cooked, no added fat"	134	1	2.6	0.7	0.8	0.8	20
+13A10360	"Cabbage, Chinese flowering, cooked, no added fat"	149	1.1	2.9	0.7	0.8	0.7	26
+13A10380	"Sauerkraut, cooked, no added fat"	67	1.1	0.2	0	1.1	1.1	584
+13A10401	"Radish, white, cooked, no added fat"	176	0.6	3	0.7	2.6	2.6	41
+13A10411	"Sweet potato, white flesh, dry-baked, no added fat"	433	1.8	0.1	0	22.2	5.6	17
+13A10429	"Asparagus, canned, reduced salt, drained"	93	1.9	0.1	0	1.5	1.5	119
+13A10433	"Bamboo shoot, raw"	125	2.6	0.3	0	3	1.8	4
+13A10435	"Sprout, bean, cooked, no added fat"	108	3.1	0.1	0	1.6	1	1
+13A10443	"Chives, Chinese, cooked, no added fat"	265	1.9	5.6	1.5	0.7	0.7	33
+13A10445	"Cress (mustard & cress), fresh, raw"	97	2.8	0.3	0	0.5	0.4	37
+13A10446	"Endive, cooked, no added fat"	71	1.9	0.2	0	0.5	0.4	90
+13A10458	"Rocket, fresh, raw"	118	2.6	0.7	0	2.2	1.5	27
+13A10473	"Vine leaf, cooked or canned"	109	3.6	0.2	0	0.2	0.1	2176
+13A10481	"Bean, butter, seeds & pod, canned, cooked, no added fat"	102	2.3	0.2	0.1	2.3	1.8	3
+13A10483	"Bean, kidney, seed only, cooked, no added fat"	591	12.8	0.4	0	16	1.2	3
+13A10487	"Bean, green, seeds & pod, canned, cooked, no added fat"	132	1.6	0.2	0	4	1.7	330
+13A10493	"Bean, snake, seeds & pod, cooked, no added fat"	125	3.3	0.3	0	1.6	1.4	1
+13A10501	"Pea, green, canned, no added salt, drained, cooked, no added fat"	367	5.4	0.5	0.2	11.6	3.7	4
+13A10503	"Pea, green, frozen, cooked, no added fat"	248	5	0.3	0	6.6	2.5	20
+13A10511	"Tomato, grilled, no added fat"	72	1.2	0.1	0	2.2	2.2	7
+13A10513	"Tomato, stewed"	80	1.3	0.1	0	2.4	2.4	8
+13A10517	"Tomato, canned in tomato juice, no added salt"	83	0.8	0.2	0	3.1	3.1	15
+13A10518	"Tomato, canned in tomato juice, no added salt, drained"	90	0.9	0.2	0	3.3	3.2	15
+13A10534	"Squash, spaghetti, cooked, no added fat"	134	2.9	0.2	0	3.3	3	2
+13A10550	"Chilli (chili), banana, cooked, no added fat"	75	0.9	0.2	0	2.3	2.3	4
+13A10551	"Chilli (chili), banana, fresh, raw"	68	0.8	0.2	0	2.1	2.1	4
+13A10552	"Chilli (chili), hot, thin, cooked, no added fat"	216	1.6	0.4	0	4.7	4.7	3
+13A10554	"Chilli (chili), hot, thin, fresh, raw"	195	1.4	0.4	0	4.2	4.2	3
+13A10571	"Plantain, fresh, raw"	529	1.3	0.4	0	28	5.7	4
+13A10594	"Mushroom, oyster, cooked, no added fat"	194	2.8	2.8	0.7	0.7	0.1	20
+13A10597	"Mushroom, oyster, fresh, raw"	109	3.2	0.2	0	0.8	0.2	5
+13A10598	"Mushroom, shiitake, cooked, no added fat"	142	1.6	0.2	0.1	4.8	2.4	4
+13A10601	"Seaweed, raw"	141	1.6	0.4	0.1	0.1	0.1	150
+13A10602	"Water chestnut, canned, drained"	223	0.6	0.9	0	9.3	5.1	10
+13A10652	"Pea, processed, canned, drained"	418	5.2	0.4	0	14.8	2.6	310
+13A11016	"Sprout, alfalfa, raw"	92	3.2	0.3	0.1	0.5	0.5	39
+13A11017	"Artichoke, globe, raw"	147	2.8	0.2	0	1.3	0.9	6
+13A11018	"Artichoke, globe, boiled"	172	3.3	0.2	0	1.5	1.1	7
+13A11021	"Asparagus, raw"	91	2.5	0.1	0	1.4	1.4	2
+13A11022	"Asparagus, boiled, drained"	108	2.9	0.1	0	1.6	1.6	2
+13A11023	"Asparagus, canned in brine, drained"	106	1.9	0.1	0	1.5	1.5	240
+13A11025	"Avocado, hass, raw"	857	2	21.2	5.1	0.6	0.6	4
+13A11027	"Basil, green, fresh, raw"	119	2	0.6	0.1	1.7	0	13
+13A11028	"Sprout, bean, raw"	85	2.7	0.1	0	1.4	0.9	1
+13A11029	"Bean, broad (faba or fava bean), seed only, fresh, raw"	283	6.9	0.5	0.1	5	0.7	4
+13A11030	"Bean, broad (faba or fava bean), seed only, fresh, boiled, drained"	304	7.4	0.5	0.1	5.4	0.8	3
+13A11031	"Bean, butter, fresh, raw"	106	2.3	0.2	0	2.3	1.8	3
+13A11032	"Bean, butter, fresh, boiled, drained"	114	2.5	0.2	0	2.5	1.9	2
+13A11033	"Bean, green, fresh, raw"	124	2.4	0.2	0	2.7	1.3	2
+13A11034	"Bean, green, fresh, boiled, no added salt, drained"	90	1.5	0.2	0	2.2	1.7	3
+13A11035	"Bean, green, frozen, boiled, no added salt, drained"	104	1.4	0.2	0	2.8	1.3	2
+13A11038	"Beetroot, fresh, peeled, raw"	195	1.7	0.1	0	7.7	7.7	49
+13A11039	"Beetroot, canned, drained"	211	1.3	0.1	0	9	9	279
+13A11040	"Beetroot, fresh, peeled, boiled, no added salt, drained"	210	1.9	0.1	0	8.3	8.3	51
+13A11041	"Broccoli, fresh, raw"	125	4.4	0.3	0	0.4	0.4	22
+13A11042	"Broccoli, fresh, boiled, no added salt, drained"	131	4.6	0.3	0.1	0.4	0.4	22
+13A11043	"Brussels sprout, fresh, raw"	153	3.8	0.3	0.1	2.1	2.1	30
+13A11044	"Brussels sprout, fresh, boiled, no added salt, drained"	160	4	0.3	0.1	2.2	2.2	30
+13A11046	"Cabbage, bok choy, fresh, raw"	82	2.6	0.2	0	0.6	0.6	59
+13A11047	"Cabbage, bok choy, stir-fried, no added fat"	117	3.7	0.3	0.1	0.9	0.9	85
+13A11051	"Cabbage, red, raw"	126	2.2	0.3	0.1	2.7	2.7	16
+13A11052	"Cabbage, red, boiled, no added salt, drained"	131	2.3	0.3	0.1	2.8	2.8	16
+13A11054	"Cabbage, savoy, raw"	93	1.7	0.1	0	2.3	2.3	23
+13A11056	"Cabbage, white, raw"	113	1.6	0.1	0	3.4	3.4	15
+13A11057	"Cabbage, white, boiled, no added salt, drained"	118	1.6	0.1	0	3.5	3.5	14
+13A11058	"Capsicum, green, raw"	95	1.6	0.1	0	2.5	2.5	2
+13A11059	"Capsicum, green, stir-fried, no added fat"	106	1.8	0.1	0	2.8	2.8	2
+13A11060	"Capsicum, red, raw"	111	1.5	0.2	0	3.5	3.5	2
+13A11061	"Capsicum, red, stir-fried, no added fat"	123	1.7	0.2	0	3.9	3.9	2
+13A11063	"Carrot, baby, canned in brine, boiled, drained"	112	0.6	0.1	0	4.2	4	320
+13A11065	"Carrot, mature, peeled, raw"	138	0.8	0.1	0	5	5	40
+13A11066	"Carrot, mature, peeled, boiled, no added salt, drained"	148	0.9	0.1	0	5.3	5.3	40
+13A11071	"Cassava, yellow flesh, peeled, raw"	534	1.6	0.2	0	26.7	1.2	2
+13A11072	"Cassava, yellow flesh, peeled, boiled, no added salt, drained"	574	1.7	0.2	0	28.7	1.3	2
+13A11073	"Cauliflower, raw"	101	2.1	0.2	0	1.9	1.9	31
+13A11074	"Cauliflower, boiled, no added salt, drained"	106	2.2	0.2	0	2	2	31
+13A11076	"Celeriac, peeled, raw"	128	1.6	0.2	0	2.8	2.8	21
+13A11077	"Celeriac, peeled, boiled, no added salt, drained"	138	1.7	0.2	0	3	3	21
+13A11078	"Celery, raw"	50	0.6	0.1	0	1.2	1.2	97
+13A11079	"Celery, stir-fried, no added fat"	60	0.8	0.1	0	1.5	1.5	119
+13A11080	"Chicory, raw"	68	1.8	0.2	0	0.8	0.7	36
+13A11081	"Chicory, boiled, drained"	80	2.1	0.2	0	0.9	0.8	40
+13A11082	"Chilli (chili), green, raw"	183	2.8	0.3	0.1	1	1	4
+13A11084	"Chilli (chili), red, raw"	206	1.4	0.4	0.1	4.2	4.2	3
+13A11085	"Chilli (chili), red, stir-fried, no added fat"	229	1.6	0.4	0.1	4.7	4.7	3
+13A11086	"Chives, raw"	125	1.5	0.3	0.1	2.6	2.6	7
+13A11087	"Choko, peeled, raw"	90	0.5	0.2	0	3.6	3.1	8
+13A11088	"Choko, peeled, boiled, no added salt, drained"	107	0.6	0.2	0	4.3	3.7	9
+13A11089	"Coriander, fresh, leaves & stem"	170	3.1	0.7	0.1	3.7	2.5	28
+13A11091	"Cucumber, common, peeled, raw"	53	0.4	0.1	0	2.1	2.1	21
+13A11092	"Cucumber, common, unpeeled, raw"	52	0.8	0.1	0	1.2	1.2	10
+13A11093	"Cucumber, Lebanese, unpeeled, raw"	53	0.4	0.1	0	1.9	1.9	19
+13A11095	"Eggplant, raw"	92	1	0.3	0	2.4	2.4	5
+13A11096	"Eggplant, baked, no added fat"	108	1.2	0.3	0.1	2.9	2.9	6
+13A11097	"Eggplant, boiled, no added salt,  drained"	98	1.1	0.3	0.1	2.6	2.6	5
+13A11098	"Eggplant, grilled, no added fat"	153	1.7	0.5	0.1	4.1	4.1	8
+13A11099	"Endive, raw"	59	1.5	0.2	0	0.4	0.3	76
+13A11100	"Fennel, bulb, raw"	97	1	0.1	0	3.3	3.3	38
+13A11101	"Fennel, bulb, boiled, no added salt, drained"	114	1.2	0.1	0	3.9	3.9	42
+13A11102	"Garlic, peeled, raw"	526	6.1	2.8	0.7	10.2	1.5	8
+13A11103	"Garlic, peeled, stir-fried, no added fat"	848	9.8	4.5	1.2	16.4	2.4	13
+13A11104	"Ginger, peeled, raw"	133	0.8	0.4	0.1	4.8	1.7	11
+13A11107	"Leek, raw"	129	1.9	0.4	0.1	3.3	3.3	15
+13A11108	"Lettuce, cos, raw"	82	1.4	0.3	0.1	1.8	1.8	18
+13A11109	"Lettuce, iceberg, raw"	41	1	0.1	0	0.4	0.4	26
+13A11110	"Lettuce, mignonette, raw"	65	1.3	0.3	0.1	1.1	1.1	18
+13A11111	"Melon, bitter, raw"	47	0.9	0	0	0.2	0.1	3
+13A11113	"Mixed vegetables (carrots, peas, swede, green beans, sweet corn) purchased frozen, boiled or microwaved, no added salt, drained"	214	2	0.3	0.1	6.6	3	37
+13A11114	"Mushroom, common, raw"	85	3.3	0.3	0	0.3	0.3	8
+13A11115	"Mushroom, common, stir-fried, no added fat"	160	6.2	0.5	0.1	0.5	0.5	15
+13A11116	"Mushroom, golden, Asian, canned in brine, drained"	93	2.1	0.5	0.1	0.5	0.5	300
+13A11117	"Mushroom, straw, Asian, canned in brine, drained"	88	3.1	0.3	0.1	0	0	240
+13A11118	"Onion, mature, brown skinned, peeled, raw"	132	1.7	0.1	0	4.6	4.6	11
+13A11119	"Onion, mature, white skinned, peeled, raw"	137	1.7	0.1	0	4.8	4.8	14
+13A11120	"Onion, mature, white skinned, peeled, stir-fried, no added fat"	217	2.7	0.2	0	7.6	7.6	22
+13A11121	"Onion, spring, raw"	132	1.7	0.2	0	4.6	4.5	13
+13A11122	"Onion, spring, stir-fried, no added fat"	212	2.7	0.3	0.1	7.4	7.3	21
+13A11123	"Parsley, continental, raw"	102	2.4	0.2	0	0.6	0.6	58
+13A11124	"Parsley, curly, raw"	111	2.3	0.2	0	0.5	0.5	59
+13A11125	"Parsnip, peeled, raw"	247	1.8	0.2	0	10.2	4.9	19
+13A11126	"Parsnip, peeled, baked, no added fat"	301	2.2	0.2	0	12.4	6	24
+13A11127	"Parsnip, peeled, boiled, no added salt, drained"	266	2	0.2	0	10.9	5.3	20
+13A11128	"Pea, green, fresh, raw"	305	5.9	0.4	0.1	8.3	4.1	1
+13A11129	"Pea, green, fresh, boiled, no added salt, drained"	249	4.8	0.4	0.1	6.4	2.7	1
+13A11130	"Pea, green, canned in brine, boiled, drained"	311	5.4	0.5	0.1	8.5	3.7	230
+13A11132	"Potato, sebago, unpeeled, baked in foil, no added fat"	298	2.1	0.4	0.1	13.5	0	34
+13A11147	"Potato, gems or royals, par-fried in animal fat, purchased frozen, baked with no added fat"	1078	2.6	13.2	6.8	29.1	0.3	250
+13A11148	"Potato, mashed, dry powder"	1513	7.1	5.8	2.6	64	2.4	900
+13A11150	"Potato, new, peeled, raw"	274	2.3	0.1	0	12.8	0.6	3
+13A11162	"Potato, sebago, unpeeled, baked, no added fat"	318	2.5	0.4	0.1	14.2	0.3	23
+13A11171	"Pumpkin, butternut, peeled, raw"	204	2.2	0.6	0.1	7.2	5.4	1
+13A11173	"Pumpkin, butternut, peeled, boiled, no added salt, drained"	212	2.3	0.7	0.1	7.5	5.7	1
+13A11181	"Pumpkin, Queensland blue, peeled, boiled, no added salt, drained"	222	2.1	0.3	0.1	8.8	5.1	2
+13A11185	"Shallot, peeled, raw"	108	1.6	0.2	0	3.2	3.2	54
+13A11186	"Silverbeet, raw"	71	1.6	0.2	0	1.1	1.1	212
+13A11187	"Silverbeet, boiled, no added salt, drained"	84	1.9	0.3	0	1.3	1.3	237
+13A11188	"Snowpea, raw"	154	2.9	0.2	0	4.5	2.8	1
+13A11190	"Snowpea, stir-fried, no added fat"	192	3.6	0.2	0	5.6	3.4	1
+13A11191	"Spinach, English, raw"	83	2.6	0.3	0.1	0.7	0.7	23
+13A11192	"Spinach, English, boiled, no added salt, drained"	97	3.1	0.4	0.1	0.8	0.8	26
+13A11193	"Spinach, purchased frozen, boiled, no added salt, drained"	135	3.5	0.5	0.1	0.7	0.5	100
+13A11194	"Spinach, water (ung choi), raw"	112	2.9	0.5	0.1	1	0.5	25
+13A11195	"Squash, button, raw"	126	2.7	0.2	0	3.2	2.9	1
+13A11196	"Squash, button, boiled, no added salt, drained"	150	3.2	0.2	0	3.8	3.5	1
+13A11197	"Squash, scallopini, raw"	86	2.2	0.2	0	2.1	2	9
+13A11199	"Swede, peeled, raw"	97	0.9	0	0	3.7	3.4	12
+13A11200	"Swede, peeled, boiled, no added salt, drained"	104	1	0	0	4	3.7	12
+13A11201	"Sweet potato, orange flesh, peeled, raw"	293	1.9	0.1	0	14.1	5.6	10
+13A11202	"Sweet potato, orange flesh, peeled, baked, no added fat"	358	2.3	0.1	0	17.2	6.8	12
+13A11203	"Sweet potato, orange flesh, peeled, boiled, no added salt, drained"	316	2	0.1	0	15.2	6	10
+13A11204	"Sweetcorn, fresh on cob, raw"	399	3.9	1.9	0.2	12.5	3.7	3
+13A11205	"Sweetcorn, fresh on cob, boiled, no added salt, drained"	447	4.2	2.8	0.3	12.8	5.3	105
+13A11206	"Sweetcorn, baby, canned in brine, heated, drained"	107	1.6	0.2	0.1	2.5	1.6	350
+13A11208	"Sweetcorn, canned in brine, drained"	394	2.9	1	0.1	16.8	3.5	261
+13A11210	"Sweetcorn, kernels, purchased frozen, raw"	394	3	0.9	0.1	16.8	3	5
+13A11211	"Sweetcorn, kernels, purchased frozen, boiled, no added salt, drained"	455	3.1	0.9	0.1	19.9	2.6	8
+13A11213	"Taro, peeled, raw"	471	1.9	0.2	0	23.4	1.1	6
+13A11214	"Taro, peeled, boiled, no added salt, drained"	506	2	0.2	0	25.2	1.2	6
+13A11215	"Tomato paste, with added salt"	296	3.1	0.3	0.1	10.4	9.9	630
+13A11216	"Tomato, cherry, raw"	69	0.5	0.1	0	2.2	2.2	10
+13A11217	"Tomato, common, raw"	78	1	0.1	0	2.4	2.3	8
+13A11220	"Tomato, sun-dried, in canola oil"	1153	11.2	4.6	0.3	35.2	33.9	73
+13A11221	"Tomato, whole, canned in tomato juice"	83	0.7	0.1	0	2.9	2.9	68
+13A11222	"Tomato, whole, canned in tomato juice, drained"	93	0.8	0.3	0.1	3	3	86
+13A11223	"Tomato, whole, canned in tomato juice, boiled"	99	0.8	0.3	0	3.3	3.3	67
+13A11224	"Tomato, whole, canned in tomato juice, boiled, drained"	98	0.9	0.1	0	3.5	3.4	69
+13A11225	"Turnip, white, peeled, raw"	98	1.3	0	0	3.4	3.2	24
+13A11226	"Turnip, white, peeled, boiled, no added salt, drained"	106	1.4	0	0	3.6	3.4	25
+13A11230	"Zucchini, green skin, raw"	63	0.8	0.3	0	1.6	1.6	1
+13A11231	"Zucchini, green skin, boiled, no added salt, drained"	75	1	0.3	0.1	1.9	1.9	1
+13A11232	"Zucchini, green skin, stir-fried, no added fat"	90	1.2	0.4	0.1	2.2	2.2	1
+13A11236	"Radish, white skinned, peeled, raw"	90	0.7	0.3	0	2.9	2.9	28
+13A11237	"Broccoli, fresh, stir-fried, no added fat"	153	5.4	0.3	0.1	0.5	0.5	27
+13A11238	"Carrot, mature, peeled, baked, no added fat"	168	1	0.1	0	6	6	48
+13A11243	"Broccoflower, raw"	113	3.3	0.2	0	1.1	1.1	27
+13A11257	"Potato, fries, homemade - fresh or frozen, baked, no added fat"	389	3.3	0.1	0	17.6	1.3	6
+13A11265	"Tomato paste, no added salt"	296	3.1	0.3	0.1	10.4	9.9	54
+13A11266	"Broccoflower, boiled, no added salt, drained"	131	3.7	0.3	0	1.3	1.3	28
+13A11269	"Capsicum, green, boiled or steamed, no added salt"	100	1.7	0.1	0	2.6	2.6	2
+13A11270	"Capsicum, red, boiled or steamed, no added salt"	117	1.6	0.2	0	3.7	3.7	2
+13A11272	"Carrot, mature, peeled, stir-fried, no added fat"	168	1	0.1	0	6	6	48
+13A11273	"Cauliflower, stir-fried, no added fat"	119	2.5	0.2	0	2.3	2.3	37
+13A11274	"Mushroom, common, boiled or steamed, no added salt"	129	5	0.4	0.1	0.4	0.4	11
+13A11275	"Sweet potato, orange flesh, peeled, stir-fried, no added fat"	402	2.6	0.1	0	19.3	7.7	14
+13A11277	"Onion, spring, boiled or steamed, no added salt"	146	1.9	0.2	0	5.1	5	14
+13A11278	"Onion, spring, baked or roasted, no added fat"	159	2	0.2	0	5.5	5.4	16
+13A11279	"Parsley, boiled, no added salt, drained"	126	2.8	0.3	0	0.6	0.6	65
+13A11280	"Pea, green, fresh, stir-fried with no added fat"	339	6.6	0.5	0.1	9.2	4.5	2
+13A11282	"Cabbage, white, stir-fried, no added fat"	125	1.8	0.1	0	3.8	3.8	16
+13A11283	"Sweetcorn, fresh on cob, stir-fried, no added fat"	444	4.3	2.2	0.2	13.9	4.1	3
+13A11284	"Sweetcorn, canned in brine, drained, stir-fried, no added fat"	438	3.3	1.1	0.1	18.7	3.9	291
+13A11291	"Sweetcorn, baby, canned in brine, drained, stir-fried, no added fat"	119	1.8	0.2	0.1	2.8	1.8	389
+13A11292	"Cabbage, red, stir-fried, no added fat"	139	2.4	0.3	0.1	3	3	18
+13A11294	"Potato, wedges, homemade - fresh or frozen, peeled, baked, no added fat"	412	3.5	0.1	0	18.7	1.4	6
+13A11297	"Bean, green, fresh, stir-fried, no added fat"	146	2.9	0.3	0	3.1	1.6	3
+13A11298	"Bamboo shoot, canned in water, drained, stir-fried, no added fat"	72	0.9	0	0	1.6	1	12
+13A11300	"Eggplant, stir-fried, no added fat"	122	1.4	0.4	0.1	3.3	3.3	6
+13A11301	"Leek, stir-fried, no added fat"	207	3	0.6	0.1	5.3	5.3	25
+13A11302	"Silverbeet, stir-fried, no added fat"	102	2.3	0.3	0.1	1.6	1.6	303
+13A11304	"Shallot, peeled, boiled, no added salt"	120	1.7	0.2	0	3.6	3.6	60
+13A11305	"Spinach, English, stir-fried, no added fat"	118	3.7	0.5	0.1	0.9	0.9	33
+13A11306	"Basil, green, dried"	1079	18.2	5.5	1	15.5	0	112
+13A11307	"Bamboo shoot, canned in water, heated, drained"	58	0.8	0	0	1.3	0.8	10
+13A11310	"Mixed vegetables (peas & corn), purchased frozen, boiled, no added salt, drained"	367	4.5	0.7	0.1	13	2.3	6
+13A11311	"Kale, raw"	93	1.7	0.1	0	2.3	2.3	23
+13A11312	"Kale, boiled, no added salt, drained"	96	1.8	0.1	0	2.4	2.4	23
+13A11314	"Swede, peeled, baked, no added fat"	118	1.1	0	0	4.5	4.1	15
+13A11315	"Tomato, common, stir-fried, no added fat"	105	1.3	0.1	0	3.2	3.1	10
+13A11317	"Celeriac, peeled, stir-fried, no added fat"	156	2	0.2	0	3.4	3.4	26
+13A11318	"Coriander, dried"	1304	23.8	5.4	0.9	28.5	19.2	215
+13A11319	"Mint, raw"	119	2	0.6	0.1	1.7	0	13
+13A11320	"Mint, dried"	1079	18.2	5.5	1	15.5	0	112
+13A11321	"Mixed herbs, dried"	1064	16.5	4.1	0.7	17.8	7.4	187
+13A11322	"Parsley, dried"	1130	21.5	6.3	0.3	11.7	10	450
+13A11323	"Mixed herbs, fresh"	128	2.4	0.5	0.1	1.9	0.8	28
+13A11325	"Tomato puree, no added salt"	146	1.3	0.1	0	6	4	68
+13A11327	"Turnip, white, peeled, baked, no added fat"	120	1.6	0	0	4.1	3.9	29
+13A11329	"Tomato puree, with added salt"	146	1.3	0.1	0	6	4	68
+13A11332	"Zucchini, green skin, baked, no added fat"	79	1	0.3	0.1	2	2	1
+13A11339	"Spinach, water (ung choi), stir-fried, no added fat"	160	4.1	0.7	0.1	1.4	0.7	36
+13A11358	"Potato, wedges, homemade - fresh or frozen, unpeeled, baked, no added fat"	393	2.8	0.5	0.1	17.8	0	45
+13A11361	"Seaweed, nori, dried"	1689	57.5	7.7	2.6	23.4	3.1	1048
+13A11362	"Beetroot, fresh, peeled, baked, no added fat"	238	2.1	0.1	0	9.4	9.4	60
+13A11365	"Taro, peeled, baked, no added fat"	574	2.3	0.2	0	28.5	1.3	7
+13A11366	"Taro, peeled, stir-fried, no added fat"	574	2.3	0.2	0	28.5	1.3	7
+13A11369	"Broccoli, fresh, baked, no added fat"	153	5.4	0.3	0.1	0.5	0.5	27
+13A11372	"Sweet potato, white flesh, peeled, raw"	315	1.3	0.1	0	15.9	4.8	12
+13A11373	"Sweet potato, white flesh, peeled, boiled, no added salt, drained"	339	1.4	0.1	0	17.1	5.2	12
+13A11376	"Horseradish, raw"	324	4.5	0.3	0.1	10.4	7	8
+13A11377	"Garlic, dried, powder or flakes"	1461	16.8	0.8	0.2	62.8	24.3	26
+13A11379	"Melon, bitter, boiled or steamed, no added salt"	50	1	0	0	0.2	0.1	3
+13A11381	"Okra, boiled, drained"	100	1.9	0.2	0	2.4	2.4	2
+13A11382	"Onion, dried"	1061	13.7	0.8	0.2	37.2	37.2	89
+13A11383	"Sauerkraut, canned in brine, drained"	66	1.1	0.2	0	1.1	1.1	590
+13A11384	"Seaweed, nori, poached"	563	19.2	2.6	0.9	7.8	1	332
+13A11385	"Sprout, snowpea, raw"	154	2.9	0.2	0	4.5	2.8	1
+13A11386	"Sprout, bean, stir-fried, no added fat"	100	3.1	0.1	0	1.6	1	1
+13A11388	"Potato, chips, low fat varieties, par-fried in canola oil, purchased frozen, baked with no added fat"	507	2.9	4	0.3	16.6	1.7	58
+13A11390	"Potato, wedges, low fat varieties, par-fried in canola oil, purchased frozen, baked with no added fat"	574	3.4	4.6	0.3	18.5	1.9	66
+13A11396	"Tomato, semi-dried without oil"	1038	11.2	1.5	0.4	35.2	33.9	73
+13A11397	"Potato, skins, baked, no added fat"	853	6	1.1	0.2	38.6	0	97
+13A11400	"Rosemary, Raw"	498	3.3	5.9	2.8	6.6	6.3	26
+13A11405	"Artichoke, Jerusalem, peeled, raw"	271	2.1	0.1	0	10.5	2.7	5
+13A11413	"Avocado, fuerte, raw"	994	2	25.4	4.6	0.2	0.2	2
+13A11424	"Carrot, baby, peeled, raw"	141	0.7	0.1	0	5.5	5.5	51
+13A11426	"Cassava, white flesh, peeled, raw"	647	0.6	0.3	0	34.1	1.2	2
+13A11436	"Cucumber, telegraph, unpeeled, raw"	58	1.2	0.1	0	1.4	1.4	16
+13A11437	"Cucumber, apple crystal, unpeeled, raw"	44	0.5	0.1	0	0.9	0.9	19
+13A11459	"Sweetcorn, kernels, purchased frozen, boiled in brine, drained"	395	3.1	1	0.1	16.5	2.6	110
+13A11464	"Pea, green, purchased frozen, boiled, no added salt, drained"	261	5.2	0.3	0.1	6.4	2.5	3
+13A11468	"Pumpkin, golden nugget, peeled, raw"	127	2.2	0.3	0	4	2.6	1
+13A11469	"Pumpkin, Queensland blue, peeled, raw"	213	2	0.3	0.1	8.4	4.9	2
+13A11473	"Pumpkin, jarrahdale, peeled, raw"	118	0.8	0.1	0	5	5	0
+13A11478	"Tomato, hydroponic, raw"	63	0.7	0	0	2.3	2.3	3
+13A11489	"Potato, new, peeled, boiled, no added salt"	277	2.5	0.1	0	12.8	0.4	3
+13A11490	"Potato, sebago, peeled, raw"	305	2.5	0.2	0	13.8	0.4	4
+13A11491	"Potato, sebago, unpeeled, boiled, no added salt"	262	2.2	0	0	12.2	0	5
+13A11493	"Potato, sebago, peeled, mashed, no added ingredients"	287	2.5	0.4	0	13.1	1	8
+13A11495	"Potato, pontiac, peeled, raw"	279	2.4	0.1	0	12.6	0.7	2
+13A11496	"Potato, coliban, peeled, raw"	245	2	0	0	11.5	1	4
+13A11497	"Potato, desiree, peeled, raw"	244	2.3	0	0	10.7	1.7	5
+13A11504	"Potato, chips, regular, par-fried in animal fat, purchased frozen, baked with no added fat"	1192	4.8	8.1	4.2	44.5	0.2	60
+13A11509	"Potato, chips, regular, par-fried in canola oil, purchased frozen, baked with no added fat"	1192	4.8	8.1	0.6	44.5	0.2	60
+13A11510	"Artichoke heart, canned in brine, drained"	107	1.9	0.3	0	1.2	1.1	280
+13A11516	"Bean, red, seed only, fresh, raw"	565	12.8	0.4	0.1	14.7	1.2	3
+13A11517	"Broccoli, purchased frozen, boiled, no added salt, drained"	125	2.7	0.3	0	2	1.4	19
+13A11518	"Brussels sprout, purchased frozen, boiled, no added salt, drained"	191	3.2	0.3	0	4.6	3.1	25
+13A11519	"Cabbage, Chinese flowering, raw"	72	1.3	0.3	0	0.9	0.8	13
+13A11520	"Cabbage, Chinese (napa or peking), raw"	45	1.1	0	0	0.9	0.9	6
+13A11521	"Cabbage, mustard, raw"	78	2.3	0.3	0	0.7	0.7	3
+13A11523	"Cabbage, red, canned, heated, drained"	178	1.4	0.2	0	6.7	6.2	360
+13A11533	"Watercress, raw"	112	2.9	0.4	0	0.8	0.7	48
+13A11534	"Zucchini, golden, raw"	81	2.2	0.3	0	1.1	1.1	1
+13A11539	"Kohlrabi, peeled, raw"	168	3.7	0.1	0	4.2	4.2	16
+13A11541	"Melon, hairy, raw"	63	0.7	0	0	2	1.7	2
+13A11542	"Radish, red skinned, unpeeled, raw"	64	0.8	0.2	0	1.9	1.9	20
+13A11545	"Artichoke, Jerusalem, peeled, boiled"	292	2.3	0.1	0	11.3	2.9	5
+13A11555	"Carrot, baby, peeled, boiled, no added salt, drained"	151	0.8	0.1	0	5.9	5.9	52
+13A11557	"Cassava, white flesh, peeled, boiled, no added salt, drained"	696	0.6	0.3	0	36.7	1.3	2
+13A11563	"Chilli (chili), green, stir-fried, no added fat"	204	3.1	0.3	0.1	1.1	1.1	4
+13A11568	"Ginger, peeled, stir-fried, no added fat"	216	1.3	0.6	0.1	7.7	2.7	18
+13A11575	"Onion, mature, brown skinned, peeled, stir-fried, no added fat"	213	2.8	0.2	0	7.5	7.5	17
+13A11578	"Shallot, peeled, stir-fried, no added fat"	175	2.5	0.2	0	5.2	5.2	87
+13A11581	"Pumpkin, golden nugget, peeled, baked, no added fat"	149	2.6	0.4	0	4.7	3.1	1
+13A11583	"Pumpkin, Queensland blue, peeled, baked, no added fat"	251	2.4	0.4	0	9.9	5.8	2
+13A11585	"Pumpkin, butternut, peeled, baked, no added fat"	240	2.6	0.7	0.1	8.5	6.4	1
+13A11588	"Pumpkin, jarrahdale, peeled, boiled, no added salt, drained"	123	0.8	0.1	0	5.2	5.2	0
+13A11589	"Pumpkin, jarrahdale, peeled, baked, no added fat"	139	0.9	0.1	0	5.9	5.9	0
+13A11596	"Snowpea, boiled, no added salt, drained"	165	3.1	0.2	0	4.8	3	1
+13A11597	"Potato, new, peeled, baked"	421	3.5	0.2	0	19.4	0.8	5
+13A11599	"Potato, pontiac, peeled, boiled, no added salt"	285	2.4	0.1	0	12.9	0.7	2
+13A11600	"Potato, pontiac, peeled, baked, no added fat"	423	3.6	0.2	0	19.1	1.1	3
+13A11603	"Potato, coliban, peeled, baked, no added fat"	371	3	0	0	17.4	1.5	7
+13A11605	"Potato, desiree, peeled, boiled, no added salt"	248	2.3	0	0	10.9	1.7	5
+13A11606	"Potato, desiree, peeled, baked, no added fat"	369	3.5	0	0	16.2	2.6	8
+13A11616	"Bean, red, seed only, fresh, boiled, no added salt, drained"	608	13.8	0.4	0.1	15.8	1.3	2
+13A11618	"Cabbage, savoy, boiled, no added salt, drained"	96	1.8	0.1	0	2.4	2.4	23
+13A11619	"Squash, scallopini, boiled, no added salt, drained"	102	2.6	0.2	0	2.5	2.4	10
+13A11620	"Zucchini, golden, boiled, no added salt, drained"	96	2.6	0.4	0	1.3	1.3	1
+13A11625	"Kohlrabi, peeled, boiled, no added salt, drained"	175	3.9	0.1	0	4.4	4.4	16
+13A11630	"Potato, coliban, peeled, boiled, no added salt"	235	1	0	0	11.6	0	10
+13A11664	"Flour, potato"	1509	6.9	0.5	0.2	78	3.5	55
+13A11665	"Seaweed, wakame, fresh, raw"	181	3	0.6	0.1	4.6	4.6	606
+13A20024	"Flour, soy, full fat"	1835	34.5	20.7	3	22.4	12.9	13
+13A20027	"Sprouts, bean, canned, no added salt, drained"	107	3.1	0.1	0	1.6	1	1
+13A20032	"Bean, borlotti, dried, cooked, no added fat"	645	8.7	0.6	0.2	26.3	1.4	1
+13A20033	"Bean, cannellini, dried, cooked, no added fat"	454	8.3	0.4	0.1	14.1	0.8	2
+13A20034	"Bean, broad, dried, cooked, no added fat"	372	9.2	0.7	0.1	8.6	0.9	4
+13A20036	"Bean, lima, canned, drained"	299	5.2	0.2	0	9.8	0.9	418
+13A20038	"Cowpea, dried, cooked, no added fat"	446	7.7	0.5	0.1	14.3	0.8	4
+13A20048	"Pea, blue, dried, boiled, no added fat"	250	5.5	0.4	0	6.4	0.3	3
+13A20053	"Lentil, canned, drained"	234	4.8	0.3	0	7.1	0.4	284
+13A20056	"Bean, mung,  dried, cooked, no added fat"	390	7	0.4	0.1	11.5	0.4	2
+13A20059	"Lentil, savoury brown, canned"	275	4.2	0.3	0	9.9	0.2	310
+13A20079	"Bean, cannellini, canned in brine, drained"	390	6.2	0.6	0.2	12.2	2.1	270
+13A20082	"Bean, lima, dried, boiled, no added salt, drained"	340	6.4	0.3	0.1	10.2	0.6	7
+13A20085	"Bean, red kidney, canned in brine, drained"	429	6.6	0.6	0.1	14.1	2.4	320
+13A20088	"Bean, soya, dried, soaked, boiled, no added salt, drained"	599	13.5	7.7	1.1	1.4	1.4	9
+13A20089	"Bean, soya, dried"	1677	31.3	20.2	2.9	12.5	6.7	6
+13A20090	"Bean, mixed (red kidney, lima & butter beans and chickpeas), canned in brine, drained"	413	6.4	0.4	0.1	13.8	2.5	310
+13A20091	"Chickpea, canned in brine, drained"	483	6.3	2.1	0.2	15.2	0.6	250
+13A20092	"Flour, soya, low fat"	1593	46.5	6.7	0.8	27.8	19.8	18
+13A20093	"Lentil, dried"	1272	24.5	2	0.3	38.6	1.5	5
+13A20094	"Lentil, dried, soaked, boiled, no added salt, drained"	325	6.8	0.4	0.1	9.5	0.5	8
+13A20095	"Pea, split, dried"	1372	23	2	0.2	47.9	2.5	7
+13A20096	"Pea, split, dried, soaked, boiled, no added salt, drained"	378	6.6	0.4	0	12.8	0.5	9
+13A20097	"Chickpea, canned in brine, drained, boiled, drained"	508	6.6	2.2	0.2	16	0.6	197
+13A20098	"Chickpea, dried, boiled, no added salt, drained"	483	6.3	2.1	0.2	15.2	0.6	250
+13A20099	"Bean, black, boiled, no added salt, drained"	495	8.9	0.5	0.1	15	0.6	1
+13A20100	"Bean, haricot, dried"	1211	21.9	2.2	0.3	34.8	3.5	4
+13A20101	"Bean, haricot, dried, boiled, no added salt, drained"	452	8.2	0.7	0.1	12.6	4.7	8
+13A20102	"Bean, red kidney, dried"	1241	22.5	1.8	0.3	35.6	3.4	3
+13A20103	"Bean, red kidney, dried, boiled, no added salt, drained"	366	7.9	0.5	0.1	9.1	0.6	8
+13A20105	"Bean, lima, dried"	1294	21.4	1.7	0.4	40.6	3.7	3
+13A20109	"Bean, soya, canned, drained"	425	8.6	5.5	0.8	1.9	1.9	370
+13B10220	"Mushroom, dried"	1000	38.8	3.2	0.6	3.2	3.2	91
+13B20075	"Soy beverage, regular fat, ultra high temperature"	163	1.6	3.6	0.9	0	0	76
+13B20104	"Soy beverage, powder, dry (not infant food)"	2004	21.9	26.3	3.2	36.9	11.3	180
+13B20109	"Lecithin, soy, granules"	2628	6	62.4	14.1	4.9	4.4	11
+13B20110	"Miso, soyabean paste"	823	11.7	6	1.1	21.1	6.2	3728
+13B20126	"Tofu (soy bean curd), firm, as purchased"	530	12	7.3	1	0	0	40
+13B20127	"Tofu (soy bean curd), silken or soft, as purchased"	259	7.6	2	0.3	2.6	0.8	21
+13B20129	"Soy-based, cheese"	1521	15.1	28.5	7.2	12.1	0	13
+13B20133	"Soy beverage, reduced fat (fat approximately 1.5%), unflavoured, added fibre"	233	3	1.5	0.2	6.6	2.2	44
+13B20138	"Soy beverage, reduced fat (fat approximately 1.5%), unflavoured,  added protein"	287	4.4	1.5	0.2	9.1	3.3	75
+13B20142	"Tofu (soy bean curd), firm, stir-fried with no added fat"	726	16.4	10	1.4	0	0	55
+13B20143	"Tofu (soy bean curd), firm, baked with no added fat"	623	14.1	8.6	1.2	0	0	47
+13B20144	"Tofu (soy bean curd), silken or soft, stir-fried with no added fat"	355	10.4	2.7	0.4	3.6	1.1	29
+13B20165	"Pappadam, raw"	1406	25.6	3.2	1.2	41.3	0	2850
+13B20166	"Pappadam, microwaved with no added salt or fat"	1421	25.9	3.3	1.2	41.7	0	2879
+13B20169	"Soy yoghurt, low fat (fat less than 1%), vanilla flavoured"	318	3.3	0.6	0.1	13.6	9.3	75
+13B20172	"Soy yoghurt, regular fat (fat approximately 3%), vanilla flavoured"	407	3.3	3	0.4	13.6	9.3	75
+13B20180	"Tofu (soy bean curd), smoked, as purchased"	752	17.3	9.8	1.3	4.6	0.3	750
+13B20181	"Soy bean curd skins, dried, rehydrated in boiling water"	346	8.7	3.8	0.7	2.3	0.4	54
+13B20185	"Soy beverage, regular fat (fat approximately 3%), unflavoured"	249	3.7	2.7	0.4	4.6	2.6	44
+13B20186	"Soy beverage, reduced fat (fat approximately 1%), unflavoured"	189	3	0.9	0.1	5.7	1.7	45
+13B20187	"Ice confection, tofu-based, vanilla flavour"	674	3.2	3	0.4	29.7	29.5	104
+13B20196	"Soy beverage, low fat (fat approximately 0.5%), unflavoured"	226	3.2	0.5	0.1	8.7	1.3	51
+13B20207	"Soy beverage, reduced fat (fat approximately 1.5%), unflavoured"	261	3.2	1.4	0.2	8.7	1.3	51
+14A10018	"Intense sweetener, containing aspartame, liquid"	31	1.8	0	0	0	0	0
+14A10027	"Intense sweetener, containing aspartame, powdered formulation"	1700	3	0	0	97	97	0
+14A10028	"Intense sweetener, containing aspartame, tablet"	1636	32.9	0	0	60	60	0
+14A10029	"Intense sweetener, containing aspartame & acesulfame-potassium, tablet"	1660	58	0	0	36	36	350
+14A10031	"Intense sweetener, containing saccharin, tablet"	60	0	0	0	0	0	11000
+14A10032	"Intense sweetener, containing sucralose, powdered formulation"	1683	0	0	0	99	91	2
+14A10033	"Intense sweetener, containing sucralose, tablet"	1663	10	0	0	87.8	76.9	700
+14A10042	"Intense sweetener, containing saccharin, liquid"	0	0	0	0	0	0	580
+14A10043	"D-tagatose, food additive"	1100	0	0	0	0	0	0
+14B10007	"Sodium carboxymethylcellulose, food additive (466)"	0	0	0	0	0	0	12400
+14B10014	"Hydroxypropyl distarch phosphate, food additive (1442)"	1612	0.4	0.1	0.1	94.1	0.9	146
+14B10065	"Sodium benzoate, food additive (211)"	0	0	0	0	0	0	15960
+14B10066	"Sodium nitrite, food additive (250)"	0	0	0	0	0	0	33320
+14B10067	"Sodium metabisulphite, food additive (223)"	0	0	0	0	0	0	24190
+14B10068	"Sodium nitrate, food additive (251)"	0	0	0	0	0	0	16480
+14B10069	"Sodium dihydrogen citrate, food additive (331)"	1157	0	0	0	0	0	10738
+14B10070	"Sodium tripolyphospate, food additive (451), anhydrous"	0	0	0	0	0	0	31250
+14B10071	"Sodium stearoyl lactylate, food additive (481)"	0	0	0	0	0	0	6272
+14B10072	"Monosodium l-glutamate, food additive (621), anhydrous"	0	0	0	0	0	0	12280
+14B10073	"Disodium 5tm - ribonucleotides, food additive (635), anhydrous"	0	0	0	0	0	0	11504
+14B10074	"Dextrin roasted starch, food additive (1400)"	1612	0.5	0.1	0.1	94	0	106
+14B10075	"Distarch phosphate, food additive (1412)"	1486	0.6	0.1	0.1	86.5	0.1	63
+14B10076	"Acetylated distarch adipate, food additive (1422)"	1489	0.6	0.1	0.1	86.7	0.9	153
+14B10077	"Sunset yellow FCF, food colour (FD&C yellow 6), food additive (110)"	0	0	0	0	0	0	10160
+14B10078	"Sodium sulphite, food additive (221)"	0	0	0	0	0	0	36490
+14B10079	"Indigotine, food colour (FD&C blue 2), food additive (132)"	0	0	0	0	0	0	9860
+14B10080	"Brilliant blue FCF, food colour (FD&C blue 1), food additive (133)"	0	0	0	0	0	0	5800
+14B10081	"Fast green FCF, food colour (FD&C green 3), food additive (143)"	0	0	0	0	0	0	5680
+14B10082	"Sodium propionate, food additive (281)"	0	0	0	0	0	0	23940
+14B10083	"Sodium ascorbate, food additive (301)"	0	0	0	0	0	0	11600
+14B10084	"Sodium erythorbate, food additive (316), anhydrous"	0	0	0	0	0	0	10637
+14B10086	"Lecithin, soy, from soy oil, food additive (322)"	3415	0	90	14	5	5	20
+14B10087	"Lecithin, soy, powder, food additive (322)"	3244	0	84	12	8	8	30
+14B10088	"Calcium disodium EDTA, food additive (385), anhydrous"	0	0	0	0	0	0	12290
+14B10089	"Carrageenan, food additive (407), anhydrous"	672	0	0	0	0	0	450
+14B10090	"Gum, guar, food additive (412)"	743	4.7	0.3	0	0.5	0.5	13
+14B10091	"Gum, xanthan, food additive (415)"	640	0	0	0	0	0	620
+14B10092	"Pectins, powder, unsweetened, food additive (440)"	725	0.4	0.1	0	0	0	450
+14B10093	"Erythrosine, food colour (FD&C red 3), food additive (127), anhydrous"	0	0	0	0	0	0	5230
+14B10094	"Tartrazine, food colour (FD&C yellow 5), food additive (102)"	0	0	0	0	0	0	12910
+14B10095	"Allura red, food colour (FD&C red 40), food additive (129)"	0	0	0	0	0	0	9263
+14B10096	"Baking soda, dry powder"	0	0	0	0	0	0	27380
+14B10097	"Citric acid, food additive (330), anhydrous"	1299	0	0	0	0	0	0
+14B10098	Baking powder	34	0.1	0.4	0	0	0	11800
+14B10104	"Sodium hydrogen sulphite, food additive (222)"	0	0	0	0	0	0	22094
+14B10105	"Sodium acetate, food additive [262 (1)], anhydrous"	0	0	0	0	0	0	28039
+14B10106	"Sodium lactate, food additive (325), anhydrous"	0	0	0	0	0	0	20525
+14B10107	"Sodium L-tartrate, food additive (335), anhydrous"	0	0	0	0	0	0	23690
+14B10108	"Potassium sodium L-tartrate, food additive (337), anhydrous"	0	0	0	0	0	0	10939
+14B10109	"Disodium hydrogen phosphate, food additive [339 (2)], anhydrous"	0	0	0	0	0	0	32399
+14B10110	"Sodium malate, food additive [350 (2)], anhydrous"	0	0	0	0	0	0	25826
+14B10111	"Sodium alginate, food additive (401)"	707	0	0	0	0	0	11610
+14B10112	"Tetrasodium pyrophosphate, food additive [450 (3)], anhydrous"	0	0	0	0	0	0	34594
+14B10113	"Sodium calcium polyphosphate, food additive [452 (3)]"	0	0	0	0	0	0	20313
+14B10114	"Sodium salt of fatty acids, food additive (470)"	3515	0	95	95	0	0	5000
+14B10115	"Sodium carbonate (soda ash), food additive [500 (1)], anhydrous"	0	0	0	0	0	0	43396
+14B10116	"Sodium sulphate  (salt cake), food additive [514 (1)], anhydrous"	0	0	0	0	0	0	32385
+14B10117	"Sodium aluminium phosphate, acidic, food additive [541(1)], anhydrous"	0	0	0	0	0	0	7684
+14B10118	"Sodium aluminosilicate, food additive (554)"	0	0	0	0	0	0	67133
+14B10119	"Disodium 5-guanylate, food additive (627), anhydrous"	0	0	0	0	0	0	11297
+14B10120	"Disodium 5-inosinate, food additive (631), anhydrous"	0	0	0	0	0	0	11730
+14B10121	"Starch sodium octenylsuccinate, food additive (1450)"	1640	0	0	0	96.5	0	500
+14B10122	"Acetic acid, food additive (260)"	1300	0	0	0	0	0	0
+14B10156	"Erythritol, food additive (968)"	100	0	0	0	0	0	0
+14B10157	"Glycerol, food additive (422)"	1800	0	0	0	0	0	0
+14B10158	"Isomalt, food additive (953)"	1100	0	0	0	0	0	0
+14B10159	"Lactitol, food additive (966)"	1100	0	0	0	0	0	0
+14B10160	"Maltitol, food additive (965)"	1300	0	0	0	0	0	0
+14B10161	"Mannitol, food additive (421)"	900	0	0	0	0	0	0
+14B10162	"Xylitol, food additive (967)"	1400	0	0	0	0	0	0
+14B10163	"Sorbitol, food additive (420)"	1400	0	0	0	0	0	0
+14B10164	"Tartaric acid, food additive (334)"	1300	0	0	0	0	0	0
+14B10165	"Polydextroses, food additive (1200)"	500	0	0	0	0	0	0
+15A10894	"Candle nut, kernel, raw (Aleurites moluccana)"	2159	7.8	49.9	5.4	8.6	6.1	14
+15A10895	"Candle nut, kernel cooked (Aleurites moluccana)"	2821	20.6	61.9	6.7	8.4	6	4
+15A10897	"Bungwall fern, tuber (Blechum indicum)"	1414	3.9	0.2	0	76.7	20.4	409
+15A10898	"Kalumburu yam, tuber, raw (Dioscorea sp.)"	545	0.7	0.6	0	28.7	7.6	9
+15A10899	"Yam daisy, root (Microseris scapigera)"	334	1.7	0.8	0	11.9	3.2	20
+15A10900	"Bracken fern, root (Pteridium esculentum)"	378	0.8	0.3	0	12.9	3.4	30
+15A10901	"Peanut tree, nut (Sterculia quadrifida)"	1276	12.3	16.4	1.8	25.6	18.2	22
+15A10902	"Indian almond, nut (Terminalia catappa)"	2606	20	55.8	6	9.8	7	18
+15A10903	"New Zealand spinach, leaves, raw (Tetragonia tetragonoides)"	84	1.7	0.3	0.1	0.8	0.8	590
+15A10904	"Lillypilly, fruit (Acmena smithii)"	101	0.3	0.1	0	4.9	4.9	22
+15A10905	"Wild ginger, fruit (Alpinia caerulea)"	558	2.2	2.5	0.2	21.7	21.7	3
+15A10906	"Midjin, fruit (Austromyrtus dulcis)"	282	0.9	0.3	0	8.6	8.6	70
+15A10907	"Kangaroo vine, fruit (Cissus antarctica)"	221	0.2	0.4	0	9.5	9.5	12
+15A10908	"Davidson plum, fruit (Davidsonia pruriens)"	123	0.4	0.9	0	2.4	2.4	2
+15A10909	"Cedar bay cherry, fruit (Eugenia reinwardtiana)"	401	1.9	0.3	0	16.6	16.6	14
+15A10910	"Wild fig, fruit (Ficus platypoda)"	486	3	2.1	0.1	16.1	16.1	56
+15A10911	"Burdekin plum, fruit (Pleiogynium timorense)"	297	1.3	1.3	0.1	4.7	4.7	47
+15A10912	"Illawarra plum, fruit (Podocarpus elatus)"	175	0.2	0.2	0	7.6	7.6	5
+15A10913	"Quandong, fruit (Santalum acuminatum)"	465	2.3	0.2	0	22.6	22.6	62
+15A10914	"Riberry, fruit (Syzygium leuhmanii)"	239	0.9	0.4	0	9.1	9.1	11
+15A10922	"Lemon myrtle (Backhousia citriodora), leaf, dried, ground"	683	8.3	1.8	0.5	1.8	1.8	33
+15A10923	"Bush tomato (Solanum centrale), fruit, dried"	998	10.3	6	1.5	29.2	29	0
+15A10924	"Kakadu plum (Terminalia ferdinandiana), fruit"	116	1	0	0	2.5	2.5	21
+15A10925	"Finger lime (Citrus australasica), fruit"	144	1.6	1	0.2	1.3	1.2	1.1
+15A10926	"Desert lime (Citrus glauca), fruit"	198	0.1	2.7	1	4	4	4
+15A10927	"Anise myrtle (Syzygium anisatum), leaf, dried,  ground"	695	8.1	1.8	0.5	3.6	3.6	69
+15A10928	"Native pepper (Tasmannia lanceolata), berry, dried"	1073	4.8	6.7	0.6	24	24	39
+15A10929	"Native pepper (Tasmannia lanceolata), leaf, dried, ground"	749	7.4	4.5	1.5	2.7	2.5	77
+15A10930	"Lemon aspen (Acronychia acidula or Acronychia subarosa), fruit juice"	120	2	0.9	0.2	1.9	1.9	0
+15A10931	"Satinash (Syzygium fibrosum), fruit"	46	0.4	0	0	1.6	1.4	15
+15A10932	"Saltbush (Atriplex nummularia), leaf, fresh"	111	3.6	0.3	0	0.1	0	630
+15A10933	"River mint (Mentha australis), leaf, fresh"	130	4.1	0	0	0.6	0.5	96
+15A10934	"Sea Parsley (Apium prostatum), leaf, fresh"	110	2.5	0.3	0	1.5	1.4	290
+15A10935	"Olida (Eucalyptus olida), leaf, dried, ground"	784	9.4	4.8	0.9	4.4	4.1	160
+15A40031	"Witchetty grub, raw (Cossidae sp.)"	1030	16.2	19.4	5.7	2.2	2.2	12
+15A40032	"Witchetty grub, cooked in hot wood ash (Cossidae sp.)"	1318	14.7	25.1	7.3	8.2	8.2	28
